@@ -1,0 +1,119 @@
+Detección de Necesidades (Necesidades a Satisfacer)
+A partir del problema identificado en los salones de belleza de Managua, donde el análisis capilar se realiza de forma manual y visual, se ha detectado que los actores involucrados (estilistas, dueños de salones y clientes) tienen las siguientes necesidades urgentes que el proyecto debe satisfacer:
+
+1. Necesidad de estandarizar el diagnóstico:
+Hace falta un método paso a paso que guíe al estilista. Se necesita que, sin importar qué profesional atienda al cliente, se evalúen siempre los mismos criterios técnicos (porosidad, elasticidad, densidad y estado del cuero cabelludo) para evitar diagnósticos basados en suposiciones.
+
+2. Necesidad de un registro digital (Trazabilidad):
+Existe la necesidad de crear un "expediente capilar" para cada cliente. Los salones requieren una herramienta que les permita guardar la información de diagnósticos pasados para comparar resultados, ver si el cabello ha mejorado y saber exactamente qué procedimientos químicos se le han aplicado anteriormente.
+
+3. Necesidad de precisión en la recomendación de productos:
+Se requiere un sistema que elimine las dudas al momento de recomendar un tratamiento. Hace falta una herramienta que cruce los datos del diagnóstico con los productos disponibles en el salón, sugiriendo la mejor opción de forma automática y precisa, lo que también ayuda a incrementar las ventas del local.
+
+4. Necesidad de profesionalizar el servicio frente al cliente:
+El cliente de hoy necesita sentir seguridad y transparencia en el servicio por el que paga. Hace falta entregarle un respaldo físico o digital (como un reporte en PDF) que le explique claramente el estado de su cabello y por qué se le está recomendando cierto producto, dándole un valor agregado y muy profesional a la consulta.
+
+1. Planteamiento del Problema
+Descripción de la situación actual
+En la actualidad, el sector de salones de belleza y cuidado capilar en la ciudad de Managua enfrenta un reto operativo importante: el diagnóstico del cabello se realiza de manera empírica, visual y manual. El proceso depende casi exclusivamente de la experiencia, la memoria y el criterio subjetivo del estilista de turno.
+
+Aunque los profesionales de la belleza poseen conocimientos técnicos, la falta de un método estandarizado y de herramientas tecnológicas en el punto de atención genera varios síntomas negativos:
+
+Subjetividad: Dos estilistas pueden evaluar el mismo cabello y llegar a conclusiones diferentes, lo que genera inconsistencias en el servicio.
+
+Falta de registro: No se lleva un historial clínico-cosmético del cliente. Si una persona regresa después de tres meses, el estilista no tiene cómo comprobar con datos exactos si la porosidad o elasticidad del cabello mejoró o empeoró.
+
+Recomendaciones genéricas: Al no tener un análisis preciso que cruce múltiples variables (como el impacto del clima tropical y la humedad de la ciudad sobre el cabello), la recomendación de productos suele ser imprecisa o basada en preferencias comerciales, y no en la necesidad real de la hebra capilar.
+
+Pronóstico (¿Qué pasa si no se resuelve?)
+De continuar con esta forma de trabajo manual, los salones de belleza especializados perderán competitividad. La falta de personalización y seguimiento disminuirá la confianza del cliente, afectará la venta cruzada de productos capilares y limitará la capacidad del salón para ofrecer un servicio verdaderamente profesional y moderno.
+
+Control al pronóstico (La solución propuesta)
+Para solucionar esto, surge la necesidad de implementar un sistema tecnológico que actúe como un asistente para el estilista. Una herramienta que tome los datos observados, los procese mediante reglas lógicas y devuelva un diagnóstico exacto, un registro digital permanente y una recomendación automatizada de productos.
+
+Formulación del Problema (La pregunta central)
+(Nota: Todo planteamiento de problema en esta metodología debe cerrar con una pregunta de investigación).
+
+¿De qué manera el desarrollo de una aplicación móvil/web puede estandarizar el diagnóstico capilar, automatizar la recomendación de productos y gestionar el historial de los clientes en los salones de belleza?
+
+
+1. Identificación y Definición del Problema
+Problema Central Identificado:
+
+El proceso de diagnóstico capilar en los salones de belleza de Managua se realiza de forma manual, empírica y sin un registro estructurado, lo que provoca evaluaciones inconsistentes, recomendaciones imprecisas de productos y la pérdida del historial de los clientes.
+
+Para entender a fondo esta situación, se han desarrollado dos herramientas de análisis: la Matriz de Actores (para saber a quiénes afecta) y la Matriz del Problema (para entender por qué ocurre).
+
+1.1. Matriz de Actores (Involucrados)
+Esta matriz identifica a las personas o grupos que interactúan con el problema y cómo les afecta la situación actual:
+Actor Involucrado,¿Cómo le afecta el problema actual?,¿Qué espera de la solución (La App)?
+Estilistas / Profesionales,"Pierden tiempo evaluando ""al ojo"" y dudan al recomendar productos complejos.",Una herramienta fácil de usar que los guíe y respalde sus decisiones técnicas.
+Clientes finales,"Reciben diagnósticos subjetivos, no entienden qué le pasa a su cabello y no ven resultados.","Claridad, confianza y un reporte profesional que les explique qué necesitan comprar."
+Dueños de Salones,Pierden ventas de productos porque la recomendación no es precisa. No tienen base de datos de sus clientes.,"Digitalizar su salón, fidelizar clientes con historiales y aumentar la venta de productos."
+
+1.2. Matriz del Problema
+Esta herramienta resume de forma estructurada las causas que originan el problema y los efectos negativos que este produce, sirviendo como base para el Árbol de Problemas:
+Causas (¿Por qué ocurre?),Problema Central,Efectos (¿Qué consecuencias trae?)
+Falta de herramientas tecnológicas accesibles en el punto de atención.,"El diagnóstico capilar se realiza de forma empírica, visual y sin sistema de registro.",Inconsistencias en la evaluación (diferentes criterios entre estilistas).
+Inexistencia de un método estandarizado para analizar la hebra capilar.,,Pérdida de la información y falta de seguimiento a la evolución del cliente.
+Dependencia exclusiva de la memoria y el criterio subjetivo del estilista.,,Recomendaciones imprecisas que reducen la venta de productos capilares.
+
+🌳 Árbol de Objetivos
+El Árbol de Objetivos representa la situación esperada una vez que el problema haya sido solucionado mediante la implementación de la aplicación. Convierte los aspectos negativos de la situación actual en estados positivos y alcanzables.
+
+1. El Tronco (Objetivo Central)
+
+Estandarizar y digitalizar el proceso de diagnóstico capilar en los salones de belleza mediante un sistema de registro estructurado.
+
+2. Las Raíces (Los Medios - ¿Cómo lo vamos a lograr?)
+
+Medio 1: Proveer herramientas tecnológicas accesibles (app web/móvil) para el análisis capilar en el punto de atención.
+
+Medio 2: Implementar un método estandarizado e interactivo para evaluar las características de la hebra capilar (porosidad, elasticidad, etc.).
+
+Medio 3: Utilizar un sistema lógico basado en reglas para apoyar la toma de decisiones y reducir la dependencia exclusiva de la memoria del estilista.
+
+3. Las Ramas (Los Fines - ¿Para qué lo vamos a lograr?)
+
+Fin 1: Obtener evaluaciones consistentes y precisas, garantizando el mismo estándar de calidad sin importar qué estilista atienda al cliente.
+
+Fin 2: Asegurar la trazabilidad de la información mediante un historial digital permanente para cada cliente.
+
+Fin 3: Generar recomendaciones exactas y personalizadas de productos, mejorando la confianza del cliente y aumentando las ventas del salón.
+
+
+Objetivos del Proyecto
+Objetivo General
+
+Desarrollar una aplicación web/móvil que permita estandarizar y digitalizar el proceso de diagnóstico capilar mediante un sistema basado en reglas, con el fin de automatizar la recomendación de productos y gestionar el historial de los clientes en los salones de belleza.
+
+Objetivos Específicos
+Para lograr el objetivo general, el proyecto se dividirá en las siguientes metas específicas:
+
+Diseñar el modelo lógico y el sistema basado en reglas de tricología (porosidad, elasticidad, densidad) para asegurar una evaluación objetiva y estructurada de la hebra capilar.
+
+Crear una base de datos centralizada que permita el almacenamiento seguro de los diagnósticos, garantizando la trazabilidad y el historial clínico-cosmético de cada cliente.
+
+Desarrollar un módulo de procesamiento que cruce los resultados del diagnóstico con el inventario del salón, para generar recomendaciones de productos precisas y personalizadas.
+
+Implementar una función de generación automática de reportes en formato PDF, que sirva como respaldo profesional y entregable de valor para el cliente final.
+
+Diseñar una interfaz de usuario (UI) intuitiva y de fácil uso, que facilite el ingreso de datos por parte del estilista en el punto de atención sin interrumpir su flujo de trabajo.
+
+Matriz de Alternativas de Solución
+Para resolver el problema del diagnóstico capilar empírico en los salones de belleza, se plantearon tres posibles alternativas de solución:
+
+Alternativa A: Capacitación técnica intensiva y uso de fichas clínicas impresas (papel).
+
+Alternativa B: Creación de plantillas automatizadas con macros en Excel / Google Sheets.
+
+Alternativa C: Desarrollo de una Aplicación Web/Móvil con un sistema basado en reglas y base de datos en la nube (El Proyecto).
+
+A continuación, se evalúan estas alternativas bajo cinco criterios fundamentales para el entorno de un salón de belleza:
+"Criterios de Evaluación (1=Bajo, 2=Medio, 3=Alto)",Alt. A (Fichas de Papel),Alt. B (Plantillas Excel),Alt. C (App Web/Móvil)
+Facilidad de uso durante la atención al cliente,3,1,3
+Capacidad de almacenamiento e historial (Trazabilidad),1,2,3
+Automatización en la recomendación de productos,1,2,3
+Impacto visual y profesionalismo frente al cliente (PDF),1,2,3
+Viabilidad técnica de escalar a múltiples salones,1,2,3
+Puntaje Total,7 puntos,9 puntos,15 puntos
