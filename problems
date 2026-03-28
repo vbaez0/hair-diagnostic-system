@@ -117,3 +117,108 @@ Automatización en la recomendación de productos,1,2,3
 Impacto visual y profesionalismo frente al cliente (PDF),1,2,3
 Viabilidad técnica de escalar a múltiples salones,1,2,3
 Puntaje Total,7 puntos,9 puntos,15 puntos
+
+Selección y Justificación de la Alternativa
+Como se observa en la matriz, la Alternativa C (Aplicación Web/Móvil) es la solución seleccionada.
+
+¿Por qué ganó esta alternativa?
+Aunque las fichas de papel (Alt. A) son fáciles de usar, no resuelven la pérdida de información ni automatizan las ventas. Por otro lado, un Excel (Alt. B) puede guardar datos, pero es incómodo de usar en un celular mientras el estilista revisa el cabello y no genera una experiencia "Premium" para el cliente.
+
+La Aplicación (Alt. C) es la única que integra la rapidez que necesita el estilista, el almacenamiento seguro (historial) y la generación de un diagnóstico estandarizado y elegante que justifica la recomendación de productos.
+
+2. Definición del Proyecto
+2.1. El Proceso de Definición (¿Qué es el proyecto?)
+El proyecto consiste en el diseño y desarrollo de una aplicación web/móvil enfocada en el diagnóstico capilar. Este sistema tecnológico funcionará como un asistente virtual para los estilistas en los salones de belleza de Managua. Mediante un sistema basado en reglas lógicas, la aplicación procesará las características del cabello evaluadas por el profesional (porosidad, elasticidad, etc.) para generar un diagnóstico estandarizado, almacenar el historial clínico-cosmético del cliente en la nube y recomendar automáticamente los productos adecuados para su tratamiento.
+
+2.2. Beneficiarios del Proyecto (¿A quién le sirve?)
+Los beneficios de la implementación de este software se dividen en dos niveles:
+
+Beneficiarios Directos: * Los estilistas: Porque contarán con una herramienta que facilita su trabajo, respalda su conocimiento y les ahorra tiempo.
+
+Los dueños de salones de belleza: Porque podrán digitalizar su negocio, aumentar la venta de productos capilares gracias a las recomendaciones automáticas y llevar un control exacto de su base de clientes.
+
+Beneficiarios Indirectos: * Los clientes finales: Porque recibirán un servicio más profesional, transparente y personalizado, con resultados reales para la salud de su cabello.
+
+Distribuidores de marcas capilares: Porque la app fomentará la venta técnica y justificada de sus productos en los salones.
+
+2.3. Definición e Identificación de la Población Objetivo (¿Quién es nuestro mercado?)
+La población objetivo directa (quienes usarán y pagarán por el sistema) está compuesta por los salones de belleza, centros de estética y clínicas de tricología ubicados en la ciudad de Managua, Nicaragua. Específicamente, el proyecto se enfoca en aquellos establecimientos de nivel medio-alto que buscan modernizar sus procesos, mejorar la experiencia de servicio al cliente y que cuentan con conexión a internet y dispositivos móviles (tablets o smartphones) para su personal.
+
+2.4. Entidad Ejecutora (¿Quién hace el proyecto?)
+El diseño, desarrollo y evaluación de este proyecto será ejecutado por [Aquí escribes tu nombre o el nombre de tu equipo de trabajo], en calidad de desarrollador(es) e investigador(es), bajo la supervisión académica de [Aquí puedes poner el nombre de tu universidad o facultad].
+
+2.5. Productos o Servicios a Ofrecer (¿Qué entregamos exactamente?)
+El proyecto no es solo "una app", sino un ecosistema de servicios. Los productos tangibles y digitales a ofrecer son:
+
+Software de Diagnóstico (App Web/Móvil): Interfaz para el ingreso de datos capilares y sistema de reglas para el análisis.
+
+Expediente Digital del Cliente (Base de datos): Servicio de almacenamiento en la nube con el historial de visitas, diagnósticos previos y químicos aplicados a cada cliente.
+
+Reportes Profesionales (PDF): Generación automática de un documento descargable que el salón le puede enviar al cliente por WhatsApp o correo, explicando el estado de su cabello.
+
+Módulo de Recomendación Comercial: Un motor que sugiere qué producto (champú, mascarilla, tratamiento) debe comprar el cliente según su diagnóstico específico.
+
+Necesidades a Satisfacer
+El desarrollo y la implementación de esta aplicación tecnológica surgen para dar respuesta a las siguientes necesidades latentes en el sector de los salones de belleza:
+
+Necesidad de estandarización técnica:
+Los salones necesitan un método uniforme e interactivo que guíe al estilista paso a paso durante la evaluación (porosidad, elasticidad, daño químico). Esto garantiza que todos los clientes reciban el mismo nivel de calidad en su diagnóstico, sin importar qué profesional los atienda.
+
+Necesidad de registro e historial (Trazabilidad):
+Los establecimientos requieren con urgencia una base de datos digital para crear un "expediente capilar". Necesitan guardar la información de diagnósticos pasados para comparar resultados, monitorear la evolución del cabello y tener un registro exacto de los procesos químicos aplicados anteriormente.
+
+Necesidad de precisión comercial (Recomendación de productos):
+Existe la necesidad de eliminar las dudas y el "ensayo y error" al momento de recomendar un tratamiento. Se requiere un sistema inteligente que cruce los datos del cabello con el inventario del salón, sugiriendo el producto exacto que el cliente necesita comprar, lo cual impulsa directamente las ventas del negocio.
+
+Necesidad de transparencia y profesionalismo hacia el cliente:
+El consumidor actual es exigente y necesita entender por qué se le recomienda un tratamiento. Existe la necesidad de entregarle al cliente un respaldo visual y profesional (como un reporte en PDF generado por la app) que justifique el servicio y aumente su confianza en el salón.
+
+Objetivo del Proyecto
+Desarrollar e implementar una solución tecnológica (aplicación web/móvil) que digitalice y estandarice el proceso de diagnóstico capilar en los salones de belleza de Managua, permitiendo la creación de un registro histórico para cada cliente y automatizando la recomendación de productos y tratamientos a través de un sistema basado en reglas lógicas.
+
+Justificación del Proyecto
+La creación y desarrollo de esta aplicación se justifica desde tres perspectivas fundamentales que aportan valor tanto al negocio como al consumidor final:
+
+Justificación Técnica: El proyecto moderniza el sector de la belleza al sustituir un método visual y empírico por un sistema basado en reglas lógicas. Esto garantiza diagnósticos precisos, estandarizados y permite, por primera vez, tener un registro histórico (trazabilidad) del estado del cabello de cada cliente.
+
+Justificación Económica: Para los salones de belleza, la aplicación funciona como una poderosa herramienta de ventas. Al generar recomendaciones exactas respaldadas por un reporte en PDF, se incrementa la confianza del cliente, lo que se traduce directamente en un aumento en la venta de productos capilares y tratamientos dentro del local.
+
+Justificación Social y de Servicio: Eleva el estándar de calidad en la atención. El cliente deja de recibir un trato genérico y pasa a tener una experiencia personalizada, transparente y profesional, mejorando en última instancia la salud de su cabello.
+
+Metodología para la Elaboración del Proyecto
+El proyecto se desarrollará combinando dos enfoques metodológicos complementarios:
+
+Metodología de Formulación de Proyectos: Para la estructuración, viabilidad y evaluación del proyecto como negocio, se utilizarán los lineamientos de Marcial Córdoba Padilla, dividiendo el estudio en fases lógicas (Análisis del Entorno, Estudio de Mercado, Estudio Técnico y Estudio Financiero).
+
+Metodología de Desarrollo de Software (Ágil): Para la creación de la aplicación, se utilizará un enfoque de desarrollo iterativo dividido en cuatro fases clave:
+
+Análisis y Diseño: Definición de las reglas del diagnóstico y diseño de las pantallas (UI/UX).
+
+Desarrollo: Programación de la base de datos en la nube y codificación del algoritmo de recomendación.
+
+Pruebas (Testing): Validación del sistema para asegurar que no haya errores al generar los reportes en PDF.
+
+Implementación Piloto: Despliegue de la aplicación en un entorno real (salón de belleza) para medir la adopción por parte de los estilistas.
+
+Matriz del Marco Lógico
+El Marco Lógico es la herramienta que resume todo el proyecto de forma estructurada, mostrando qué queremos lograr, cómo lo vamos a medir y qué riesgos existen.
+
+Resumen Narrativo,Indicadores (¿Cómo lo medimos?),Medios de Verificación (¿Dónde está la prueba?),Supuestos / Riesgos (¿Qué podría salir mal?)
+Fin (Impacto a largo plazo): Mejorar la calidad del servicio y la rentabilidad de los salones de belleza en Managua.,Aumento en el porcentaje de ventas de productos capilares en los salones que usan la app.,Reportes financieros y de ventas de los salones de belleza.,Los clientes tienen disposición a invertir en los productos recomendados.
+Propósito (Objetivo Central): Estandarizar el diagnóstico capilar mediante la aplicación web/móvil y su base de datos.,1 aplicación completamente funcional utilizada para generar diagnósticos diarios.,Estadísticas de uso en el panel de administrador y PDF generados.,Los estilistas adoptan la herramienta y no hay resistencia al cambio tecnológico.
+Componentes (Entregables):1. App desarrollada.2. Base de datos activa.3. Algoritmo de recomendación funcional.,100% de los módulos operativos según los requerimientos técnicos iniciales.,Repositorio de código y software instalado en los dispositivos.,Hay conexión a internet estable en los salones para acceder a la nube.
+Actividades:- Diseñar la interfaz.- Programar las reglas lógicas.- Configurar la base de datos.- Realizar pruebas con estilistas.,Cumplimiento de los tiempos establecidos en el cronograma de trabajo.,Cronograma de avance (Diagrama de Gantt) y actas de pruebas.,Se cuenta con el tiempo y los recursos tecnológicos para programar la app.
+
+Productos o Servicios a Ofrecer
+El desarrollo de este proyecto generará un ecosistema tecnológico compuesto por los siguientes productos y servicios digitales, diseñados específicamente para los salones de belleza:
+
+Aplicación Web/Móvil de Diagnóstico Capilar: El producto principal es la interfaz de usuario (software) donde el estilista ingresará los datos visuales y táctiles del cabello del cliente (como nivel de porosidad, elasticidad, densidad y estado del cuero cabelludo) mediante un formulario guiado e intuitivo.
+
+Motor de Recomendación Automatizada (Servicio Lógico):
+Un sistema interno basado en reglas de tricología que procesa los datos ingresados y cruza la información para sugerir, de forma automática y precisa, los tratamientos y productos específicos que necesita el cliente.
+
+Generador de Reportes Profesionales (PDF):
+Un servicio integrado que transforma los resultados del diagnóstico en un documento digital (PDF) elegante y fácil de entender. Este producto es el entregable final que el salón puede imprimir o enviar por WhatsApp al cliente para respaldar la venta de productos.
+
+Expediente Digital en la Nube (Base de Datos):
+Un servicio de almacenamiento que crea un perfil único para cada cliente. Actúa como un historial clínico-cosmético donde se guardan los diagnósticos previos y los procedimientos químicos aplicados, permitiendo al salón llevar un seguimiento exacto de la evolución capilar a lo largo del tiempo.
