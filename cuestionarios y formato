@@ -1,0 +1,65 @@
+10.1. Especificación de la Información Requerida
+El primer paso del diseño consistió en traducir las necesidades de información del Problema de Investigación de Mercados (PIM) definido en el Capítulo II y los hallazgos exploratorios del Capítulo V en variables medibles.
+El instrumento definitivo consta de 11 preguntas y se diseñó para recolectar datos sobre tres ejes fundamentales:
+
+El problema operativo actual: El nivel de vulnerabilidad del registro en papel o fotografía y la dificultad para recordar historiales de clientes.
+
+La validación del producto: La intención de adopción de la app y la valoración jerárquica de sus funciones nucleares (expediente digital y reporte en PDF).
+
+Las variables comerciales y financieras: La sensibilidad al precio mediante la evaluación contrastada de dos modelos de liquidez: pago recurrente (SaaS) versus licencia perpetua (pago único de alto valor).
+
+10.2. Tipo de Método de Entrevista
+Siguiendo la clasificación de Malhotra, se seleccionó el método de entrevistas electrónicas autoadministradas, utilizando la plataforma digital Google Forms para la distribución del cuestionario a través de enlaces directos por WhatsApp y correo electrónico.
+
+Esta elección metodológica se justifica por tres razones:
+
+Eliminación del sesgo del entrevistador: Al ser autoadministrado, las respuestas de los estilistas no se ven influenciadas por la presencia del investigador.
+
+Optimización del tiempo: Permite a los administradores responder de forma flexible durante los tiempos muertos de su jornada laboral sin interrumpir la atención al cliente.
+
+Velocidad y costo: Facilita la recolección de datos en tiempo real, agilizando la posterior codificación estadística.
+
+10.3. Contenido de las Preguntas Individuales: Superación de Barreras
+Malhotra advierte que un cuestionario puede fallar si el encuestado es incapaz o no está dispuesto a responder. En este diseño se aplicaron estrategias específicas para superar ambos obstáculos:
+
+Superación de la incapacidad para responder: Se eliminaron términos técnicos informáticos (ej. "arquitectura SaaS") y se tradujeron a un lenguaje comercial comprensible ("suscripción mensual económica"). Asimismo, para evaluar la disposición de pago (Preguntas 7 y 8), se utilizaron rangos predefinidos en lugar de preguntas abiertas, evitando que el encuestado deba realizar cálculos mentales complejos.
+
+Superación de la indisposición para responder: Admitir desorganización o fallas en la memoria (Pregunta 3) puede generar resistencia por deseabilidad social. Para mitigar esto, el instrumento inicia con una cláusula explícita de confidencialidad, asegurando el anonimato total.
+
+10.4. Elección de la Estructura de las Preguntas
+La fase cualitativa arrojó un hallazgo crítico: "los estilistas trabajan contrarreloj y no tienen tiempo de escribir". En estricta concordancia con este insight y los lineamientos de Malhotra, se descartaron por completo las preguntas abiertas y se optó por un diseño 100% estructurado.
+
+Las 11 preguntas se estructuraron de la siguiente manera:
+
+Preguntas Dicotómicas: Utilizadas en la sección de filtro (Pregunta 1) para una clasificación binaria (Sí / No).
+
+Preguntas de Opción Múltiple: Empleadas para categorizar las herramientas actuales (Pregunta 2), el modelo de pago preferido (Pregunta 6) y los datos demográficos (Preguntas 9, 10 y 11).
+
+Preguntas de Escala de Intervalo (Likert y Precios): Utilizadas para medir la dificultad operativa (Pregunta 3), el interés de adopción (Pregunta 4) y los rangos de sensibilidad al precio (Preguntas 7 y 8), utilizando intervalos mutuamente excluyentes para garantizar una tabulación precisa.
+
+Preguntas de Escala Ordinal (Jerarquización): Aplicadas en la Pregunta 5 para que el encuestado ordene del 1 al 4 las funcionalidades de la aplicación, permitiendo identificar matemáticamente la prioridad del mercado.
+
+10.5. Elección de la Redacción de las Preguntas
+Cada ítem fue revisado para evitar sesgos de formulación:
+
+Uso de palabras sencillas: Se empleó el vocabulario común del gremio estético en Nicaragua.
+
+Evitar alternativas implícitas: En la Pregunta 6, las opciones muestran explícitamente todas las rutas comerciales posibles (mensual, anual, pago único o gratuito con publicidad) para que ninguna alternativa quede asumida.
+
+Uso del "Anclaje de Valor": En las preguntas financieras (Sección D), la redacción contextualiza primero los beneficios de la aplicación antes de solicitar el rango de precio, preparando psicológicamente al encuestado para evaluar el costo como una inversión.
+
+10.6. Determinación del Orden de las Preguntas (Efecto Embudo)
+El cuestionario sigue una secuencia lógica estricta que va de lo general a lo específico (Efecto Embudo), organizado en cinco secciones para evitar tasas de abandono:
+
+Sección A (Pregunta de Filtro): Ubicada al inicio para descartar a sujetos fuera de la población meta (salones en Managua).
+
+Sección B (Situación Actual - Preguntas 2 y 3): Explora los métodos de registro actuales y el reconocimiento del problema de manera no amenazante.
+
+Sección C (Evaluación de la Solución - Preguntas 4 y 5): Mide la aceptación de la aplicación y la jerarquización de sus funciones.
+
+Sección D (Inversión y Precio - Preguntas 6, 7 y 8): Define el modelo de monetización y evalúa la liquidez del salón.
+
+Sección E (Información de Clasificación - Preguntas 9, 10 y 11): Datos sociodemográficos (cargo, experiencia, distrito). Siguiendo las reglas de Malhotra, estas preguntas se colocaron al final para no generar recelo prematuro.
+
+10.7. Prueba Piloto (Pretesting)
+El cuestionario no se aplicará de forma masiva sin antes realizar una prueba piloto con una muestra de cinco (5) estilistas y administradores en Managua. El objetivo de esta prueba será evaluar la claridad de la redacción de los rangos de precios, medir el tiempo real de llenado (estimado en menos de 4 minutos) y verificar que el diseño visual de los botones de selección múltiple sea funcional en dispositivos móviles.
