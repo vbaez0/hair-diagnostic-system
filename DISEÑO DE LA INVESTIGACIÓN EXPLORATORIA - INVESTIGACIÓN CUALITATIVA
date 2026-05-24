@@ -1,0 +1,56 @@
+CAPÍTULO V: DISEÑO DE LA INVESTIGACIÓN EXPLORATORIA - INVESTIGACIÓN CUALITATIVA
+De acuerdo con los postulados de Naresh K. Malhotra (5ta edición), la investigación cualitativa es un enfoque exploratorio no estructurado que busca proporcionar conocimientos profundos sobre el entorno del problema, analizando las motivaciones, percepciones y barreras de los actores clave.
+
+5.1. Justificación del Enfoque Cualitativo
+La inclusión de esta fase cualitativa fue indispensable para comprender la realidad operativa subyacente en los salones de belleza de Managua. Mientras que la encuesta cuantitativa mide volúmenes de aceptación, esta aproximación cualitativa permite identificar los hábitos de registro actuales, los temores hacia el uso de algoritmos tecnológicos y las expectativas de los administradores en su entorno real de trabajo.
+
+5.2. Clasificación y Selección de la Técnica Cualitativa
+Según la taxonomía de Malhotra, se seleccionó un Procedimiento Directo a través de la técnica de Entrevista a Profundidad.
+
+Perfil del Sujeto de Estudio: Se aplicó un muestreo no probabilístico por juicio para seleccionar a un perfil idóneo: una empresaria propietaria de dos (2) salones de belleza activos en la ciudad de Managua, con más de cuatro (4) años de experiencia en la administración y operación del sector estético. Su perfil multifacético (visión de negocio y conocimiento operativo) blinda la validez de los hallazgos.
+
+5.3. Desarrollo de la Entrevista y Registro de Información
+A continuación, se presentan los ejes temáticos abordados y la transcripción analítica de la información recolectada durante la interacción con la especialista:
+
+Bloque 1: Diagnóstico Actual y Puntos de Dolor Operativos
+Pregunta 1: ¿Cómo manejan actualmente el registro del estado del cabello y el historial de los tratamientos?
+
+Respuesta de la experta: Explicó que actualmente el negocio no realiza procesos químicos complejos, enfocándose en tratamientos de cuidado y estilismo. Para el registro de las características del cabello, emplean un método híbrido improvisado: anotan los datos en una hoja de papel física que posteriormente se entrega a la clienta. Como único respaldo para el salón, el estilista toma una fotografía digital de dicha hoja. Ante cualquier consulta posterior, el personal debe buscar y revisar la fotografía guardada.
+
+Pregunta 2: ¿Qué dificultades se presentan cuando no se recuerda con exactitud el historial de una clienta?
+
+Respuesta de la experta: El proceso se basa en evaluar visualmente el estado actual del cabello en el momento de la cita y recurrir a una entrevista retrospectiva con la clienta, preguntándole directamente qué productos se ha estado aplicando en casa o en otros establecimientos.
+
+Bloque 2: Adopción Tecnológica y Barreras del Entorno
+Pregunta 3: ¿Por qué cree que el diagnóstico capilar se sigue haciendo de forma tan tradicional o manual?
+
+Respuesta de la experta: Afirmó de manera categórica que la persistencia de los métodos manuales se debe a una falla de la oferta en el mercado, argumentando que actualmente no existen plataformas digitales accesibles y específicas para llevar este control técnico en los salones locales.
+
+Pregunta 4: ¿Cuál cree que sería el principal temor o resistencia de los estilistas para empezar a usar una app?
+
+Respuesta de la experta: Identificó como principal barrera el escepticismo técnico. Existe el temor latente de que los datos, diagnósticos o indicaciones automáticas que emita la plataforma informática no sean precisos o no se adecuen perfectamente a las realidades y necesidades biológicas particulares de cada clienta.
+
+Bloque 3: Evaluación del Valor Percibido de la Solución
+Pregunta 5: ¿Cómo impactaría un reporte técnico automatizado en PDF enviado al celular de la clienta?
+
+Respuesta de la experta: Aseguró que el impacto sería altamente positivo. Explicó que las hojas de papel suelen perderse y los registros fotográficos en los chats del salón se borran con frecuencia. Además, argumentó que las clientas suelen olvidar las indicaciones de uso de los productos en casa. La app solucionaría esto, agilizaría el proceso de decisión de compra (retail) y elevaría el posicionamiento estético del salón a un nivel más competitivo y profesional.
+
+Pregunta 6: ¿Cómo tendría que ser visualmente la app para no ser sentida como una pérdida de tiempo?
+
+Respuesta de la experta: Dictaminó que la interfaz debe optimizar el tiempo del estilista. El requisito crítico es que el diseño anule la necesidad de escribir textos extensos en pantalla, priorizando un formato dinámico basado en preguntas de selección múltiple y botones rápidos.
+
+5.4. Interpretación de Hallazgos Cualitativos (Insights de Malhotra)
+El desglose analítico de la entrevista bajo los criterios de Malhotra permite extraer cuatro conclusiones fundamentales para el éxito del proyecto:
+
+Vulnerabilidad del Registro Híbrido (Punto de Dolor): El método actual de "hoja física + foto de respaldo" demuestra una necesidad latente de digitalización, pero evidencia un alto riesgo de pérdida de información (eliminación de archivos, saturación de memoria de teléfonos o pérdida de chats). Existe un vacío en la trazabilidad del cliente.
+
+Sesgo de Información por el Consumidor: Al depender de preguntarle a la clienta qué productos usa (Bloque 1, Pregunta 2), el salón asume un riesgo alto de error, ya que el consumidor promedio no recuerda marcas, componentes químicos o frecuencias de aplicación, lo que justifica la necesidad de un expediente digital unificado.
+
+Barrera de Confiabilidad Algorítmica (El Riesgo Percibido): El hallazgo más crítico del Bloque 2 revela que la resistencia no es a la tecnología en sí, sino al miedo de que el software sea genérico e inflexible. Para contrarrestar esta barrera, la aplicación debe garantizar un alto grado de personalización en sus diagnósticos y dejar claro que es una herramienta de apoyo para el estilista, no un sustituto de su juicio profesional.
+
+Activación de la Venta Cruzada (Estrategia Comercial): La pérdida de información y el olvido del cliente sobre cómo aplicar los tratamientos en casa frena las ventas del salón. El reporte en PDF propuesto es percibido como un elemento de alto valor que actúa como una "receta médica digital", reduciendo la fricción de compra y apalancando la estrategia de precios por el estatus que otorga al negocio.
+
+Directriz de Diseño UI/UX (Diseño del Software): Se valida empíricamente que la aplicación debe ser un sistema basado en inputs cerrados (módulos de selección múltiple, checkboxes y listas desplegables). Un software que requiera digitación de texto libre fracasará en el ecosistema del salón debido al ritmo acelerado del negocio.
+
+5.5. Conclusión de la Fase Exploratoria
+La investigación cualitativa basada en la experiencia real de una propietaria de múltiples salones en Managua confirma la viabilidad y la urgencia comercial del problema definido en el Capítulo II. Los hallazgos recolectados no solo justifican el desarrollo del software, sino que entregan las pautas exactas de diseño (foco en selección múltiple y adaptabilidad del diagnóstico). Esta información valida la pertinencia del cuestionario cuantitativo estructurado en el Capítulo X, asegurando que las preguntas formuladas correspondan con la realidad del mercado meta.
