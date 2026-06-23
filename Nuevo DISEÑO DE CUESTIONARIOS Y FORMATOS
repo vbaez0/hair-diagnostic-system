@@ -1,0 +1,70 @@
+¡Excelente trabajo ampliando el instrumento! Pasar de 11 a 20 preguntas te permite recolectar datos mucho más profundos sobre la viabilidad operativa (tiempos, dispositivos) y financiera (ROI esperado, volumen de clientes) de tu aplicación.
+
+Al haber modificado el número de ítems y añadido nuevas variables de medición, el **Capítulo X** de tu documento debe reflejar exactamente esta nueva estructura de 20 preguntas.
+
+Aquí tienes la versión actualizada y definitiva de tu **Capítulo X**, redactada con el mismo rigor metodológico de Naresh K. Malhotra y ajustada milimétricamente a tu nuevo cuestionario. Puedes copiar y reemplazar este texto en tu Word:
+
+---
+
+## CAPÍTULO X: DISEÑO DE CUESTIONARIOS Y FORMATOS
+
+De acuerdo con las directrices metodológicas de Naresh K. Malhotra (5ta edición), un cuestionario es un conjunto formalizado de preguntas diseñadas para obtener información específica de los encuestados de manera estandarizada. Para garantizar que el instrumento cuantitativo de este proyecto sea válido, confiable y adaptado a la realidad del sector estético de Managua, se aplicó de forma secuencial el proceso formal de diseño establecido por el autor.
+
+### 10.1. Especificación de la Información Requerida
+
+El primer paso del diseño consistió en traducir las necesidades de información del Problema de Investigación de Mercados (PIM) y los hallazgos exploratorios en variables medibles. El instrumento definitivo consta de **20 preguntas estructuradas** y se diseñó para recolectar datos sobre cuatro ejes fundamentales:
+
+* **Problema operativo y tiempos:** Nivel de vulnerabilidad del registro actual, impacto en la satisfacción del cliente y el tiempo invertido en diagnósticos manuales.
+* **Validación de la solución tecnológica:** Intención de adopción de la app, valoración jerárquica de funciones, dispositivo preferido de uso y elementos de persuasión comercial.
+* **Variables comerciales y financieras:** Sensibilidad al precio (pago recurrente vs. licencia perpetua) y la expectativa de Retorno de Inversión (incremento de ventas de productos *retail*).
+* **Capacidad instalada del negocio:** Volumen de estilistas y flujo diario de clientes para proyectar el tamaño del mercado.
+
+### 10.2. Tipo de Método de Entrevista
+
+Siguiendo la clasificación de Malhotra, se seleccionó el método de **entrevistas electrónicas autoadministradas**, utilizando una plataforma digital para la distribución del cuestionario a través de enlaces directos por WhatsApp.
+
+Esta elección metodológica se justifica por tres razones:
+
+* Elimina el sesgo del entrevistador, evitando que las respuestas se vean influenciadas por la presencia del investigador.
+* Permite a los administradores responder de forma flexible durante los tiempos muertos de su jornada.
+* Facilita la recolección de datos en tiempo real, agilizando la codificación estadística de una muestra ampliada.
+
+### 10.3. Contenido de las Preguntas Individuales: Superación de Barreras
+
+Malhotra advierte que un cuestionario falla si el encuestado es incapaz o no está dispuesto a responder. En este diseño se aplicaron estrategias para superar ambos obstáculos:
+
+* **Superación de la incapacidad para responder:** En lugar de pedir a los administradores que calculen mentalmente el incremento exacto en dinero que les generaría la app, se utilizó una escala de porcentajes cerrados (Pregunta 15). Además, se evitaron tecnicismos informáticos y se tradujeron a beneficios directos (ej. "historial digital seguro").
+* **Superación de la indisposición para responder:** Admitir que un cliente se fue insatisfecho por un error químico (Pregunta 6) puede generar resistencia por deseabilidad social. Para mitigar esto, el instrumento garantiza el anonimato total e incluye la opción neutra "No estoy seguro".
+
+### 10.4. Elección de la Estructura de las Preguntas
+
+La fase cualitativa evidenció que el personal de los salones trabaja con un ritmo acelerado y carece de tiempo para redactar. En estricta concordancia con este *insight*, **se descartaron por completo las preguntas abiertas y se optó por un diseño 100% estructurado**.
+
+Las 20 preguntas se estructuraron de la siguiente manera:
+
+* **Preguntas Dicotómicas:** Utilizadas para clasificaciones binarias cerradas, como el filtro de entrada (Pregunta 1) y el reconocimiento de errores pasados (Pregunta 6).
+* **Preguntas de Opción Múltiple:** Empleadas para categorizar métricas operativas como los métodos actuales (Pregunta 2), tiempos de diagnóstico (Pregunta 4), frecuencia de incidentes (Pregunta 5), preferencias tecnológicas (Preguntas 9 y 10) y perfil demográfico o capacidad del salón (Preguntas 16 al 20).
+* **Preguntas de Escala de Intervalo (Likert, Precios y Porcentajes):** Utilizadas para medir la dificultad operativa (Pregunta 3), el interés de adopción (Pregunta 7), la utilidad percibida de funciones específicas (Pregunta 11), rangos de inversión (Preguntas 13 y 14) y expectativas de crecimiento (Pregunta 15).
+* **Preguntas de Escala Ordinal (Jerarquización):** Aplicadas en la Pregunta 8 para que el encuestado ordene del 1 al 4 las funcionalidades de la aplicación, identificando la prioridad del mercado.
+
+### 10.5. Elección de la Redacción de las Preguntas
+
+Cada ítem fue revisado para evitar sesgos de formulación:
+
+* **Uso de palabras sencillas:** Se empleó el vocabulario común del gremio estético nicaragüense (ej. "tricólogo", "retoque de color", "fórmulas químicas").
+* **Evitar alternativas implícitas:** En la Pregunta 12, las opciones muestran explícitamente todas las rutas comerciales posibles (mensual, anual, pago único o gratuito con publicidad) para no asumir preferencias.
+* **Uso del anclaje de valor:** En la Sección D, la redacción contextualiza los beneficios de la aplicación (ahorro de tiempo y aumento de ventas) antes de solicitar el rango de precio, preparando al encuestado para evaluar el costo como una inversión justificada.
+
+### 10.6. Determinación del Orden de las Preguntas (Efecto Embudo)
+
+El cuestionario sigue una secuencia lógica estricta que va de lo general a lo específico, organizado en cinco secciones para mantener el interés y evitar el abandono prematuro del formulario:
+
+1. **Sección A (Pregunta de Filtro - P1):** Ubicada al inicio para descartar inmediatamente a sujetos fuera de la ciudad de Managua.
+2. **Sección B (Situación Actual - P2 a P6):** Explora los métodos de registro, tiempos invertidos y problemas operativos actuales de manera no amenazante.
+3. **Sección C (Evaluación de la Solución - P7 a P11):** Mide la aceptación de la aplicación, jerarquiza sus funciones y define el entorno de uso (dispositivos).
+4. **Sección D (Inversión y Precio - P12 a P15):** Define el modelo de monetización preferido, evalúa la liquidez del salón y proyecta el Retorno de Inversión (ROI) esperado.
+5. **Sección E (Información de Clasificación - P16 a P20):** Recolecta datos sobre el cargo, experiencia, capacidad instalada y ubicación (distrito). Estas preguntas se colocaron deliberadamente al final para no generar recelo por privacidad al inicio de la encuesta.
+
+### 10.7. Prueba Piloto (Pretesting)
+
+El cuestionario ampliado no se aplicará de forma masiva sin antes realizar una prueba piloto con una pequeña muestra de cinco (5) profesionales estéticos en Managua. El objetivo de esta fase será comprobar la claridad de las nuevas variables añadidas, confirmar que el diseño de selección múltiple funcione fluidamente en las pantallas de los teléfonos móviles y verificar que el tiempo real de llenado de las 20 preguntas se mantenga en un rango óptimo de entre 5 y 7 minutos.
