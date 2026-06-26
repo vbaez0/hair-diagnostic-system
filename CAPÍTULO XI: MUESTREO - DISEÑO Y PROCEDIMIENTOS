@@ -1,0 +1,43 @@
+Aquí tienes la redacción formal y estructurada del **Capítulo XI (Muestreo: Diseño y Procedimientos)**, lista para integrarse a tu documento. Está redactada aplicando la metodología exacta de **Naresh K. Malhotra (5ta edición)** y adaptada a la realidad de tu proyecto en Managua, utilizando el año actual (2026) para la delimitación temporal.
+
+---
+
+## CAPÍTULO XI: MUESTREO - DISEÑO Y PROCEDIMIENTOS
+
+De acuerdo con la metodología establecida por Naresh K. Malhotra (5ta edición), el diseño de la muestra es una fase crítica del proyecto de investigación que permite seleccionar a un subgrupo representativo de la población para extraer conclusiones válidas. Dado que realizar un censo completo de todos los establecimientos de belleza en la capital resulta financiera y logísticamente inviable, se ha estructurado el siguiente proceso de muestreo.
+
+### 11.1. Definición de la Población Meta
+
+El primer paso del diseño muestral consiste en definir con precisión la población objeto de estudio. Según Malhotra, esta debe especificarse en términos de elementos, unidades de muestreo, alcance y tiempo. Para la presente investigación sobre la adopción de software de diagnóstico capilar, la población meta se define de la siguiente manera:
+
+* **Elementos:** Profesionales con poder de decisión técnica o comercial (propietarios, administradores, gerentes, estilistas senior y técnicos capilares/tricólogos).
+* **Unidades de muestreo:** Salones de belleza, centros estéticos y clínicas capilares formalmente constituidos u operando de manera independiente.
+* **Alcance geográfico:** Ciudad de Managua, Nicaragua (comprendiendo los Distritos I al VII).
+* **Tiempo:** El trabajo de campo y la recolección de datos se llevarán a cabo durante el periodo de junio a julio de 2026.
+
+### 11.2. Determinación del Marco Muestral
+
+El marco muestral es la representación física o lista de los elementos de la población objetivo. En Nicaragua, no existe un censo gubernamental actualizado, público y de libre acceso que liste exhaustivamente a todos los salones de belleza activos y a sus respectivos estilistas.
+
+Por lo tanto, para mitigar el error del marco muestral, se construirá un marco de referencia híbrido utilizando:
+
+1. Directorios digitales comerciales y listados de geolocalización (Google Maps) de salones ubicados en Managua.
+2. Bases de datos de contactos directos obtenidos durante la fase de investigación exploratoria (Capítulo V).
+3. Grupos profesionales y comunidades cerradas de estilistas nicaragüenses en redes sociales (Facebook y WhatsApp).
+
+### 11.3. Selección de la Técnica de Muestreo
+
+Basado en la clasificación teórica de Malhotra, se descartan las técnicas de muestreo probabilístico debido a la ausencia de un marco muestral perfecto y a las limitaciones de tiempo y presupuesto. En su lugar, el estudio empleará un diseño de **Muestreo No Probabilístico**.
+
+Dentro de esta categoría, se utilizará una combinación de dos técnicas específicas:
+
+* **Muestreo por Conveniencia:** Se seleccionarán inicialmente aquellos salones de belleza y estilistas de Managua a los que el equipo investigador tiene acceso directo y rápido (como la propietaria entrevistada en la fase cualitativa y sus sucursales).
+* **Muestreo de Bola de Nieve (Snowball Sampling):** Esta será la técnica principal. Se contactará a un grupo inicial de encuestados clave (líderes de opinión del gremio estético). Tras completar el cuestionario, se les solicitará explícitamente que compartan el enlace del instrumento digital con sus colegas, exempleados y redes de contactos profesionales dentro de la industria en Managua. Esta técnica es altamente efectiva para penetrar en mercados especializados o gremios cerrados.
+
+### 11.4. Ejecución del Proceso de Muestreo
+
+La ejecución operativa para contactar a la muestra y recolectar los datos se realizará de forma digital, siguiendo los siguientes parámetros de control:
+
+1. **Distribución:** El instrumento estructurado (alojado en Google Forms) será distribuido mediante enlaces directos a través de listas de difusión de WhatsApp y mensajes directos en redes profesionales.
+2. **Filtro de idoneidad:** Para garantizar que el "efecto bola de nieve" no contamine la muestra con personas fuera de la población meta (por ejemplo, estilistas de otros departamentos como León o Masaya), el cuestionario incluye una pregunta dicotómica de filtro estricto al inicio (Sección A, Pregunta 1). Si el sistema detecta que el individuo no labora en Managua, la encuesta se dará por concluida automáticamente, descartando esa unidad de la muestra final.
+3. **Supervisión:** Se monitoreará periódicamente la tasa de respuesta en la plataforma digital para asegurar que la recolección avance al ritmo necesario hasta alcanzar el tamaño de muestra requerido para el análisis estadístico.
