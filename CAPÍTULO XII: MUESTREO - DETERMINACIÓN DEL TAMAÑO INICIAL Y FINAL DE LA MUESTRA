@@ -1,0 +1,52 @@
+Aquí tienes la redacción formal, estructurada y calculada del **Capítulo XII (Muestreo: Determinación del tamaño inicial y final de la muestra)**.
+
+Este apartado justifica matemáticamente el número exacto de salones de belleza y estilistas que deberás encuestar en Managua, aplicando las fórmulas estadísticas respaldadas por **Naresh K. Malhotra (5ta edición)** y realizando el ajuste metodológico permitido para proyectos con recursos limitados.
+
+---
+
+## CAPÍTULO XII: MUESTREO - DETERMINACIÓN DEL TAMAÑO INICIAL Y FINAL DE LA MUESTRA
+
+Siguiendo el rigor metodológico de Naresh K. Malhotra (5ta edición, Capítulo 12), una vez definida la población meta y la técnica de muestreo no probabilístico, es imperativo establecer estadísticamente la cantidad de unidades que conformarán la muestra. Este proceso garantiza que los datos recolectados sobre la viabilidad tecnológica y financiera de la aplicación para salones de belleza en Managua posean un grado de representatividad aceptable.
+
+### 12.1. Definición de los Parámetros Estadísticos
+
+Al carecer de un marco muestral exacto (un censo oficial que indique el número preciso de salones de belleza y técnicos capilares en los siete distritos de Managua), el estudio se aborda bajo el supuesto de una **población infinita o desconocida**.
+
+Para la formulación de la ecuación, se establecen los siguientes parámetros estadísticos estándar en la investigación de mercados exploratoria-descriptiva:
+
+* **Nivel de Confianza ($Z$):** Se establece un nivel de confianza del 95%, lo que indica el grado de certeza de que los resultados de la muestra representarán a la población real. El valor tipificado en la tabla de distribución normal para este porcentaje es de 1.96.
+* **Probabilidad de Éxito ($p$):** Dado que no existen estudios estadísticos previos sobre la adopción de software de diagnóstico capilar en Nicaragua, se asume la máxima varianza posible, asignando un 50% de probabilidad de que el evento ocurra (0.50).
+* **Probabilidad de Fracaso ($q$):** Se establece en un 50%, representando la proporción de la población que podría no adoptar el comportamiento medido (0.50).
+* **Margen de Error ($e$):** Representa la desviación máxima aceptada entre las respuestas de la muestra y el comportamiento real del mercado.
+
+### 12.2. Ecuación para el Cálculo de la Muestra
+
+Para calcular el tamaño inicial de la muestra ($n$), se aplicará la fórmula estadística para poblaciones infinitas o mayores a 100,000 unidades:
+
+$$n = \frac{Z^2 \cdot p \cdot q}{e^2}$$
+
+### 12.3. Cálculo del Tamaño Inicial (Escenario Ideal)
+
+En un escenario de investigación corporativo sin restricciones, utilizando un margen de error estricto del 5% (0.05), el cálculo sería el siguiente:
+
+$$n = \frac{1.96^2 \cdot 0.50 \cdot 0.50}{0.05^2}$$
+
+$$n = \frac{3.8416 \cdot 0.25}{0.0025}$$
+
+$$n = 384$$
+
+El tamaño inicial de la muestra arroja un total de 384 encuestas.
+
+### 12.4. Ajuste y Determinación del Tamaño Final de la Muestra
+
+Malhotra (2008) establece que, en la práctica de la investigación de mercados, el tamaño de la muestra suele ajustarse debido a restricciones operativas, presupuestarias y de tiempo. Al tratarse de un proyecto académico enfocado en un nicho B2B muy específico (administradores y estilistas de Managua), encuestar a 384 unidades resulta inviable para los plazos establecidos.
+
+Por consiguiente, se procede a realizar un ajuste metodológico incrementando el margen de error tolerado a un **10%** (0.10), un umbral ampliamente aceptado en estudios de factibilidad y emprendimiento para mitigar las limitantes de recursos sin perder validez exploratoria. El cálculo final es el siguiente:
+
+$$n = \frac{1.96^2 \cdot 0.50 \cdot 0.50}{0.10^2}$$
+
+$$n = \frac{3.8416 \cdot 0.25}{0.01}$$
+
+$$n = 96.04$$
+
+**Conclusión del diseño muestral:** Para validar comercial y financieramente la viabilidad del software de diagnóstico capilar, el trabajo de campo deberá ejecutarse hasta recolectar un tamaño final de muestra equivalente a **96 encuestas completas y válidas** provenientes de profesionales del sector estético en la ciudad de Managua.
