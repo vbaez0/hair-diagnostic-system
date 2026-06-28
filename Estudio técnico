@@ -1,0 +1,99 @@
+Aquí tienes el **Estudio Técnico** completo, completamente corregido y adaptado. He simplificado el vocabulario para que sea claro, directo y fácil de defender ante tu jurado, manteniendo la estructura formal que te pidió tu tutor y dejando claro que tú eres el único dueño y operador del proyecto (modelo de negocio individual o *Solopreneur*).
+
+---
+
+## CAPÍTULO XVI: ESTUDIO TÉCNICO
+
+Este estudio técnico explica cómo funcionará la aplicación, qué recursos se necesitan para crearla y cómo se organizará el trabajo para que una sola persona pueda administrar todo el negocio de forma eficiente y económica.
+
+### 4.1. TAMAÑO DEL PROYECTO 📏
+
+El tamaño del proyecto se define por la cantidad de salones de belleza que la aplicación puede atender al mismo tiempo y la cantidad de información que puede guardar en el internet durante sus primeros años de vida.
+
+* **Capacidad del Proyecto:** Como este proyecto es una aplicación digital, su capacidad no se mide en productos físicos dentro de una bodega, sino en la cantidad de salones usando el sistema a la vez. La plataforma estará lista para atender desde el primer día hasta a 5,000 salones de belleza registrados de forma simultánea, asegurando que el diagnóstico del cabello cargue en menos de 2 segundos. El espacio contratado en el internet se calculará para guardar los datos y fotos de cabello de miles de clientas sin que el sistema se vuelva lento.
+* **Factores Determinantes del Tamaño:** El tamaño inicial de este negocio está limitado por tres cosas:
+1. *La cantidad de salones en Managua:* El grupo de clientes que se quiere captar al inicio en los Distritos V y I de Managua.
+2. *El internet y el servidor:* El dinero que se asigne para pagar el espacio de la app en la nube.
+3. *El tiempo de trabajo del fundador:* Al ser un negocio manejado por una sola persona, la capacidad depende de qué tan bien se automaticen las tareas diarias. Para no saturarse de trabajo, el sistema hará las cosas pesadas por sí solo: tendrá tutoriales en video para que los dueños de los salones aprendan a usar la app sin ayuda, el cobro mensual se hará automáticamente con tarjeta, y las preguntas frecuentes se responderán con mensajes automáticos.
+
+
+* **Optimización del Tamaño:** Para que el negocio sea lo más rentable posible, se contratarán servidores en el internet que "crecen solos". Esto significa que si en los meses altos de diciembre o noviembre muchos salones usan la app al mismo tiempo, el servidor se expande automáticamente para soportar el tráfico, y en los meses bajos se encoge para no pagar dinero de más por espacio que no se está usando.
+* **Economía del Tamaño:** En los negocios digitales, entre más clientes tienes, más barato te sale operar. El costo de crear la aplicación se hace una sola vez. Por lo tanto, si la app pasa de tener 10 salones a tener 100 o 1,000 salones pagando la mensualidad, los gastos fijos del creador siguen siendo casi los mismos, lo que hace que las ganancias suban de forma masiva.
+* **Planes de Ampliación o Ensanche:** En el futuro, el proyecto tiene planeado crecer en dos etapas:
+* *Fase 1:* Mejorar el código de la aplicación para que aguante más datos a medida que se registren más clientas.
+* *Fase 2:* Expandir la venta de la aplicación a otros departamentos de Nicaragua (como Estelí, León, Granada) y eventualmente a otros países de Centroamérica.
+
+
+
+---
+
+### 4.2. LOCALIZACIÓN DEL PROYECTO 📍
+
+La ubicación del proyecto se analiza desde dos puntos de vista: el lugar físico desde donde trabajará el dueño del negocio y el lugar digital en el internet donde estará guardada la aplicación.
+
+* **Factores que Influyen en la Localización:** Para este proyecto, las variables más importantes son contar con un internet de alta velocidad estable, energía eléctrica sin apagones constantes, estar cerca de los salones de belleza de Managua para hacer las visitas de venta y tener un espacio cómodo para programar.
+* **Estudio y Procedimiento de Análisis:** Se compararon tres zonas de la capital (Distrito V, Distrito I y Distrito IV). El Distrito V resultó ser el ganador porque es una zona céntrica con excelente conexión a internet y porque concentra la mayor cantidad de salones de belleza interesados en actualizarse con tecnología.
+* **Macro y Micro Localización:**
+* **Macro Localización:** A nivel general, el proyecto nace en Managua, Nicaragua. A nivel digital, la aplicación estará guardada en los servidores de la zona este de los Estados Unidos (Norte de Virginia), ya que es el punto tecnológico que ofrece la mayor velocidad de conexión y carga para los usuarios en Nicaragua.
+* **Micro Localización:** * *Física:* El proyecto funcionará de manera 100% digital y remota. La oficina principal será la propia casa del creador de la aplicación en la ciudad de Managua. Trabajar desde casa es una gran ventaja estratégica porque elimina por completo la necesidad de pagar el alquiler de un local comercial o recibos de luz caros, lo que ayuda a que el negocio ahorre dinero y sobreviva en sus primeros meses.
+* *Digital:* El sitio exacto donde vivirá la app y los datos de las clientas serán los servidores seguros de empresas líderes como Amazon Web Services (AWS) o Google Cloud.
+
+
+
+
+
+---
+
+### 4.3. INGENIERÍA DEL PROYECTO ⚙️
+
+Esta sección describe los pasos técnicos para crear la aplicación y el proceso que seguirá el estilista en el salón de belleza para atender a una clienta.
+
+#### Proceso de Producción del Servicio
+
+El trabajo se divide en dos procesos muy sencillos:
+
+1. **Proceso de Creación y Actualización (Mantenimiento):** El dueño del proyecto se encarga de diseñar cómo se verá la app, escribir el código de programación en su computadora, hacer pruebas en tabletas para revisar que no haya errores y subir las actualizaciones al internet para que los salones las descarguen.
+2. **Proceso de Uso en el Salón (Atención a la Clienta):** El uso diario de la herramienta por parte del estilista sigue estos pasos:
+* El estilista abre la aplicación en la tableta del salón e ingresa los datos de la clienta.
+* Se realiza el test en la pantalla respondiendo preguntas sobre la porosidad, elasticidad y daño del cabello.
+* El sistema procesa las respuestas en el internet de forma inmediata.
+* La aplicación crea automáticamente un reporte profesional en PDF con gráficas bonitas y los productos recomendados.
+* El reporte se envía directo al celular de la clienta por WhatsApp, y una copia queda guardada para siempre en su historial digital.
+
+
+
+#### Tecnología de Producción y Estudio Tecnológico
+
+Para garantizar que la aplicación funcione a la perfección en las tabletas digitales (que es el dispositivo preferido por el 70% de los encuestados), se utilizarán las siguientes herramientas:
+
+* **Para lo visual (Frontend):** *Flutter* (una tecnología de Google), que permite programar la app una sola vez y hacer que funcione de forma rápida y moderna tanto en tabletas Android como en iPads.
+* **Para el cerebro del sistema (Backend):** *Node.js*, que es una herramienta excelente para recibir y procesar la información de muchos salones al mismo tiempo sin que el sistema se vuelva lento.
+* **Para guardar los datos:** *PostgreSQL*, un sistema de base de datos muy seguro y ordenado.
+* **Factor Ambiental:** Al ser un negocio completamente digital que se maneja desde una computadora en casa, el impacto ambiental es cero (no genera basura química, humo ni ruidos). Además, los servidores en la nube que se alquilarán pertenecen a empresas que usan energía limpia y renovable en sus centros de datos.
+
+#### Selección de Insumos y Equipos
+
+Para que este proyecto funcione con una sola persona, los equipos e insumos necesarios son mínimos:
+
+* **Maquinaria y Equipo:** Una computadora portátil rápida y de alta gama para programar, dos tabletas digitales de gama media (una Android y una iPad) para hacer las pruebas de la app, un escritorio ergonómico y un router de internet de fibra óptica de alta velocidad.
+* **Materia Prima (Insumos Digitales):** El pago de los servidores en la nube para guardar la información, la licencia para poder subir la app a las tiendas de Google y Apple, y el saldo para las herramientas que envían los reportes y recordatorios automáticos.
+* **Personal de Producción:** El proyecto será creado, administrado y vendido completamente por el autor de esta investigación, quien será el dueño y único programador. Esto elimina la necesidad de pagar planillas o salarios a otras personas, reduciendo los costos al mínimo.
+
+---
+
+### DISEÑO OPERACIONAL Y ASPECTOS COMPLEMENTARIOS
+
+#### Distribución de la Planta (Estructura del Sistema Digital)
+
+Como no existe una fábrica física con máquinas o bandas transportadoras, el diseño de la "planta" se refiere a cómo están organizadas las tres capas lógicas del sistema en el internet para que la información se mueva de forma segura y sin trabarse:
+
+1. *Primera Capa (La Pantalla):* Es la aplicación que el estilista ve e instala en la tableta dentro del salón de belleza en Managua.
+2. *Segunda Capa (El Cerebro):* Es el servidor en la nube que recibe las respuestas del test del cabello y calcula el nivel de daño de forma automática.
+3. *Tercera Capa (La Caja Fuerte):* Es la base de datos que está escondida en internet, donde se guardan con candado todos los expedientes e historiales de las clientas.
+
+#### Aspectos Complementarios
+
+* **Valorización de Obras Físicas:** Al ser un negocio que se administra desde casa por una sola persona, no habrá ningún gasto en construcción, pintura, remodelación ni obras civiles ($0.00). Todo el dinero de la inversión inicial se utilizará únicamente para comprar la computadora de programación, las tabletas de prueba y el escritorio.
+* **Control de Calidad:** Antes de lanzar cualquier actualización de la aplicación, el dueño del proyecto hará pruebas en sus propias tabletas para asegurarse de que no se cierre sola. Además, las preguntas del test del cabello estarán estandarizadas matemáticamente, garantizando que la app dé el mismo diagnóstico científico en cualquier salón de belleza que la use.
+* **Seguridad Industrial (Ciberseguridad):** Adaptado al mundo digital, la seguridad se enfoca en proteger la información del negocio y de las clientas. El sistema usará conexiones seguras y cifradas (candado SSL), las contraseñas de los usuarios estarán encriptadas y se programará un respaldo automático todas las noches a las 12:00 p.m. para que la información nunca se pierda si ocurre algún fallo técnico.
+* **Efectos Económicos de la Ingeniería:** Todas las decisiones tomadas en este estudio técnico (trabajar desde casa, ser un único dueño sin empleados y usar herramientas que crecen solas en internet) hacen que los gastos mensuales del negocio sean sumamente bajos (menos de $3.00 dólares por cada salón registrado). Esto demuestra que cobrar la suscripción mensual de **$19.99 dólares** (precio definido en el estudio de mercado) dejará un margen de ganancia muy alto y libre de deudas desde el primer año.
