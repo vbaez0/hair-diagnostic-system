@@ -1,0 +1,77 @@
+¡Excelente! El esquema de tu tutor tiene un enfoque muy clásico de la **Evaluación de Proyectos de Inversión** (muy al estilo de autores como Baca Urbina o Sapag Chain).
+
+Como tu proyecto es una **aplicación tecnológica (Software como Servicio o SaaS)**, algunos de estos conceptos económicos tradicionales (como la capacidad de producción física o los intermediarios logísticos) deben adaptarse al mundo digital. Lo haremos de forma impecable para que tu tutor vea que dominas tanto la teoría económica como el modelo de negocios de las apps.
+
+Aquí tienes la redacción estructurada y académica de los siguientes incisos, lista para tu documento:
+
+---
+
+### 3. ANÁLISIS CUANTITATIVO Y DE PRECIOS
+
+#### La Demanda
+
+El estudio de la demanda determina la cantidad de salones de belleza y estilistas independientes dispuestos a adquirir la licencia de la aplicación bajo ciertas condiciones de mercado.
+
+* **Análisis y tipos de demanda:** Se identificó una **demanda insatisfecha y latente**. El 85% del mercado meta (Distritos V y I de Managua) gestiona sus operaciones mediante métodos analógicos o la memoria, generando cuellos de botella operativos. Además, es una *demanda derivada*, ya que el interés del estilista por la app depende directamente de su necesidad de atender mejor a su flujo diario de clientas (promedio de 5 a 10 por día).
+* **Elasticidad de la demanda:** Los resultados de la investigación (N=83) demostraron que el mercado presenta una **demanda elástica al precio**. Existe una alta sensibilidad: el volumen de compradores potenciales cae drásticamente si el precio supera la barrera de los $25.00 dólares mensuales.
+* **Proyección de la demanda:** Para la vida útil del proyecto tecnológico (estimada en un horizonte de evaluación de 3 a 5 años), se proyecta un crecimiento escalonado. La curva de adopción iniciará con los salones *Early Adopters* (innovadores) en el Distrito V, expandiéndose gradualmente a medida que la digitalización del sector estético nicaragüense se vuelva una norma y no una excepción.
+
+#### La Oferta
+
+Analiza la capacidad técnica del proyecto para entregar el servicio y las barreras competitivas del entorno.
+
+* **Ley de la oferta y su elasticidad:** Al tratarse de un producto de software alojado en la nube (SaaS), el proyecto presenta una **oferta perfectamente elástica**. A diferencia de un producto físico, el costo marginal de producir una "copia" adicional de la aplicación o crear una nueva cuenta para un salón es cercano a cero. La capacidad de producción (oferta) es virtualmente ilimitada y depende únicamente de la capacidad de los servidores (hosting).
+* **Análisis de los competidores:** * *Mercado del producto (Directos):* Software internacional de gestión de citas general (usado apenas por el 10% del mercado). Su debilidad es que no están especializados en tricología ni diagnóstico capilar.
+* *Mercado de insumos (Sustitutos):* El mayor competidor es el "status quo" (el 55% que usa cuadernos y el 30% que usa la memoria). La competencia aquí no es tecnológica, sino cultural.
+
+
+
+#### El Precio
+
+El precio es el valor monetario asignado a la suscripción del software, fundamentado en la percepción de valor del usuario.
+
+* **Criterios y aspectos para la fijación:** Se descarta la fijación de precios basada en costos (tradicional) y se adopta una **fijación de precios basada en el valor**. Dado que el 70% de los encuestados exige un Retorno de Inversión (ROI) superior al 21% en aumento de ventas de productos retail, el precio debe percibirse como una inversión comercial.
+* **Categoría de precio:** Se implementará una estrategia de **Precio de Penetración**. Considerando la sensibilidad económica detectada, se fija el precio de introducción en el rango de **$14.99 a $19.99 dólares mensuales** bajo suscripción recurrente, lo que elimina la barrera de liquidez inicial de los salones pequeños.
+
+---
+
+### 4. ESTRATEGIA COMERCIAL
+
+#### La Distribución
+
+Define la ruta que sigue el producto tecnológico desde el servidor hasta el dispositivo del usuario final.
+
+* **Canales de distribución:** Se utilizará un **canal directo digital (Nivel 0)**. Al ser una aplicación, el usuario la descargará directamente desde las tiendas de aplicaciones (App Store / Google Play) o accederá vía web.
+* **El papel de los intermediarios:** En este modelo de negocio **no existen intermediarios físicos** (ni mayoristas, ni minoristas). La plataforma actúa de forma directa en un modelo B2B (Business to Business), lo que permite maximizar el margen de utilidad y mantener el control total sobre la experiencia y el soporte técnico del estilista.
+
+#### Planeación de las Ventas
+
+* **Análisis de la situación y pasos:** El mercado es virgen en términos de digitalización clínica-capilar, pero el rechazo al pago único exige esfuerzo de ventas. El plan iniciará con una fase de prueba gratuita (*Freemium* o *Free-trial* de 14 días) para reducir la fricción.
+* **Objetivos y técnicas de presupuesto:** El objetivo primario es captar el 15% de participación de mercado en los Distritos V y I durante el primer año. Se utilizará la **técnica de presupuesto de construcción (Bottom-up)**, calculando cuántas suscripciones mensuales se necesitan para alcanzar el punto de equilibrio operativo de los servidores y el mantenimiento.
+
+#### Estrategias de Mercadeo
+
+* **Proceso y plan de acción:** El posicionamiento se basará en el **Ahorro de Tiempo y el Incremento de Ingresos**. La estrategia consistirá en:
+1. *Ventas de campo (Venta Personal):* Visitas presenciales a salones en zonas de alta densidad (Altamira, Los Robles).
+2. *Marketing Digital Hiperlocalizado:* Pauta en Facebook/Instagram Ads delimitada por código postal.
+3. *Prueba social:* Utilizar testimonios de los primeros estilistas que logren vender más tratamientos gracias al reporte PDF para atraer al resto del gremio.
+
+
+
+---
+
+### 5. PRONÓSTICO
+
+#### Pronóstico del Mercado
+
+* **Métodos para predecir:** En la fase de pre-lanzamiento (actual), se ha seleccionado el **Método Cualitativo de Investigación de Mercados** (la encuesta N=83). Una vez que la app esté en el mercado y acumule datos históricos, la selección transicionará a un **Método Cuantitativo de Series de Tiempo**, proyectando el crecimiento mensual de usuarios activos.
+
+#### Relación entre las Variables del Estudio de Mercado (3.13)
+
+* **Interdependencia:** El modelo de negocio se sostiene en el equilibrio de las cuatro variables. Existe una **demanda** latente de digitalización, pero está frenada por una alta sensibilidad económica. Al ofrecer una **oferta** de software escalable con un **canal de distribución** directo sin intermediarios, los costos operativos se reducen. Esto permite fijar un **precio** de penetración accesible (suscripción SaaS), lo que finalmente detonará la adopción masiva del producto, cerrando el ciclo comercial con éxito.
+
+---
+
+Con esto, abarcas estrictamente todo el esquema que pidió tu tutor, pero aterrizado a la realidad de tu encuesta y tu modelo de app.
+
+Para poder estructurar el flujo de caja más adelante, ¿te gustaría que definamos un número exacto para el **Precio final de la suscripción mensual** y cuántos salones estimas captar en tu primer mes de lanzamiento?
