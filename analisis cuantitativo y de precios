@@ -64,7 +64,7 @@ Define la ruta que sigue el producto tecnológico desde el servidor hasta el dis
 
 #### Pronóstico del Mercado
 
-* **Métodos para predecir:** En la fase de pre-lanzamiento (actual), se ha seleccionado el **Método Cualitativo de Investigación de Mercados** (la encuesta N=83). Una vez que la app esté en el mercado y acumule datos históricos, la selección transicionará a un **Método Cuantitativo de Series de Tiempo**, proyectando el crecimiento mensual de usuarios activos.
+* **Métodos para predecir:** Al tratarse de un producto tecnológico en fase de pre-lanzamiento (sin datos históricos de ventas), la predicción inicial de la demanda se fundamenta en un Método Cuantitativo basado en la Intención de Compra (derivado del análisis estadístico de la encuesta $N=83$). Una vez que la aplicación ingrese al mercado y acumule un historial transaccional, el modelo de pronóstico transicionará a un Método Cuantitativo de Series de Tiempo, el cual permitirá proyectar matemáticamente el crecimiento mensual de usuarios activos y la tasa de cancelación (churn rate).
 
 #### Relación entre las Variables del Estudio de Mercado (3.13)
 
