@@ -1,0 +1,15 @@
+¡Entendido! Tienes toda la razón, a veces los términos técnicos de software suenan demasiado complejos. Para tu defensa, lo más importante es que tú entiendas el concepto a la perfección para poder explicarlo con palabras sencillas.
+
+En una aplicación web, "optimizar el tamaño" simplemente significa **no gastar dinero de más en servidores** para que tu negocio sea lo más rentable posible.
+
+Aquí tienes la versión simplificada y fácil de explicar, lista para tu documento:
+
+---
+
+### 4.1.2 Optimización del Tamaño del Proyecto
+
+En proyectos de software, "optimizar el tamaño" significa encontrar el equilibrio perfecto entre que la aplicación funcione rápido y que los costos de mantenimiento sean lo más bajos posibles. Para esta Web App, la optimización se logrará aplicando tres reglas prácticas:
+
+* **1. Contratar capacidad a la medida (Cero desperdicio):** Se evitará alquilar un servidor costoso o gigante desde el primer día. El servidor se configurará inicialmente solo con el espacio exacto para atender a la meta del primer año (97 clientes), evitando pagar dinero mensual por capacidad técnica que nadie está utilizando.
+* **2. Modelo de "Pago por uso":** La infraestructura en la nube funciona como un recibo de luz; solo pagas por lo que consumes. Al usar este modelo, el costo de mantenimiento por cada salón se vuelve más económico a medida que el negocio crece. Esto asegura que el margen de ganancia libre sobre la suscripción de 19.99 dólares sea cada vez mayor.
+* **3. Compresión de archivos (Código ligero):** Si los expedientes y las fotos de los clientes son muy pesados, el servidor cobrará más por almacenarlos. Para optimizar esto, la aplicación estará programada para comprimir automáticamente las imágenes capilares y los reportes en PDF, garantizando que el sistema sea muy rápido y que los costos de almacenamiento se mantengan al mínimo.
