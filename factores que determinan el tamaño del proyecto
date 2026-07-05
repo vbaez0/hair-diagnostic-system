@@ -1,0 +1,20 @@
+Aquí tienes la sección de los **Factores que determinan el tamaño**, redactada de forma directa y adaptada a la realidad de tu Web App.
+
+En los proyectos tradicionales (fábricas), el tamaño lo dicta la maquinaria y la materia prima. En tu caso como desarrollador de software, se rige por estos cuatro factores tecnológicos y operativos:
+
+---
+
+### 4.1.1 Factores que determinan el tamaño del proyecto
+
+El tamaño y la capacidad inicial de la infraestructura de la Web App están condicionados estrictamente por los siguientes cuatro factores limitantes:
+
+* **1. La Demanda del Mercado:** Es el factor principal. La meta de capturar 97 salones en el primer año dicta exactamente qué tipo de servidor se necesita alquilar. Contratar un servidor masivo desde el día uno generaría gastos innecesarios por "capacidad ociosa".
+* **2. La Tecnología (Elasticidad de la Nube):** El uso de infraestructura *Cloud* (computación en la nube) elimina las limitaciones físicas. El tamaño del proyecto no está condicionado por la compra de servidores físicos; la tecnología permite empezar pequeño y escalar la capacidad con un solo clic a medida que el negocio crece.
+* **3. La Capacidad Financiera (Capital Propio):** Al ser un modelo de emprendedor único (*Bootstrapping*), el tamaño de arranque debe mantenerse en la capa de servicios en la nube de menor costo. El tamaño del servidor solo aumentará cuando las propias suscripciones de $19.99 mensuales paguen esa ampliación.
+* **4. La Capacidad Operativa (Recursos Humanos):** Este es el cuello de botella real. Al contar con un solo desarrollador para programar, vender y dar soporte técnico, el tamaño operativo inicial debe limitarse a captar pocos clientes mensuales (8 al mes) para garantizar un servicio de calidad sin que el fundador colapse.
+
+---
+
+Con esto justificas perfectamente por qué vas a empezar "pequeño" y por qué eso es algo positivo.
+
+Ya tenemos la *Capacidad*, los *Factores* y la *Localización* (que hicimos brevemente en un mensaje anterior). ¿Te parece si avanzamos ahora a la **Ingeniería del Proyecto**, donde definimos exactamente qué lenguajes de programación o herramientas usarás para construir la Web App?
