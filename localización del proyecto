@@ -1,0 +1,26 @@
+Aquí tienes estas tres secciones explicadas de la forma más sencilla, breve y directa posible, listas para tu documento y perfectas para explicárselas al jurado sin enredarte con términos complejos:
+
+---
+
+### 4.2 LOCALIZACIÓN DEL PROYECTO
+
+#### 4.2.1 Factores que influyen en la localización
+
+Para una aplicación web, los factores tradicionales (como la cercanía a materias primas o carreteras para camiones) no aplican. En este proyecto, la ubicación se decidió evaluando tres factores clave:
+
+* **1. Excelente conectividad a Internet:** Es indispensable estar en una zona con acceso a internet de alta velocidad (fibra óptica) para poder programar la app, subir actualizaciones y dar soporte técnico rápido.
+* **2. Estabilidad de energía eléctrica:** Se requiere un suministro eléctrico confiable para mantener las computadoras de desarrollo operando sin interrupciones.
+* **3. Cercanía a los clientes (Salones):** El centro de operaciones debe estar cerca del mercado meta para facilitar las visitas físicas y las demostraciones en vivo en los salones durante el primer año.
+
+#### 4.2.2 Macro localización
+
+La macro localización del proyecto se establece en **Nicaragua, específicamente en la ciudad de Managua (la capital)**.
+
+* *¿Cómo se explica al jurado?* Se eligió Managua porque es el centro económico del país, tiene la mejor infraestructura de internet de Nicaragua y, lo más importante, concentra el universo completo de **1,600 salones de belleza**. Es el lugar perfecto para lanzar el proyecto piloto antes de pensar en expandirse a otros departamentos.
+
+#### 4.2.3 Micro localización
+
+Al ser un negocio digital manejado por un único fundador (*Solopreneur*), la micro localización se divide en dos entornos muy prácticos:
+
+* **Entorno Físico (La Oficina):** El desarrollo del código y la atención al cliente se harán bajo la modalidad de *Home Office* (trabajo desde casa) en Managua. Esto optimiza el tamaño del proyecto porque **reduce a cero ($0)** los gastos de alquilar una oficina o un local comercial al inicio.
+* **Entorno Digital (Los Servidores):** Físicamente, la Web App y los datos de los salones estarán guardados en servidores en la nube (como Amazon AWS o Google Cloud) localizados en centros de datos seguros en Estados Unidos. Esto garantiza que la app cargue rapidísimo en las tabletas de los salones de Managua y que la información nunca se pierda gracias a respaldos automáticos las 24 horas.
