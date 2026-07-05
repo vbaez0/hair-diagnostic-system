@@ -1,0 +1,31 @@
+¡Comprendido! Cuando los tutores piden explícitamente estos incisos en la guía, lo que buscan es que justifiques la **metodología** detrás de tus números. Quieren saber qué reglas usaste para predecir el futuro y por qué elegiste esa técnica matemática en lugar de otra.
+
+Es una excelente forma de darle rigor académico a tu documento. Aquí tienes la redacción estructurada exactamente con los incisos que te exige la guía, adaptada a los números reales que ya calculamos (los 1,600 salones, el 60.7% de interés y el crecimiento a 5 años).
+
+Puedes reemplazar la sección anterior con esta versión definitiva:
+
+---
+
+### 3.9 PRONÓSTICO DEL MERCADO
+
+El pronóstico del mercado permite estimar el comportamiento futuro de la demanda y la viabilidad comercial de la Web App a mediano plazo, basándose en los datos recolectados durante la fase exploratoria y las tendencias actuales del sector estético en la ciudad de Managua.
+
+#### 3.9.1 Características de los pronósticos
+
+Para garantizar que las proyecciones del proyecto sean académicamente válidas y financieramente viables, el pronóstico de mercado desarrollado cumple con las siguientes características fundamentales:
+
+* **Horizonte Temporal de Mediano Plazo:** Se ha establecido una proyección a **5 años**. Este es el lapso óptimo para un modelo tecnológico SaaS (Software as a Service), ya que permite visualizar la etapa de introducción, el alcance del punto de equilibrio y la madurez del producto en el mercado.
+* **Base Empírica y Cuantitativa:** El pronóstico no se basa en supuestos teóricos, sino que está anclado en los resultados estadísticos reales obtenidos del trabajo de campo ($N=56$ encuestas), específicamente en el **60.7%** de los micro-empresarios que afirmaron su intención definitiva de compra.
+* **Enfoque Conservador (Principio de Prudencia):** A pesar de contar con un mercado potencial alto (971 salones), el pronóstico asume limitaciones operativas naturales al tratarse de un emprendedor único (*Solopreneur*). Por ello, asume una tasa de captura inicial del **10%** en lugar de proyectar escenarios de adopción masiva irreales.
+* **Dinámico y Escalable:** El pronóstico asume un crecimiento sostenido y orgánico del **5% anual**, tomando en cuenta tanto el efecto del boca a boca positivo en la industria de la belleza local, como la inevitabilidad de una tasa natural de cancelación o deserción de usuarios (Churn Rate).
+
+#### 3.9.2 Selección del método de pronóstico
+
+En la formulación de proyectos, la selección del método de pronóstico depende de la disponibilidad de datos históricos. Dado que esta Web App de diagnóstico capilar es un producto nuevo que está en fase de lanzamiento, no existen registros de ventas pasadas que permitan utilizar métodos puramente matemáticos tradicionales (como promedios móviles o suavización exponencial).
+
+Por lo tanto, el método seleccionado para este proyecto es una combinación híbrida: **Método de Investigación de Mercados (Análisis de Intención de Compra) integrado con un Modelo de Penetración de Mercado.**
+
+**Justificación de la selección del método:**
+
+1. **Investigación de Mercados:** Este método cuali-cuantitativo es el más preciso para productos nuevos, ya que utiliza la opinión directa del consumidor final. Se utilizó la encuesta estructurada para medir la "intención de compra futura", filtrando el universo de 1,600 salones en Managua para aislar únicamente a los que tienen una alta probabilidad de adopción (971 salones).
+2. **Modelo de Penetración (Embudos de Conversión):** Una vez obtenido el mercado potencial a través de la investigación, este método permite aplicar factores de reducción lógicos (10% en el Año 1, escalando un 5% anualmente). Esto garantiza que el pronóstico final (97 clientes capturados en el primer año) refleje la verdadera capacidad de ventas del desarrollador y el esfuerzo publicitario georeferenciado (enfocado en los Distritos I y V), brindando proyecciones de ingresos confiables para el Estudio Financiero.
