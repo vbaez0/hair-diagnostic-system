@@ -1,0 +1,75 @@
+¡Perfecto! Llegamos a la parte donde traducimos los conceptos tradicionales de las fábricas al mundo moderno del software. Para un proyecto tecnológico, la "ingeniería" explica cómo construyes la aplicación y qué herramientas necesitas.
+
+He adaptado todos los incisos que te pidió tu tutor para que encajen perfectamente con tu modelo de Web App y sigan siendo fáciles de explicar frente al jurado.
+
+Aquí tienes el bloque completo para tu documento:
+
+---
+
+### 4.3 INGENIERÍA DEL PROYECTO
+
+Esta sección detalla los aspectos técnicos y operativos necesarios para el desarrollo, funcionamiento y mantenimiento de la Web App de diagnóstico capilar, adaptando los conceptos industriales a un modelo de negocio digital (SaaS).
+
+#### 4.3.1 Proceso de producción
+
+En el desarrollo de software, el proceso de producción no crea bienes físicos, sino que sigue un "Ciclo de Vida de Desarrollo" para programar la plataforma y mantenerla funcionando. El proceso consta de cuatro pasos continuos:
+
+1. **Diseño de Interfaz (UX/UI):** Creación de los bocetos visuales de las pantallas (botones, formularios y colores) para asegurar que la aplicación sea fácil de usar para los estilistas.
+2. **Programación (Codificación):** Escritura del código fuente que da vida a la aplicación, conectando lo que ve el usuario con la base de datos.
+3. **Pruebas (Testing):** Revisión exhaustiva de la aplicación en diferentes dispositivos (celulares y tabletas) para detectar y corregir errores (*bugs*) antes de que la usen los clientes.
+4. **Despliegue y Mantenimiento:** Subida del código final a los servidores en la nube para que esté disponible en internet, seguido de actualizaciones periódicas de seguridad.
+
+#### 4.3.2 Tecnología de producción
+
+La tecnología de producción se refiere al conjunto de lenguajes de programación y herramientas (conocido como *Tech Stack*) que conforman el "motor" de la aplicación:
+
+* **Frontend (Lo que ve el usuario):** Tecnologías web estándar (HTML5, CSS3, JavaScript o frameworks como React) para crear una interfaz rápida y responsiva que se adapte a cualquier pantalla.
+* **Backend (La lógica y el servidor):** Lenguajes de servidor (como Node.js, Python o PHP) encargados de procesar la información clínica, generar los PDFs y gestionar la seguridad de las contraseñas.
+* **Base de Datos:** Sistemas de almacenamiento estructurado (como MySQL o Firebase) para guardar de forma segura los miles de expedientes de los clientes.
+
+#### 4.3.3 El estudio tecnológico: variables a relevar
+
+Para garantizar la calidad del producto final, el desarrollo de la aplicación será monitoreado en función de tres variables tecnológicas críticas:
+
+* **Velocidad de Carga:** La plataforma debe abrir y procesar datos en menos de 3 segundos, ya que en un salón de belleza el tiempo de atención es vital.
+* **Disponibilidad (Uptime):** El servidor debe garantizar que el sistema esté en línea y funcionando el 99.9% del tiempo, sin caídas imprevistas.
+* **Seguridad y Privacidad:** Encriptación de datos obligatoria para proteger la información personal y las fórmulas químicas de los clientes de cada salón.
+
+#### 4.3.4 Alternativas de producción
+
+Antes de iniciar el desarrollo, se evaluaron dos alternativas principales para "fabricar" la aplicación, decidiendo cuál era la más rentable.
+
+| Alternativa Evaluada | Ventajas | Desventajas | Decisión Final |
+| --- | --- | --- | --- |
+| **Opción A: Programación desde cero (Código a la medida)** | Propiedad total del código, cero pago de licencias a terceros, máxima personalización. | Requiere más tiempo de desarrollo inicial. | **Seleccionada.** Maximiza las ganancias porque no hay que pagar mensualidades a otras plataformas. |
+| **Opción B: Uso de plataformas "No-Code" (Ej. Bubble, Glide)** | Desarrollo extremadamente rápido sin necesidad de escribir mucho código. | Se pagan mensualidades altas; si la plataforma externa sube precios, el negocio pierde rentabilidad. | **Descartada.** Limita la escalabilidad técnica a largo plazo y aumenta los costos operativos. |
+
+#### 4.3.5 Selección de maquinaria y equipo
+
+Al ser un producto digital, no se requiere maquinaria industrial. El equipo necesario se limita a las herramientas informáticas requeridas por el desarrollador para programar y comercializar el sistema.
+
+| Equipo / Maquinaria | Uso en el Proyecto |
+| --- | --- |
+| **Computadora Portátil (Laptop)** | Equipo principal para escribir el código y administrar los servidores. |
+| **Monitor Secundario** | Ampliación de pantalla para mejorar la productividad al programar. |
+| **Tableta (Tablet)** | Dispositivo clave para realizar demostraciones físicas de ventas en los salones de belleza. |
+| **Teléfono Inteligente (Smartphone)** | Utilizado para pruebas de diseño móvil, manejo de WhatsApp Business y redes sociales. |
+
+#### 4.3.6 Selección de la materia prima
+
+En la industria del software, la "materia prima" no son materiales físicos, sino los insumos digitales y licencias de terceros que se necesitan consumir mensualmente para que la aplicación exista en internet.
+
+| Materia Prima Digital | Función Principal |
+| --- | --- |
+| **Dominio Web (.com o .app)** | Es el nombre y la dirección oficial para que los salones encuentren la app en internet. |
+| **Certificado de Seguridad (SSL)** | Insumo obligatorio para cifrar los datos y mostrar el "candado" de sitio seguro en el navegador. |
+| **Almacenamiento Cloud (Servidor)** | El espacio arrendado en la nube donde vivirán las bases de datos y los archivos PDF. |
+| **Servicios de API (Opcional)** | Conexiones a herramientas externas, como pasarelas de pago locales o servicios de envío automático de correos. |
+
+#### 4.3.7 Selección del personal de producción
+
+Para la fase inicial del proyecto, la selección de personal se basa en una estructura organizativa mínima y de bajo costo.
+
+* **Perfil Requerido:** Desarrollador Full-Stack (Emprendedor Único).
+* **Justificación:** Operar bajo el modelo de *Solopreneur* significa que el propio fundador asume los roles de diseño, programación (Frontend y Backend), mantenimiento de servidores y ventas.
+* **Impacto Financiero:** Esta decisión elimina por completo el rubro de pago de salarios a terceros durante el primer año de operaciones, reduciendo drásticamente el punto de equilibrio financiero y permitiendo que la empresa sea rentable captando únicamente el 10% del mercado inicial.
