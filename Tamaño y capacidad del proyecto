@@ -1,0 +1,20 @@
+Aquí tienes la versión resumida y directa de la **Capacidad del Proyecto**, adaptada al estilo breve que prefieres para tu documento:
+
+---
+
+### 4.1 Tamaño y Capacidad del Proyecto
+
+En un modelo tecnológico SaaS (Web App), el tamaño no se mide en espacio físico, sino en la capacidad de procesamiento y almacenamiento de los servidores en la nube para soportar el tráfico de usuarios.
+
+Para cubrir la demanda proyectada del primer año (97 salones), la plataforma operará bajo una **arquitectura de capacidad elástica**, configurada con los siguientes parámetros:
+
+* **Capacidad de Procesamiento (Concurrencia):** El servidor estará configurado para procesar entre **150 y 300 peticiones simultáneas** por segundo. Esto garantiza que el sistema no sufra caídas ni lentitud durante los días de mayor demanda comercial en los salones (fines de semana).
+* **Capacidad de Almacenamiento:** * **Base de datos (Texto):** Se asignarán **10 a 20 GB** iniciales para almacenar de forma segura los historiales clínicos, usuarios y contraseñas.
+* **Multimedia (Archivos):** Se dispondrá de un contenedor en la nube con **50 GB** iniciales para el resguardo de las gráficas de daño capilar y la generación de reportes en PDF.
+
+
+* **Escalabilidad:** La infraestructura es 100% flexible. A medida que el proyecto crezca hacia la meta de 971 salones en el Año 5, el sistema de alojamiento aumentará automáticamente la memoria y el ancho de banda sin requerir interrupciones en el servicio.
+
+---
+
+¿Qué te parece esta versión más directa? Si estás de acuerdo, ¿pasamos a redactar la **Ingeniería del Proyecto** (lenguajes de programación y flujo de uso) manteniendo este mismo formato resumido?
