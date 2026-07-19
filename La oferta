@@ -1,0 +1,52 @@
+¡Perfecto! Vamos a abordar este bloque dándole ese giro tecnológico que diferenciará tu proyecto del resto.
+
+En la formulación de proyectos tradicional, la oferta suele pensarse en términos de cuántas sillas o pasteles puede fabricar una empresa basándose en su materia prima. Sin embargo, al ser tú un desarrollador de software, tu "materia prima" es el código y los servidores, lo que cambia por completo las reglas del juego.
+
+Aquí tienes la redacción adaptada a los requerimientos de tu tutor y alineada con los datos de tu modelo de negocio SaaS:
+
+---
+
+### La oferta
+
+En el marco de este proyecto tecnológico, la oferta está representada por la disponibilidad de licencias o suscripciones de la "Aplicación Web de Diagnóstico Capilar" que se pondrán a disposición de los salones de belleza y estilistas independientes en la ciudad de Managua.
+
+Al tratarse de un producto 100% digital bajo el modelo de Software como Servicio (SaaS) alojado en la nube, la naturaleza de esta oferta difiere radicalmente de la de un producto físico. La capacidad operativa para ofrecer el servicio no está limitada por inventarios físicos, horas de manufactura o espacio de almacenamiento en bodega, sino que está determinada exclusivamente por la infraestructura tecnológica configurada (capacidad de procesamiento del servidor, ancho de banda y capacidad de la base de datos).
+
+### Ley de la oferta
+
+La teoría económica general dicta que la ley de la oferta establece una relación directamente proporcional entre el precio y la cantidad ofrecida: a mayor precio, mayor será la cantidad de bienes que los productores están dispuestos a ofrecer en el mercado.
+
+En el contexto de este ecosistema de desarrollo web, la ley de la oferta se aplica desde la perspectiva de la escalabilidad de la infraestructura y el mantenimiento del sistema. Aunque habilitar una cuenta nueva para un salón de belleza no requiere esfuerzo físico, garantizar que el sistema basado en reglas procese los diagnósticos de manera instantánea y genere los reportes en PDF sin latencia requiere de recursos de servidor que sí tienen un costo. Por lo tanto, el precio validado de la suscripción mensual ($19.99 dólares) es el incentivo financiero que permite al proveedor del software escalar los recursos en la nube, garantizando así que la oferta técnica de la aplicación se mantenga estable e ininterrumpida frente a cualquier volumen de usuarios.
+
+### Elasticidad de la relación precio-oferta
+
+La elasticidad de la oferta es el indicador que mide el grado de respuesta o sensibilidad de la cantidad ofrecida ante una variación en el precio de mercado. Matemáticamente, se representa mediante la siguiente fórmula:
+
+$$E_s = \frac{\% \Delta Q_s}{\% \Delta P}$$
+
+*Donde la elasticidad de la oferta ($E_s$) es igual a la variación porcentual de la cantidad ofrecida ($\% \Delta Q_s$) dividida por la variación porcentual del precio ($\% \Delta P$).*
+
+Para la Aplicación Web de Diagnóstico Capilar, se determina que la relación precio-oferta es **altamente elástica** (tendiendo a ser perfectamente elástica).
+
+Esto se justifica técnicamente porque el costo marginal de producción de una licencia adicional de software es prácticamente cero. Al estar desarrollada como una Web App responsiva de código centralizado, si la demanda en los Distritos I y V de Managua aumentara repentinamente de 50 a 500 salones, el sistema tiene la capacidad de reaccionar y cubrir esa demanda de forma instantánea. No es necesario construir una nueva fábrica ni contratar más mano de obra para producir más "software"; basta con escalar los micro-servicios en la nube, permitiendo que la oferta tecnológica fluya sin fricciones ni restricciones físicas.
+
+¡Perfecto! Aquí tienes la redacción adaptada para estos dos apartados. Siguiendo la línea de tu proyecto tecnológico, analizaremos a la competencia no solo desde el software existente, sino desde el verdadero rival en Managua: los métodos tradicionales.
+
+### Los competidores en el mercado del producto
+
+En el mercado de soluciones tecnológicas orientadas al sector estético, la competencia para la "Aplicación Web de Diagnóstico Capilar" se divide en dos categorías claramente identificadas durante la investigación de mercado:
+
+* **Competidores Directos (Software de Gestión Comercial):** A nivel internacional y regional, existen plataformas robustas de Software como Servicio (SaaS) como AgendaPro (con fuerte presencia y liderazgo en Latinoamérica) y Booksy (Estados Unidos y Europa). Estas plataformas han validado comercialmente que los salones de belleza tienen la disposición de pagar suscripciones mensuales para digitalizar sus operaciones. Sin embargo, la debilidad competitiva de estos sistemas radica en que están diseñados casi exclusivamente para el agendamiento de citas y el cobro en caja, dejando un vacío tecnológico al no poseer módulos clínicos especializados para el diagnóstico interactivo de la hebra capilar ni la generación de reportes técnicos para el cliente.
+
+
+* **Competidores Indirectos (Métodos Tradicionales y Analógicos):** En el contexto local de Managua, el principal competidor que enfrenta el proyecto es el "statu quo" operativo. El 87.5% del mercado meta utiliza métodos empíricos como rival sustituto del software. Esto incluye las fichas clínicas impresas en papel, el almacenamiento de fotografías en la galería de teléfonos celulares, y la dependencia exclusiva de la memoria y el criterio visual del estilista de turno.
+
+
+
+### Los competidores en los mercados de insumos y servicios relacionados
+
+En la metodología de formulación de proyectos, este apartado evalúa si la existencia de otras empresas comprando la misma materia prima podría generar escasez o elevar los costos de producción.
+
+Dado que este proyecto es de naturaleza puramente informática e inmaterial, los "insumos y servicios relacionados" equivalen a la infraestructura tecnológica subyacente: servicios de alojamiento en la nube (Cloud Hosting), bases de datos, dominios web y ancho de banda.
+
+A diferencia de los mercados de manufactura física, el mercado global de computación en la nube (dominado por proveedores de infraestructura masiva) posee una disponibilidad de recursos hiper-escalable y prácticamente ilimitada para aplicaciones de este tamaño. Por lo tanto, no existe una competencia por los insumos que amenace el suministro, el precio o la continuidad operativa del sistema de diagnóstico capilar, garantizando que los costos operativos de mantenimiento tecnológico se mantengan estables y predecibles independientemente de cuántas otras aplicaciones web se estén desarrollando en la región.
