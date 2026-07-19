@@ -1,0 +1,80 @@
+¡Excelente elección! Redactar el apartado de la demanda es fundamental, ya que aquí demostraremos, con los datos que ya recolectaste, que existe un mercado real dispuesto a pagar por tu software.
+
+Basándome en la estructura exigida por tu tutor y utilizando los extraordinarios hallazgos estadísticos que ya tienes en tu avance, te propongo la siguiente redacción para que la incorpores directamente a tu documento.
+
+---
+
+### La demanda
+
+En el contexto de este proyecto tecnológico, la demanda se define como el conjunto de salones de belleza, centros de cuidado capilar y estilistas independientes ubicados en la ciudad de Managua que requieren una solución digital para estandarizar sus diagnósticos, gestionar el historial clínico-cosmético de sus clientas y automatizar la recomendación de productos.
+
+Al tratarse de un modelo de negocio B2B (Business to Business) bajo la modalidad de Software como Servicio (SaaS), el demandante directo no es el consumidor final que se corta el cabello, sino el propietario o administrador del establecimiento que busca optimizar sus tiempos de atención e incrementar sus ventas.
+
+### Análisis de la demanda
+
+El comportamiento de la demanda potencial para el "Sistema de Diagnóstico Capilar" presenta características muy favorables, respaldadas por el trabajo de campo realizado en la fase exploratoria:
+
+* **Demanda insatisfecha y dependiente de métodos analógicos:** Existe un amplio sector del mercado operando de manera ineficiente. El 87.5% de los establecimientos evaluados no utiliza ningún software especializado, dependiendo exclusivamente del uso de papel, fotografías o la memoria del estilista.
+
+
+* **Alta intención de adopción tecnológica:** La demanda potencial ha validado la necesidad del producto. El 91.1% del mercado meta mostró una postura positiva hacia la implementación de la aplicación web, siendo el "Expediente Clínico Digital Seguro" la funcionalidad más exigida por el 75% de los encuestados.
+
+
+* **Elasticidad y sensibilidad al precio:** La demanda es altamente sensible a los costos iniciales, rechazando los modelos de pago único. Sin embargo, presenta una gran disposición al pago de suscripciones recurrentes, siempre que el precio se mantenga por debajo del umbral de los $25 dólares mensuales.
+
+
+* **Concentración geográfica y perfil del demandante:** La mayor concentración de la demanda temprana (early adopters) se ubica en los micro y pequeños salones (de 2 a 4 estilistas) concentrados comercialmente en el Distrito V (50%) y el Distrito I (19.2%) de Managua.
+
+
+
+### La proyección de la demanda
+
+Para proyectar el crecimiento de la demanda de suscripciones del software en un horizonte temporal de 5 años, se empleará el modelo matemático de crecimiento compuesto. La fórmula a utilizar es:
+
+$D_t = D_0 (1 + r)^t$
+
+Donde:
+
+* $D_t$ representa la demanda proyectada en el año $t$.
+* $D_0$ es la demanda inicial estimada en el año base (mercado cautivo inicial de salones en los Distritos I y V).
+* $r$ es la tasa de crecimiento anual esperada del sector servicios de belleza en Managua.
+* $t$ es el tiempo en años.
+
+*Nota para ti (no incluir en el documento): Aquí tendrás que insertar una pequeña tabla con los números proyectados. Como no tenemos el censo exacto de cuántos salones hay en Managua en total, te sugiero hacer un estimado conservador. Por ejemplo, si estimamos captar 50 salones en el primer año ($D_0 = 50$) con un crecimiento anual del 5% ($r = 0.05$), tu tabla mostraría el crecimiento año con año.*
+
+---
+
+¿Qué te parece esta redacción para cubrir el bloque de la demanda? ¿Te gustaría que construyamos juntos la tabla con los números exactos de la proyección, o prefieres que pasemos al siguiente punto que es **La oferta** y **Los competidores**?
+
+¡Con mucho gusto! Completar esta sección con datos concretos le dará mucha solidez financiera a tu perfil de proyecto.
+
+A continuación, te presento la tabla proyectada asumiendo un escenario conservador pero realista para una aplicación B2B (Business to Business) en sus primeros años, enfocándonos inicialmente en tu mercado validado de los Distritos I y V de Managua.
+
+### Proyección de la Demanda (2026 - 2030)
+
+Para este ejercicio, asumiremos que logras captar **50 salones de belleza** durante el primer año de lanzamiento (Año base) y estimaremos una tasa de crecimiento anual del **15%**, un porcentaje estándar para startups tecnológicas de nicho en su fase temprana de expansión.
+
+| Año de Operación | Tasa de Crecimiento Esperada | Cálculo de la Fórmula | Demanda Proyectada (Salones Suscritos) |
+| --- | --- | --- | --- |
+| Año 1 (2026) | N/A | Escenario inicial | 50 salones |
+| Año 2 (2027) | 15% | $50 \times (1 + 0.15)^1$ | 58 salones |
+| Año 3 (2028) | 15% | $50 \times (1 + 0.15)^2$ | 67 salones |
+| Año 4 (2029) | 15% | $50 \times (1 + 0.15)^3$ | 77 salones |
+| Año 5 (2030) | 15% | $50 \times (1 + 0.15)^4$ | 89 salones |
+
+*(Nota: Los resultados han sido redondeados al número entero más cercano, ya que no es posible tener fracciones de un salón suscrito).*
+
+---
+
+### ¿Por qué te conviene utilizar el modelo matemático de Crecimiento Compuesto?
+
+En la formulación de proyectos, existen varios métodos de proyección (lineal, logarítmico, medias móviles). Sin embargo, para tu caso específico como Ingeniero en Sistemas desarrollando un **Software como Servicio (SaaS)**, el modelo de crecimiento compuesto o exponencial ($D_t = D_0 (1 + r)^t$) es el indicado por las siguientes razones técnicas y comerciales:
+
+* **Naturaleza Acumulativa del Modelo SaaS:** A diferencia de vender un corte de cabello (donde empiezas de cero cada mes), en el modelo de suscripción mensual que elegiste, los clientes se acumulan. Los salones que captaste en el Año 1 seguirán pagando en el Año 2, sumándose a los clientes nuevos. El modelo compuesto refleja matemáticamente esta retención de usuarios.
+
+
+* **El Efecto "Bola de Nieve" en Gremios Cerrados:** Tal como validaste al usar la técnica de muestreo de bola de nieve en tu investigación cualitativa, el sector de la belleza es un gremio muy conectado. A medida que más salones usan tu plataforma para enviar reportes en PDF a sus clientas, otros salones verán esos reportes y querrán la misma tecnología. El crecimiento compuesto simula este factor de viralidad (el boca a boca).
+
+
+* **Ausencia de Límites de Inventario:** Si tuvieras una fábrica de sillas, tu crecimiento lineal estaría limitado por cuánta madera puedes comprar. Al ser un producto 100% digital alojado en la nube, tu capacidad para aceptar nuevos suscriptores es prácticamente infinita. La fórmula exponencial representa la escalabilidad pura del código que vas a programar.
+* **Aceptación Financiera:** Cuando presentes tu proyecto ante el jurado o posibles inversores, esta fórmula es el estándar de la industria tecnológica para calcular el "MRR" (Ingreso Mensual Recurrente). Demuestra que entiendes cómo escala un negocio de software, justificando financieramente tu decisión de cobrar $19.99 mensuales en lugar de un pago único.
