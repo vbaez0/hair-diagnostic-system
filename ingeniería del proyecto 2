@@ -1,0 +1,182 @@
+¡Llegamos a la sección más importante para tu carrera! Como Ingeniero en Sistemas, la **Ingeniería del proyecto** es donde demuestras tu dominio técnico.
+
+Dado que la rúbrica de tu tutor tiene muchos subtemas pensados para fábricas industriales, he adaptado la primera mitad de este bloque al lenguaje de desarrollo de software (arquitectura, metodologías ágiles, stacks tecnológicos).
+
+Aquí tienes la primera parte de este extenso e importante capítulo:
+
+---
+
+### Ingeniería del proyecto
+
+La ingeniería de este proyecto comprende el diseño, estructuración y desarrollo de la "Aplicación Web de Diagnóstico Capilar". Su objetivo es traducir las reglas técnicas de la cosmetología (evaluación de porosidad, elasticidad y daño) en un sistema lógico computacional capaz de procesar datos en tiempo real, generar diagnósticos estandarizados y emitir reportes en formato PDF almacenados de forma segura en la nube.
+
+### El proceso de producción
+
+En el contexto del desarrollo de software, el proceso de producción se define como el Ciclo de Vida del Desarrollo del Software (SDLC). Para este proyecto, se empleará un enfoque de **Metodología Ágil (Desarrollo Iterativo)**, el cual permite programar la aplicación en fases cortas o "sprints", garantizando la adaptabilidad del código. El proceso de producción se divide en:
+
+1. **Levantamiento de requerimientos:** Definición de la matriz de reglas lógicas del diagnóstico.
+
+
+2. **Diseño (UI/UX):** Creación de interfaces optimizadas para pantallas táctiles (tabletas y móviles) que eviten la digitación extensa de texto.
+
+
+3. **Codificación (Desarrollo):** Programación del *Frontend* (interfaz visual), el *Backend* (lógica del servidor) y la integración de la base de datos.
+
+
+4. **Despliegue y Pruebas:** Alojamiento en la nube y pruebas piloto en salones seleccionados para ajustar la velocidad de respuesta.
+
+
+
+### Tecnología de producción
+
+La tecnología de producción o *Tech Stack* comprenderá herramientas de desarrollo web modernas que permiten la creación de aplicaciones responsivas y escalables:
+
+* **Frontend (Interfaz de usuario):** Lenguajes y *frameworks* de desarrollo web (ej. HTML5, CSS3, JavaScript, React o Vue.js) diseñados para ser ágiles y compatibles con cualquier navegador en las tabletas de los salones.
+
+
+* **Backend (Lógica de servidor):** Entornos de ejecución (ej. Node.js o Python) encargados de procesar el algoritmo de recomendación cruzando los datos del cabello con el inventario del salón.
+
+
+* **Base de datos:** Sistema de gestión de bases de datos (SQL o NoSQL) en la nube para el almacenamiento del expediente clínico-cosmético de las clientas.
+
+
+
+### El factor ambiental y la tecnología del proyecto
+
+El proyecto presenta un impacto ambiental altamente positivo (tecnología verde). Al digitalizar por completo el diagnóstico capilar, se erradica el uso masivo de papel y tinta que el 87.5% de los salones encuestados utiliza actualmente. Al sustituir las fichas impresas por "Expedientes Digitales en la Nube" y reportes electrónicos en PDF enviados por WhatsApp, la aplicación promueve una operatividad "Cero Papel" (Paperless) en el sector estético de Managua.
+
+### El estudio tecnológico: variables a relevar
+
+Para asegurar que la aplicación cumpla con las exigencias operativas del salón, se determinaron las siguientes variables tecnológicas críticas (KPIs):
+
+* **Velocidad de procesamiento (Latencia):** El algoritmo debe procesar las reglas y emitir el reporte PDF en un tiempo inferior a 2 minutos para erradicar el "cuello de botella" actual en el punto de atención.
+
+
+* **Disponibilidad (Uptime):** El sistema alojado en la nube debe garantizar una disponibilidad del 99.9%, asegurando que los estilistas siempre tengan acceso al historial de sus clientas.
+
+
+* **Concurrencia:** Capacidad del servidor para soportar múltiples diagnósticos simultáneos en horas pico (fines de semana).
+
+### Alternativa de producción
+
+En el desarrollo de software, existen tres alternativas principales de "producción" o adquisición tecnológica:
+
+* **Alternativa A:** Adquirir un software de marca blanca (White-label) extranjero y revenderlo.
+* **Alternativa B:** Subcontratar (Outsourcing) a una agencia de programación externa para que desarrolle el sistema.
+* **Alternativa C:** Desarrollo a la medida (In-house) ejecutado íntegramente por el formulador del proyecto.
+**Selección:** Se opta por la **Alternativa C (Desarrollo In-house)**, ya que garantiza el control absoluto sobre el código fuente, la propiedad intelectual del algoritmo basado en reglas y elimina los altos costos de pago a agencias de terceros, maximizando la rentabilidad del modelo SaaS.
+
+
+
+### Selección de maquinaria y equipo
+
+En lugar de maquinaria industrial, el equipo técnico necesario para la producción del software incluye:
+
+* **Hardware de Desarrollo:** Equipo de cómputo principal (Laptop o PC de escritorio) con altas especificaciones de memoria RAM y procesamiento para compilar el código.
+* **Dispositivos de Prueba (Testing):** Tableta digital y teléfono inteligente (Smartphone) para simular y validar la experiencia del usuario (UX) tal como la vivirán los estilistas en el salón.
+
+
+* **"Maquinaria" Virtual:** Servidores privados virtuales (VPS) o instancias en la nube contratadas a proveedores tecnológicos para ejecutar la aplicación de cara al público.
+
+
+
+### Selección de la materia prima
+
+En la ingeniería de sistemas, la "materia prima" está compuesta por los recursos intangibles y lógicos utilizados para construir el producto final:
+
+* **Insumos informáticos:** Bibliotecas de código (*Libraries*), interfaces de programación de aplicaciones (APIs) para la generación de documentos PDF y herramientas integradas de envío por mensajería (WhatsApp API).
+
+
+* **Materia prima lógica:** Las reglas cosmetológicas y tricológicas (bases de conocimiento sobre porosidad y elasticidad capilar) que alimentarán la inteligencia del algoritmo de diagnóstico.
+
+
+
+---
+
+**¿Qué te parece esta primera parte?** Hemos traducido exitosamente los conceptos industriales al mundo del software.
+
+Para terminar el "Estudio Técnico", nos falta redactar: *Selección del personal, Descripción y diagrama del proceso, Efectos económicos, Distribución de la planta, Valorización de obras físicas, Control de calidad y Seguridad industrial*. ¿Continuamos con esta segunda mitad?
+
+Aquí tienes la segunda mitad del **Estudio Técnico**, donde terminamos de adaptar los conceptos industriales clásicos al desarrollo de software y computación en la nube.
+
+Esta redacción está lista para incorporarse a tu documento, demostrando un alto nivel de ingeniería:
+
+---
+
+### Selección del personal de producción
+
+En un emprendimiento tecnológico de desarrollo propio (In-house), el personal de producción corresponde a los perfiles de ingeniería de software requeridos para construir y mantener el sistema.
+En la etapa inicial, el proyecto operará bajo el esquema de un único desarrollador asumiendo el rol de **Ingeniero Full-Stack** (Víctor Enrique Báez López), encargado tanto de la programación de la interfaz visual (*Frontend*) como de la lógica del servidor y la base de datos (*Backend*). Para futuras fases de expansión, el personal técnico proyectado incluirá perfiles especializados como:
+
+* **Ingeniero DevOps:** Para el mantenimiento avanzado de los servidores en la nube.
+* **Especialista en QA (Quality Assurance):** Para realizar pruebas de estrés y asegurar que no existan errores lógicos en las recomendaciones de productos.
+
+
+
+### Descripción del proceso de producción
+
+El "proceso de producción" de esta aplicación web se entiende como el flujo operativo mediante el cual el sistema transforma los datos crudos ingresados por el usuario en un diagnóstico estructurado y un entregable de valor (reporte). Este proceso automatizado consta de tres fases consecutivas:
+
+1. **Entrada de Datos (Input):** El estilista interactúa con el formulario guiado en su tableta, ingresando los parámetros visuales y táctiles del cabello de la clienta (nivel de porosidad, elasticidad, densidad y estado del cuero cabelludo).
+
+
+2. **Procesamiento Lógico (Throughput):** Los datos viajan al servidor, donde el motor basado en reglas cruza la información ingresada con la base de conocimiento tricológico y el inventario del salón para determinar el tratamiento exacto requerido.
+
+
+3. **Salida de Datos (Output):** El sistema emite dos resultados simultáneos: almacena la evaluación en el expediente digital seguro en la nube y compila la información visual (gráficas de daño y recomendaciones) en un archivo PDF que se envía instantáneamente al dispositivo móvil del cliente.
+
+
+
+### Diagrama del proceso
+
+*(Nota para ti: En esta sección de tu documento de Word, deberás insertar un diagrama de flujo elaborado en herramientas como Visio, Lucidchart o Draw.io. A continuación, te presento el texto descriptivo que debe acompañar a tu gráfico)*.
+
+El diagrama de procesos de la aplicación (Diagrama de Flujo de Datos) ilustra gráficamente el ciclo completo de la interacción sistema-usuario. Comienza con el inicio de sesión seguro del estilista, seguido por un bloque de decisión donde se elige crear una clienta nueva o buscar un historial existente. Posteriormente, el diagrama detalla la ruta de las reglas lógicas (condicionales SI/ENTONCES) que procesan las características de la hebra capilar, finalizando en el módulo de generación y exportación del reporte técnico en PDF.
+
+### Efectos económicos de la ingeniería
+
+Las decisiones de ingeniería tomadas en el diseño arquitectónico de la aplicación tienen un impacto directo y altamente favorable en la viabilidad económica del negocio. Al utilizar infraestructura en la nube y el desarrollo como Web App responsiva (un solo código para todos los dispositivos), se transforman los Gastos de Capital fijos (compra de servidores físicos costosos) en Gastos Operativos variables (pago por uso de la nube). Esta eficiencia en la ingeniería de costos es lo que permite ofrecer el servicio al salón bajo una suscripción accesible de $19.99 dólares mensuales, garantizando un alto margen de rentabilidad desde los primeros meses de operación.
+
+### Distribución de la planta
+
+En el entorno del desarrollo de sistemas, la "distribución de la planta" se traduce en la **Topología o Arquitectura de Red** del proyecto. La distribución lógica de los componentes de la plataforma se estructura en una arquitectura cliente-servidor de tres capas:
+
+1. **Capa de Presentación (Frontend):** Distribuida en los navegadores web de los dispositivos móviles y tabletas de los salones en Managua.
+
+
+2. **Capa de Lógica de Negocio (Backend):** Aloja la API (Interfaz de Programación de Aplicaciones) y el sistema basado en reglas tricológicas en un servidor virtual privado en la nube.
+
+
+3. **Capa de Datos:** Contiene la base de datos relacional o NoSQL (expedientes clínicos) centralizada y protegida tras firewalls de seguridad en el centro de datos del proveedor.
+
+
+
+### Valorización de obras físicas
+
+Dado que el "Sistema de Diagnóstico Capilar" es un producto puramente digital impulsado por un modelo de negocio que fomenta el trabajo remoto (*Home Office*), el proyecto **no requiere de la construcción, remodelación ni acondicionamiento de obras civiles o físicas**. La valorización económica de este apartado se sustituye por el presupuesto de instalación tecnológica, el cual se limita a la adquisición del dominio web (.com o .ni), certificados de seguridad SSL, y la configuración inicial de los entornos de producción en la nube.
+
+### Control de calidad
+
+En ingeniería de software, el control de calidad corresponde al aseguramiento de la calidad (Quality Assurance - QA) del código y la plataforma. Para garantizar que los diagnósticos y reportes sean precisos y consistentes, se implementarán las siguientes medidas:
+
+* **Pruebas Unitarias y de Integración:** Validación automatizada de los algoritmos de cruce de datos para asegurar que las reglas lógicas recomienden el producto cosmético correcto según la porosidad y elasticidad detectada.
+
+
+* **Pruebas de Estrés (Stress Testing):** Simulación de alto tráfico concurrente para asegurar que la generación de PDFs no supere el tiempo límite de 2 minutos.
+
+
+* **Control Piloto:** Liberación temprana de la aplicación (Fase Beta) en un entorno real con un salón de belleza asociado para corregir errores de usabilidad (bugs) antes del lanzamiento oficial en los Distritos I y V.
+
+
+
+### Seguridad industrial
+
+La seguridad industrial en una planta manufacturera previene accidentes físicos; en el desarrollo de aplicaciones web, se transforma en **Ciberseguridad y Protección de Datos**, previniendo incidentes digitales. Para asegurar la integridad de la información técnica del salón y la privacidad de las clientas finales, el proyecto incorpora los siguientes protocolos de seguridad informática:
+
+* **Cifrado de datos:** Toda la información transferida entre las tabletas de los salones y la nube se protegerá mediante protocolos de encriptación de extremo a extremo (HTTPS/TLS).
+
+
+* **Autenticación segura:** Acceso restringido a los expedientes clínicos mediante un sistema de credenciales seguras y roles de usuario (ej. Administrador vs. Estilista).
+
+
+* **Respaldos automatizados (Backups):** Programación de copias de seguridad diarias de la base de datos para garantizar la recuperación inmediata del historial de las clientas ante cualquier contingencia técnica en los servidores, garantizando la trazabilidad permanente que exige el proyecto.
