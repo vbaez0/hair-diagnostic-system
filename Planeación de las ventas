@@ -1,0 +1,156 @@
+¡Excelente! Siguiendo fielmente la estructura metodológica de tu tutor, vamos a desarrollar el bloque de **Planeación de las ventas**.
+
+Para un proyecto de ingeniería de software bajo el modelo SaaS (Software como Servicio), las ventas no se tratan de colocar cajas físicas en estantes, sino de adquirir y retener usuarios activos. Aquí tienes la redacción estructurada con los datos de tu investigación:
+
+---
+
+### Planeación de las ventas
+
+La planeación de ventas para la "Aplicación Web de Diagnóstico Capilar" se concibe como el proceso estratégico para introducir y comercializar el software en el mercado B2B (salones de belleza) de Managua. Al tratarse de un modelo de suscripción mensual (SaaS), el objetivo principal de esta planeación no es solo la adquisición inicial del cliente, sino asegurar la retención a largo plazo para generar un Ingreso Mensual Recurrente (MRR) estable.
+
+### Análisis de la situación
+
+El punto de partida comercial del proyecto se sustenta en los hallazgos cuantitativos de la fase exploratoria:
+
+* **Entorno competitivo:** El 87.5% de los salones encuestados opera sin digitalización en su punto de atención (utilizando papel o memoria), lo que representa un "océano azul" (mercado no explotado) para la introducción de esta tecnología.
+
+
+* **Validación del producto:** Existe una alta receptividad, ya que el 91.1% de los tomadores de decisión (propietarios y administradores) mostraron intención de compra para un sistema que genere expedientes en la nube y reportes en PDF.
+
+
+* **Condiciones de precio:** El mercado presenta una alta sensibilidad económica. La viabilidad de las ventas depende de respetar el umbral psicológico del cliente, que exige un costo inferior a $25 dólares mensuales, estableciendo el precio de penetración en $19.99 dólares.
+
+
+* **Foco geográfico:** El esfuerzo inicial de ventas cuenta con una ventaja de localización, dado que el 69.2% de los adoptantes tempranos potenciales se concentran específicamente en el Distrito V y el Distrito I de la capital.
+
+
+
+### Pasos para la planeación de las ventas
+
+Para transformar el interés del mercado en suscripciones activas, se define el siguiente embudo de ventas adaptado a plataformas tecnológicas:
+
+1. **Prospección hiper-segmentada:** Identificación y creación de una base de datos de micro y pequeños salones de belleza (de 2 a 4 estilistas) ubicados exclusivamente en los Distritos I y V de Managua.
+
+
+2. **Acercamiento y demostración (Demo):** Ejecución de visitas físicas y envío de campañas por WhatsApp para mostrar en tiempo real la velocidad de la aplicación, demostrando cómo el test capilar se completa en menos de 2 minutos desde una tableta.
+
+
+3. **Periodo de prueba (Onboarding):** Ofrecer una cuenta de acceso gratuito o subsidiado por 14 días para superar la barrera del escepticismo técnico y permitir que el estilista interactúe con el algoritmo sin riesgo financiero.
+
+
+4. **Cierre y Suscripción:** Transición de la cuenta de prueba a una suscripción de pago recurrente de $19.99 dólares mensuales, activando las funciones completas (historial en la nube y envíos ilimitados de reportes PDF).
+
+
+5. **Seguimiento y Retención:** Soporte técnico continuo y actualizaciones para asegurar que el salón logre el incremento del 20% en sus ventas de productos capilares, garantizando así la renovación mensual de la licencia.
+
+
+
+### Importancia de planificar las ventas
+
+La planificación formal de las ventas es un pilar crítico para la supervivencia financiera de este proyecto tecnológico. A diferencia del desarrollo de software a medida (donde el cliente paga un alto costo por adelantado), el modelo de suscripción requiere absorber los costos iniciales de programación y de infraestructura en la nube. Planificar las ventas permite proyectar con precisión en qué mes el flujo de caja operativo cubrirá los costos de los servidores web y el mantenimiento de la base de datos, asegurando la rentabilidad del desarrollador y la estabilidad del sistema para los usuarios finales.
+
+### Técnicas para presupuestar las ventas
+
+Dado que el "Sistema de Diagnóstico Capilar" es un producto innovador en el mercado local y no cuenta con datos históricos de ventas en Nicaragua, no es posible utilizar técnicas estadísticas de series de tiempo tradicionales.
+
+Por consiguiente, para la elaboración del presupuesto de ventas se utilizará la técnica de **Juicio Ejecutivo** combinada con un enfoque **"Bottom-Up" (de abajo hacia arriba)**. Esta técnica consiste en estimar el número máximo de demostraciones (demos) que el desarrollador puede realizar mensualmente en los distritos meta, aplicándole una tasa de conversión conservadora basada en la intención de compra del 91.1% reflejada en las encuestas. A partir de estas nuevas licencias mensuales proyectadas, se calculará el ingreso multiplicando los usuarios activos por el costo de la suscripción mensual.
+
+¡Continuamos avanzando a buen ritmo! Ahora entraremos a una de las partes más dinámicas del proyecto: las **Estrategias de mercadeo**.
+
+Como tu producto es una aplicación web y tu cliente es un negocio (B2B), tus estrategias de mercadeo no pueden ser las mismas que las de una tienda de ropa o un restaurante. No buscamos "likes" masivos, buscamos conversiones de dueños de salones.
+
+Aquí tienes la redacción estructurada para cumplir con la rúbrica de tu tutor, basada en los datos exactos que recolectaste en tu investigación:
+
+---
+
+### Estrategias de mercadeo
+
+Para la comercialización exitosa de la "Aplicación Web de Diagnóstico Capilar" en el mercado de Managua, se ha diseñado una mezcla de mercadeo (Marketing Mix) enfocada en el entorno tecnológico B2B (Business to Business) bajo un modelo de Software como Servicio (SaaS). Las estrategias se dividen en cuatro ejes fundamentales:
+
+* **Estrategia de Producto (Enfoque en el valor comercial):** El mercadeo no se centrará en vender "código" o "software", sino en vender **rentabilidad y seguridad**. La estrategia principal de producto es posicionar la funcionalidad de generación de reportes en PDF y gráficas de daño como un "gancho" comercial. Se comunicará al dueño del salón que esta herramienta es el motor para solucionar el olvido del cliente (detectado en el 46.4% de los casos) e incrementar la venta de productos (retail) en su local en al menos un 20%.
+
+
+* **Estrategia de Precio (Penetración SaaS):** Basado en la alta sensibilidad económica del mercado, la estrategia consiste en un **precio de penetración** fijado en $19.99 dólares mensuales. Se descarta el modelo de venta de licencias perpetuas de alto costo para eliminar la barrera de entrada a los micro y pequeños salones de belleza. Además, se utilizará la estrategia de "Prueba Gratuita" (Free Trial) de 14 días para mitigar el riesgo percibido por los estilistas.
+
+
+* **Estrategia de Plaza (Distribución Digital):** Al ser una Web App responsiva con base de datos en la nube, la distribución será inmediata y 100% digital, eliminando costos logísticos de instalación física. La estrategia es garantizar que la plataforma sea accesible desde las tabletas digitales del salón, el dispositivo preferido por el 64.3% de la demanda meta para la estación de trabajo.
+
+
+* **Estrategia de Promoción (Hiper-segmentación local):** Se evitará el gasto en campañas publicitarias masivas a nivel nacional. La estrategia promocional aplicará un "foco local", concentrando las campañas de anuncios digitales (Facebook e Instagram Ads) y el contacto directo vía WhatsApp exclusivamente en los salones ubicados en el **Distrito V y el Distrito I** de Managua, donde se concentra casi el 70% de la intención de compra validada.
+
+
+
+### Proceso en el establecimiento de la estrategia de mercadeo
+
+El diseño y ejecución de las estrategias de mercadeo para esta aplicación tecnológica no se realizaron de forma empírica, sino que siguieron un proceso lógico y estructurado:
+
+1. **Análisis de la situación y recolección de datos:** El proceso inició con la ejecución de la investigación exploratoria y descriptiva (encuestas a 56 profesionales). Esto permitió identificar que el 87.5% de los salones operan bajo ineficiencia de datos (usando papel y memoria), validando la existencia de un mercado desatendido.
+
+
+2. **Definición del público objetivo (Buyer Persona):** A partir del análisis demográfico, se estableció que el esfuerzo de mercadeo no se dirigirá a grandes cadenas, sino a micro-empresarios jóvenes (1 a 3 años de experiencia) con equipos de trabajo reducidos (2 a 4 estilistas) ubicados en las zonas de mayor tráfico comercial de Managua.
+
+
+3. **Establecimiento de objetivos:** Se definió como objetivo principal de mercadeo lograr la penetración inicial del mercado mediante la conversión de demostraciones gratuitas a suscripciones de pago recurrente.
+
+
+4. **Desarrollo e implementación táctica:** Se estructuró la oferta de valor basada en la rapidez del servicio (diagnóstico en menos de 2 minutos) y la creación de historiales clínicos en la nube (la función más demandada por el 75% del mercado). Esta táctica se implementará mediante visitas físicas programadas en los distritos meta.
+
+
+5. **Evaluación y control (Métricas SaaS):** El último paso del proceso consistirá en el monitoreo mensual de la estrategia mediante los indicadores clave del modelo de suscripción: el Costo de Adquisición de Clientes (CAC) de las campañas digitales y la Tasa de Cancelación (Churn Rate), para asegurar que el salón perciba valor continuo y mantenga su suscripción activa a largo plazo.
+
+
+
+---
+
+Con esto, cerramos uno de los bloques más importantes para demostrar la viabilidad comercial de tu aplicación.
+
+El siguiente apartado en la guía de tu tutor es **"Pronóstico del mercado"** y sus subtemas (Características y Selección del método). ¿Te gustaría que los abordemos ahora mismo para ir cerrando definitivamente el Capítulo de Estudio de Mercado?
+
+¡Perfecto! Vamos a cerrar con broche de oro este capítulo. El pronóstico del mercado es la pieza que le demuestra a tu jurado que puedes ver hacia el futuro de tu negocio con base en los datos que ya recolectaste, y no solo en suposiciones.
+
+Aquí tienes la redacción para estos apartados, adaptando la teoría tradicional de formulación de proyectos a tu entorno de innovación tecnológica:
+
+### Pronóstico del mercado
+
+El pronóstico del mercado para la "Aplicación Web de Diagnóstico Capilar" consiste en la estimación de la demanda futura y la adopción de las licencias SaaS (Software como Servicio) por parte de los salones de belleza en la ciudad de Managua. Dado que el proyecto introduce una innovación tecnológica que cambia la manera tradicional de trabajar (pasando del papel y la memoria a la nube), el pronóstico no solo mide cuántos clientes comprarán, sino a qué velocidad el mercado asimilará este cambio tecnológico.
+
+### Características de los pronósticos
+
+Los pronósticos elaborados para este modelo de negocio tecnológico B2B poseen características muy particulares que difieren de los proyectos de manufactura tradicional:
+
+* **Fundamentación en datos primarios:** A falta de estadísticas nacionales sobre el uso de software en salones nicaragüenses, el pronóstico se alimenta de los datos empíricos directos recolectados en el estudio de campo, específicamente del 91.1% de intención de adopción validada en la muestra.
+
+
+* **Enfoque de corto y mediano plazo:** En el sector de desarrollo de software, la tecnología cambia rápidamente. Por lo tanto, el pronóstico es más exacto y útil en un horizonte de 1 a 3 años, proyectando la penetración inicial en el Distrito I y V de Managua antes de evaluar una expansión nacional.
+
+
+* **Naturaleza dinámica y ajustada a la capacidad:** El pronóstico no asume ventas automáticas, sino que está directamente condicionado a la capacidad operativa del desarrollador para realizar demostraciones físicas ("demos") y cierres de venta mensuales en las estaciones de trabajo de los salones.
+
+
+* **Modelo conservador:** El pronóstico asume una postura de riesgo controlado, aplicando tasas de conversión reducidas frente a la alta intención de compra teórica para asegurar que el flujo de caja cubra los costos de los servidores en la nube sin proyectar ingresos irreales.
+
+
+
+### Selección del método de pronóstico
+
+La selección del método de pronóstico es una de las decisiones metodológicas más importantes del estudio de mercado. En la teoría convencional existen métodos cuantitativos (basados en series de tiempo históricas) y cualitativos (basados en la opinión y el análisis).
+
+Para la "Aplicación Web de Diagnóstico Capilar", se ha seleccionado un **Método Cualitativo**, específicamente la técnica de **Juicio Ejecutivo** combinada con una estimación **"Bottom-Up" (de abajo hacia arriba)**.
+
+La justificación de esta selección se basa en tres factores técnicos y comerciales:
+
+1. **Carencia de datos históricos:** Al ser una aplicación completamente nueva en Managua que atiende un nicho específico (ausencia de módulos clínicos capilares en softwares actuales como AgendaPro), no existe un historial de ventas pasado que permita alimentar una ecuación matemática de series de tiempo.
+
+
+2. **Modelo SaaS:** El enfoque "Bottom-Up" es el estándar para startups tecnológicas, ya que permite pronosticar las ventas multiplicando el número de clientes que el fundador tiene la capacidad real de visitar por la tasa de conversión y el precio mensual de la suscripción ($19.99 dólares).
+
+
+3. **Flexibilidad estratégica:** El Juicio Ejecutivo permite al investigador ajustar el pronóstico mes a mes basándose en la retroalimentación real obtenida de los estilistas durante los periodos de prueba gratuitos de 14 días.
+
+
+
+### Relación entre las variables del estudio de mercado
+
+Para concluir la sección de mercado, es fundamental establecer cómo interactúan las variables analizadas para dar viabilidad comercial al proyecto informático.
+
+La viabilidad comercial del sistema de diagnóstico capilar se sostiene por una relación directa de causa y efecto entre sus variables operativas y comerciales. El problema técnico de depender de métodos manuales (variable independiente) genera una ineficiencia en el punto de atención, donde el diagnóstico toma más de 6 a 10 minutos (efecto operativo). Esta ineficiencia detona la demanda insatisfecha por una herramienta digital (variable de mercado). Al introducir la aplicación web con el Expediente Clínico Seguro (oferta tecnológica), el salón reduce sus tiempos y soluciona el olvido del cliente al enviarle un PDF (propuesta de valor), lo que finalmente incrementa la venta cruzada de tratamientos capilares (resultado financiero esperado), justificando así la disposición a pagar la suscripción recurrente.
