@@ -1,0 +1,118 @@
+¡Llegamos a tu terreno! El **Estudio Técnico** es donde brillarás como futuro Ingeniero en Sistemas.
+
+En la formulación de proyectos tradicionales, esta sección habla de fábricas, metros cuadrados y capacidad de ensamblaje. Nosotros vamos a traducir todos esos términos al lenguaje de la **arquitectura en la nube y el desarrollo de software**, que es exactamente lo que el jurado evaluador de tu carrera esperará ver.
+
+A continuación, te presento la redacción para la introducción del Estudio Técnico y todo el bloque correspondiente al **Tamaño del proyecto**:
+
+---
+
+### Estudio técnico
+
+El objetivo del estudio técnico es demostrar la viabilidad operativa y tecnológica para el desarrollo, implementación y mantenimiento de la "Aplicación Web de Diagnóstico Capilar". Al tratarse de un producto informático basado en el modelo de Software como Servicio (SaaS), este estudio no se enfoca en la manufactura de bienes físicos, sino en el diseño de la arquitectura web, la capacidad de los servidores en la nube y la ingeniería de software necesaria para garantizar la disponibilidad, rapidez y seguridad del sistema.
+
+### Tamaño del proyecto
+
+En un ecosistema digital, el tamaño del proyecto no se mide por la dimensión física de una planta de producción, sino por la **capacidad de procesamiento y almacenamiento tecnológico** configurada para atender a la demanda de usuarios. El tamaño inicial del proyecto está diseñado para soportar el tráfico concurrente de los salones de belleza y estilistas independientes que adopten el sistema en la ciudad de Managua.
+
+#### Capacidad
+
+La capacidad operativa de esta aplicación web se define en términos de concurrencia y transferencia de datos. Inicialmente, el sistema se configurará con una capacidad de servidor de nivel de entrada (entry-tier en la nube) capaz de soportar hasta 500 conexiones simultáneas sin latencia y almacenar miles de expedientes clínicos-cosméticos y reportes en formato PDF generados por la demanda proyectada de los Distritos I y V de Managua.
+
+#### Factores que determinan el tamaño de un proyecto
+
+Para esta aplicación web, los factores condicionantes del tamaño de la infraestructura tecnológica inicial son tres:
+
+1. **La demanda esperada:** La proyección inicial de captar aproximadamente 50 salones en el primer año define la necesidad de espacio en la base de datos.
+
+
+2. **La capacidad financiera:** Como proyecto impulsado por un único desarrollador e investigador, el tamaño de los servidores se limita al presupuesto operativo inicial para cubrir los costos mensuales de "Cloud Hosting".
+
+
+3. **La tecnología disponible:** El uso de servicios en la nube (como AWS, Google Cloud o Firebase) permite arrancar con un tamaño de infraestructura pequeño, el cual puede modificarse posteriormente.
+
+#### Optimización del tamaño
+
+La optimización del tamaño del proyecto se logra mediante el uso de una arquitectura de software responsiva y bases de datos NoSQL o relacionales escalables alojadas en la nube. Esto permite pagar únicamente por los recursos de cómputo que la aplicación consume. Si los estilistas generan muchos diagnósticos interactivos los fines de semana (días de alta afluencia en los salones), el sistema optimiza la memoria RAM del servidor dinámicamente para evitar caídas, reduciéndola en los días de menor tráfico.
+
+#### Economía del tamaño
+
+La economía del tamaño, o economías de escala, es la mayor ventaja competitiva de este proyecto de ingeniería de software. En una empresa física, producir el doble de unidades cuesta casi el doble en materia prima. En esta aplicación SaaS, una vez que la base de datos y el motor lógico basado en reglas están programados y alojados, el costo marginal de agregar un nuevo salón de belleza al sistema es prácticamente cero. A medida que aumenta el número de suscriptores pagando $19.99 dólares mensuales, los costos fijos del servidor se diluyen, generando una rentabilidad exponencial.
+
+#### Planes de ampliación o ensanche
+
+Los planes de ampliación del sistema informático se dividen en dos enfoques técnicos y comerciales:
+
+* **Ampliación técnica (Escalamiento Vertical y Horizontal):** A medida que la aplicación acumule historiales de clientes, se contratarán planes de alojamiento de mayor capacidad (mayor CPU y almacenamiento en discos SSD) para asegurar que el algoritmo de recomendación de productos siga respondiendo en menos de 2 minutos por consulta.
+
+
+* **Ensanche comercial:** Una vez consolidado el sistema en el Distrito V y Distrito I de Managua, la plataforma será promocionada para abarcar todos los distritos de la capital e, inclusive, escalar su disponibilidad a otros departamentos del país sin necesidad de abrir sucursales físicas.
+
+
+
+---
+
+Con esto cubrimos la primera parte técnica. El siguiente bloque en tu rúbrica es **"Localización del proyecto"**, que incluye factores de localización, macro localización y micro localización.
+
+¿Te gustaría que sigamos con la "Localización" adaptándola a la infraestructura en la nube y tu espacio de trabajo, o prefieres avanzar directamente a la "Ingeniería del proyecto"?
+
+
+¡Claro que sí! Esta sección es muy interesante de redactar para un proyecto tecnológico. Mientras que una fábrica de zapatos necesita evaluar la cercanía a las carreteras y el acceso a materias primas, un emprendimiento de software evalúa la latencia de sus servidores y la cercanía comercial a sus clientes iniciales.
+
+Aquí tienes la redacción adaptada para cumplir con la rúbrica, dividiendo la "localización" en su parte física (donde operarás tú) y su parte digital (donde operará el código):
+
+---
+
+### Localización del proyecto
+
+Para el desarrollo e implementación de la "Aplicación Web de Diagnóstico Capilar", el concepto de localización posee una naturaleza dual. Por un lado, existe una localización física (administrativa y comercial) desde donde el desarrollador gestionará el código, las ventas y el soporte técnico. Por otro lado, existe una localización digital o de infraestructura lógica, que corresponde a la ubicación geográfica de los servidores en la nube (Data Centers) que alojarán la base de datos y procesarán el sistema basado en reglas.
+
+### Factores que influyen en la localización
+
+Para garantizar el éxito de esta plataforma SaaS, los factores determinantes para seleccionar tanto la base física como la digital fueron los siguientes:
+
+* **Proximidad al mercado meta (Físico):** La necesidad de estar ubicado geográficamente cerca del Distrito I y el Distrito V de Managua para facilitar las demostraciones presenciales y las visitas de ventas en los salones de belleza.
+
+
+* **Infraestructura de telecomunicaciones (Físico):** Acceso a una conexión de internet de banda ancha estable y redundante para programar, subir el código a la nube y brindar soporte remoto sin interrupciones.
+* **Latencia y tiempo de respuesta (Digital):** La distancia física entre el servidor en la nube y los dispositivos (tabletas) en Managua. Una menor latencia asegura que los reportes en PDF se generen en menos de 2 minutos.
+
+
+* **Costos operativos (Físico y Digital):** Minimizar el gasto de alquiler de oficinas físicas mediante el trabajo remoto, y elegir proveedores en la nube que ofrezcan facturación basada en el consumo real.
+
+
+
+### Estudio de la localización y procedimiento de análisis
+
+El procedimiento del análisis de localización se realizó mediante un modelo de evaluación cualitativa por puntos, adaptado a emprendimientos digitales.
+
+Para la localización física, se evaluaron opciones como alquilar una oficina comercial, usar un espacio de *coworking* o establecer una oficina remota (Home Office). Se seleccionó la opción de oficina remota por minimizar los costos fijos al 100%, maximizando el presupuesto disponible para marketing y servidores.
+
+Para la localización digital, el procedimiento evaluó a los principales proveedores de nube pública (como Amazon Web Services, Google Cloud Platform y Microsoft Azure) bajo los criterios de costo de servidores de entrada (entry-tier), seguridad de la base de datos y cercanía de sus centros de datos hacia Centroamérica.
+
+### Macro localización
+
+La macro localización define la zona geográfica general del proyecto:
+
+* **Macro localización física:** El centro de operaciones comerciales y de desarrollo se establece en la ciudad de Managua, Nicaragua, por ser la capital económica y albergar la mayor concentración del mercado estético del país.
+
+
+* **Macro localización digital:** Los servidores principales estarán alojados en la región de América del Norte (típicamente centros de datos en Estados Unidos, como Virginia o Texas). Esta macro localización digital se elige porque son los nodos de internet que ofrecen el enrutamiento más directo y rápido hacia las redes de telecomunicaciones en Nicaragua, garantizando alta velocidad de carga para la aplicación.
+
+
+
+### Micro localización
+
+La micro localización define el punto exacto de operaciones:
+
+* **Micro localización física:** El centro de operaciones operará inicialmente bajo la modalidad de oficina remota o *Home Office* en el domicilio del desarrollador en Managua, sirviendo como punto base para desplazarse a las rutas comerciales de los Distritos I y V. *(Nota: Aquí puedes agregar tu barrio o distrito exacto si tu tutor te exige una ubicación física puntual).*
+
+
+* **Micro localización digital:** La infraestructura lógica se ubicará específicamente en los servicios de un proveedor de nube (por ejemplo, Google Firebase o AWS Región *us-east-1*). Esta micro localización asegura que el "Expediente Clínico Digital" cuente con respaldos automáticos, encriptación de datos de los clientes y un 99.9% de disponibilidad garantizada, cumpliendo con la propuesta de valor exigida por los administradores de los salones.
+
+
+
+---
+
+Con esto demostramos que, aunque no construyas un edificio, has pensado estratégicamente dónde "vivirá" tu proyecto.
+
+El siguiente apartado es el corazón informático de tu trabajo: **La Ingeniería del proyecto**. Aquí hablaremos del proceso de producción (desarrollo de software), tecnología, diagrama de procesos y selección de "maquinaria" (hardware/software). ¡Dime cuando estés listo para arrancar con esta sección!
