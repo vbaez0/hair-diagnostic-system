@@ -1,0 +1,97 @@
+¡Excelente trabajo! He analizado el código XML que me compartiste de Draw.io y la lógica de tu diagrama es impecable. Has estructurado los bloques de decisión (rombos) y los procesos de manera muy limpia, contemplando perfectamente las variaciones entre clientes nuevos y existentes.
+
+Este diagrama cumple a la perfección con lo requerido para el apartado de **Diagrama del proceso**. De hecho, al tener este flujo tan claro, ya tenemos la base exacta para redactar el **Cursograma del servicio** que nos pide tu guía en el capítulo de Plan de Producción.
+
+Aprovechando tu diagrama, aquí tienes la redacción técnica de ese inciso lista para tu documento:
+
+---
+
+### Cursograma del servicio
+
+El cursograma del servicio detalla el flujo de interacción secuencial entre el usuario (estilista) y el sistema informático, abarcando desde el inicio de la sesión hasta la entrega del resultado final. Basado en el diseño lógico de la aplicación, el proceso consta de las siguientes etapas:
+
+1. **Autenticación de Usuario:** El proceso inicia cuando el estilista ingresa a la aplicación y provee sus credenciales de acceso para validar su identidad en el sistema.
+
+
+2. **Captura de Variables (Input):** Una vez validado, el sistema despliega la interfaz principal donde el usuario ingresa los datos capilares detectados en la evaluación física de la clienta.
+
+
+3. **Procesamiento Lógico:** El motor del sistema recibe los parámetros, procesa la información cruzándola con la matriz de reglas tricológicas y calcula el diagnóstico técnico.
+
+
+4. **Despliegue de Resultados:** El sistema muestra en pantalla el resultado del diagnóstico, abriendo paso a las decisiones de almacenamiento y exportación.
+
+
+5. **Gestión de Base de Datos:** Si el usuario decide guardar el diagnóstico, el sistema consulta si se trata de un cliente existente; de ser nuevo, despliega un formulario para recolectar sus datos personales (nombre, email, celular) antes de consolidar el guardado en la base de datos.
+
+
+6. **Generación de Entregable (Output):** Finalmente, si el usuario lo solicita, el sistema ejecuta el retraso de procesamiento necesario para compilar y generar el documento final (reporte en PDF), concluyendo así el ciclo del servicio.
+
+
+
+---
+
+He guardado tu diagrama en mi memoria para mantener la coherencia en todo lo que sigamos redactando.
+
+Para continuar con el *Plan de Producción*, el siguiente punto es **"Activos fijos" y "Vida útil de los activos fijos"**. ¿Te parece bien si te preparo una tabla detallando el hardware (tu equipo de desarrollo) y los activos intangibles (dominio web/licencias) con sus respectivos años de depreciación contable?
+
+Aquí tienes la continuación del **Plan de Producción** adaptado a tu modelo de negocio tecnológico (SaaS), siguiendo estrictamente los incisos de tu guía de contenido.
+
+He estructurado la información utilizando tablas para que los datos sean claros, profesionales y fáciles de leer para tu jurado.
+
+---
+
+### Activos fijos y Vida útil de los activos fijos
+
+En el contexto de una empresa de desarrollo de software y servicios en la nube, los activos fijos no corresponden a maquinaria industrial pesada, sino a la infraestructura tecnológica y legal necesaria para operar y desarrollar la plataforma. Estos se dividen en tangibles (equipos físicos) e intangibles (derechos y registros), con su respectiva depreciación o amortización en el tiempo.
+
+| Tipo de Activo | Descripción del Bien | Cantidad | Vida Útil Contable |
+| --- | --- | --- | --- |
+| **Tangible** | Equipo de cómputo principal (Laptop de alto rendimiento para programación Backend/Frontend). | 1 | 3 a 5 años |
+| **Tangible** | Dispositivo móvil de pruebas (Tableta o Smartphone para validación de interfaces UI/UX). | 1 | 3 años |
+| **Intangible** | Registro de Propiedad Intelectual y Marca Comercial del sistema. | 1 | 10 años (Renovable) |
+| **Intangible** | Adquisición de Dominio Web (.com / .ni). | 1 | 1 año (Renovable) |
+
+### Capacidad planificada y futura
+
+La métrica de capacidad en este proyecto se mide por el volumen de procesamiento de datos concurrentes y la generación de reportes.
+
+* **Capacidad Planificada (Fase Inicial):** El servidor en la nube se configurará con una capacidad transaccional base para soportar la demanda del mercado meta inicial (Distritos I y V de Managua). Se estima una capacidad instalada para procesar sin latencia hasta 500 diagnósticos diarios y almacenar simultáneamente 500 nuevos expedientes clínicos en la base de datos.
+
+
+* **Capacidad Futura (Escalabilidad):** Gracias a la arquitectura nativa en la nube (*Cloud Computing*), la capacidad de producción es elástica. Si el proyecto se expande a nivel nacional o regional, la infraestructura aumentará automáticamente sus recursos (RAM, procesamiento y almacenamiento) sin necesidad de adquirir servidores físicos adicionales, garantizando un crecimiento ininterrumpido.
+
+
+
+### Materia prima necesaria y costo de la materia prima
+
+Dado que es un producto 100% digital, la "materia prima" se traduce en los servicios, plataformas de terceros (APIs) y capacidad de cómputo que la aplicación consume para poder funcionar de manera continua.
+
+*(Nota: Los siguientes costos son estimaciones referenciales para el modelado financiero del proyecto)*.
+
+| Insumo Tecnológico (Materia Prima) | Función en el Proceso de Producción | Costo Estimado (Mensual/Anual) |
+| --- | --- | --- |
+| **Servidor Cloud (Ej. AWS / Firebase)** | Alojamiento del motor lógico y base de datos (Backend). | $15.00 - $30.00 USD / mes (Pago por consumo) |
+| **API de Mensajería (Ej. WhatsApp Business)** | Envío automatizado de los reportes PDF a las clientas finales. | $0.02 USD / por mensaje enviado |
+| **Certificado de Seguridad SSL** | Encriptación de los datos clínicos de las clientas. | $50.00 USD / anual |
+| **Librerías de Generación PDF** | Compilación de los datos crudos hacia el entregable visual. | Gratuito (Open Source) |
+
+### Mano de obra directa e indirecta
+
+El factor humano es el pilar central para la construcción y el mantenimiento del sistema.
+
+* **Mano de Obra Directa:** Corresponde al personal directamente involucrado en la "fabricación" del software. En la fase inicial, este rol será asumido de manera integral por un **Ingeniero Full-Stack** (Víctor Enrique Báez López), quien se encargará de la programación de la interfaz, el diseño de la base de datos, la configuración del servidor y el soporte técnico de Nivel 1.
+
+
+* **Mano de Obra Indirecta:** Servicios profesionales que no programan la aplicación, pero son esenciales para la operatividad legal y comercial del negocio. Esto incluye la contratación tercerizada (*Outsourcing*) de servicios contables para la declaración de impuestos y, eventualmente, asesores de ventas para la captación de nuevos salones de belleza.
+
+
+
+### Gastos generales de la empresa
+
+Para garantizar la operatividad de la "fábrica de software", la cual funcionará bajo un modelo de trabajo remoto (*Home Office*), se incurrirá en los siguientes gastos administrativos y operativos fijos:
+
+* **Telecomunicaciones:** Servicio de internet de banda ancha de alta velocidad y simétrica, indispensable para subir y descargar datos de los servidores.
+* **Servicios Básicos:** Consumo de energía eléctrica del espacio de trabajo.
+* **Suscripciones de Software (SaaS):** Licencias mensuales de entornos de desarrollo integrado (IDE), plataformas de diseño de interfaces (como Figma) y repositorios de código (como GitHub).
+* **Viáticos y Movilización:** Gastos de transporte destinados a las visitas presenciales a los salones de belleza para realizar capacitaciones técnicas, pruebas piloto y cierre de ventas.
