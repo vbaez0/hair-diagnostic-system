@@ -1,0 +1,62 @@
+¡Hola! Tu proyecto de grado sobre el **Sistema de Diagnóstico Capilar para Salones Especializados en Cabello** es una excelente propuesta tecnológica. Al ser un modelo de negocio de Software como Servicio (SaaS) alojado en la nube, su estructura legal difiere un poco de la de un negocio físico tradicional (como una cafetería o una tienda).
+
+Aquí tienes un ejemplo exacto de cómo deberías redactar y estructurar el marco legal de tu proyecto, aplicando las leyes de Nicaragua a las características específicas de tu plataforma informática.
+
+## Estructura Legal y Organizacional del Proyecto
+
+### 1. Forma Jurídica y Constitución
+
+Dado que el proyecto está diseñado para optimizar los recursos de un único fundador y es ejecutado íntegramente por Víctor Enrique Báez López en calidad de desarrollador e investigador, la figura jurídica inicial más viable es la de **Persona Natural (Comerciante Individual)**.
+
+* Esta figura se ampara en el Código de Comercio de Nicaragua y permite iniciar operaciones comerciales sin los altos costos de constituir una sociedad mercantil.
+* La inscripción se realizará ante el Registro Público Mercantil del departamento de Managua.
+
+
+* En caso de buscar capital o socios en el futuro para expandir el sistema más allá de los distritos I y V de Managua, el negocio podrá transicionar a una Sociedad Anónima (S.A.).
+
+
+
+### 2. Obligaciones Tributarias y Municipales
+
+Para poder comercializar las suscripciones del software a los micro y pequeños salones de belleza, el negocio debe formalizarse fiscalmente:
+
+* **DGI (Dirección General de Ingresos):** Se tramitará el Registro Único de Contribuyente (RUC). Dado que el modelo de negocio es B2B (Business to Business) y requiere facturar formalmente la suscripción mensual de $19.99 dólares a las empresas, el negocio operará bajo el Régimen General, declarando mensualmente el Impuesto al Valor Agregado (IVA) y el Anticipo del IR.
+
+
+* **Alcaldía de Managua (ALMA):** El centro de operaciones operará inicialmente bajo la modalidad de oficina remota (Home Office) en el domicilio del desarrollador en Managua. Se debe gestionar la Matrícula Municipal correspondiente ante ALMA, tributando el 1% sobre los ingresos brutos generados por las suscripciones.
+
+
+
+### 3. Propiedad Intelectual e Ingeniería de Software
+
+Al tratarse de un ecosistema tecnológico basado en una alternativa de desarrollo a la medida (In-house), la protección del código fuente y los activos intangibles es el pilar legal del negocio:
+
+* **MIFIC (Registro de la Propiedad Intelectual):** Se registrará el nombre comercial, el logotipo de la aplicación y, de manera crítica, el código fuente del sistema basado en reglas lógicas (Derechos de Autor sobre el software).
+* Esta inscripción legal garantiza la propiedad intelectual del algoritmo de recomendación y evita el plagio comercial por parte de competidores.
+
+### 4. Protección de Datos y Ciberseguridad (Ley 787)
+
+La aplicación ofrece como propuesta de valor central la creación de un "Expediente Digital en la Nube" que actúa como un historial clínico-cosmético para cada clienta.
+
+* El sistema debe cumplir estrictamente con la **Ley No. 787 (Ley de Protección de Datos Personales de Nicaragua)**.
+* Para cumplir con esta normativa, el proyecto ya contempla el cifrado de datos mediante protocolos de encriptación HTTPS/TLS y acceso restringido mediante un sistema de credenciales seguras.
+
+
+* Se redactará una "Política de Privacidad" visible en la aplicación para obtener el consentimiento informado de las clientas finales antes de almacenar sus datos capilares o enviarles el reporte profesional en PDF por WhatsApp.
+
+
+
+### 5. Contratos de Nivel de Servicio (SaaS)
+
+Para vincular legalmente a los salones de belleza que adquieran la suscripción mensual, se redactarán "Términos y Condiciones de Uso" (ToS) y Acuerdos de Nivel de Servicio (SLA):
+
+* El contrato digital estipulará que la plataforma alojada en la nube garantiza una disponibilidad (Uptime) del 99.9%.
+
+
+* Se incluirán cláusulas de exención de responsabilidad, aclarando que el algoritmo procesa reglas tricológicas para apoyar la toma de decisiones, pero la responsabilidad legal de la aplicación de fórmulas químicas recae única y exclusivamente sobre el estilista que atiende a la clienta en el salón.
+
+
+
+---
+
+Puedes tomar esta estructura y adaptarla directamente a tu documento final, ya que integra los requerimientos legales del país con las funciones específicas de desarrollo web, seguridad y monetización que planteaste en tu estudio.
