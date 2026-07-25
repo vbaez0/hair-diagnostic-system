@@ -60,3 +60,17 @@ Para vincular legalmente a los salones de belleza que adquieran la suscripción 
 ---
 
 Puedes tomar esta estructura y adaptarla directamente a tu documento final, ya que integra los requerimientos legales del país con las funciones específicas de desarrollo web, seguridad y monetización que planteaste en tu estudio.
+
+Para estructurar el marco legal de tu proyecto, me basé en la legislación vigente de Nicaragua aplicable a la creación de empresas, desarrollo de software y comercio electrónico.
+
+Dado que en un proyecto de grado es fundamental citar las leyes en formato académico (generalmente normas APA), aquí tienes la bibliografía exacta de las leyes e instituciones que mencioné para que las agregues directamente a la sección de referencias de tu documento:
+
+### Leyes y Normativas de Nicaragua (Formato APA)
+
+* Asamblea Nacional de la República de Nicaragua. (1916). *Código de Comercio de la República de Nicaragua*. Managua, Nicaragua.
+* Asamblea Nacional de la República de Nicaragua. (2012). *Ley No. 787: Ley de Protección de Datos Personales*. La Gaceta, Diario Oficial No. 61, 29 de marzo de 2012. Managua, Nicaragua.
+* Asamblea Nacional de la República de Nicaragua. (2012). *Ley No. 822: Ley de Concertación Tributaria*. La Gaceta, Diario Oficial No. 241, 17 de diciembre de 2012. Managua, Nicaragua.
+* Asamblea Nacional de la República de Nicaragua. (2001). *Ley No. 380: Ley de Marcas y Otros Signos Distintivos*. La Gaceta, Diario Oficial No. 70, 16 de abril de 2001. Managua, Nicaragua.
+* Junta de Gobierno de Reconstrucción Nacional de la República de Nicaragua. (1989). *Decreto No. 455: Plan de Arbitrios del Municipio de Managua*. La Gaceta, Diario Oficial No. 144, 31 de julio de 1989. Managua, Nicaragua.
+
+**Una nota importante para tu defensa de grado:** Si tu tribunal evaluador te pregunta por qué incluiste la **Ley No. 787**, puedes responder con total seguridad que, al ser una aplicación web que captura datos personales de las clientas (nombres, números de teléfono para WhatsApp y datos sobre su salud capilar), tu proyecto está legalmente obligado a garantizar la privacidad y el manejo adecuado de esa información según el marco jurídico nicaragüense.
