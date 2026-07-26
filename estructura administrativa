@@ -1,0 +1,214 @@
+Aquí tienes la redacción completa y estructurada del capítulo **Estructura administrativa**, desarrollada estrictamente bajo la guía de contenido exigida y alineada al modelo de negocio SaaS (Software como Servicio) de tu proyecto de grado.
+
+---
+
+## Estructura Administrativa
+
+### Estructura administrativa
+
+La arquitectura administrativa del "Sistema de Diagnóstico Capilar" se concibe bajo un modelo organizacional orgánico, plano y centrado en procesos. Al tratarse de un emprendimiento de base tecnológica operado en su fase inicial bajo la figura de Persona Natural (Comerciante Individual) por su desarrollador, la administración prioriza la agilidad, la baja burocracia y la minimización de costos fijos operando bajo la modalidad de trabajo remoto o *Home Office*.
+
+Esta estructura permite canalizar los recursos directamente hacia el desarrollo continuo del software, la infraestructura en la nube y la atención directa a los salones de belleza de Managua.
+
+### El organigrama
+
+El organigrama del proyecto refleja una jerarquía plana optimizada para una startup tecnológica en fase de pre-lanzamiento e inicio de operaciones.
+
+```text
+                     +---------------------------------------+
+                     |          DIRECCIÓN GENERAL            |
+                     |  (Ingeniero Full-Stack / Fundador)    |
+                     +-------------------+-------------------+
+                                         |
+            +----------------------------+----------------------------+
+            |                                                         |
++-----------v-----------+                                 +-----------v-----------+
+| ÁREA DE TECNOLOGÍA Y  |                                 |     ÁREA COMERCIAL    |
+|       DESARROLLO      |                                 |    Y ATENCIÓN AL    |
+| (Desarrollador / QA)  |                                 |        CLIENTE        |
++-----------------------+                                 +-----------+-----------+
+                                                                      |
+                                                          +-----------v-----------+
+                                                          |  EJECUTIVO DE VENTAS  |
+                                                          |      (Proyectado)     |
+                                                          +-----------------------+
+                                         |
+                                         | (Servicio Externo)
+                     +-------------------v-------------------+
+                     |        SERVICIOS CONTABLES Y          |
+                     |         FISCALES (OUTSOURCING)        |
+                     +---------------------------------------+
+
+```
+
+### La departamentalización
+
+Dado el enfoque por procesos del modelo SaaS, la empresa se organiza bajo una **departamentalización funcional adaptada**, dividida en tres áreas operativas:
+
+* **Área de Dirección y Gestión General:** Encargada de la toma de decisiones estratégicas, planificación financiera, cumplimiento legal (DGI, ALMA, MIFIC) y alianzas comerciales con los salones de belleza.
+
+
+* **Área de Tecnología y Desarrollo:** Responsable de la ingeniería del proyecto, mantenimiento de los servidores en la nube, seguridad de la base de datos de expedientes clínicos, control de calidad (*QA*) y desarrollo de nuevas funcionalidades del algoritmo basado en reglas.
+
+
+* **Área Comercial y de Atención al Cliente:** Enfocada en la prospección de clientes en los Distritos I y V de Managua, demostraciones presenciales (*demos*), capacitación (*onboarding*) a los estilistas y soporte técnico de primer nivel.
+
+
+* **Área de Apoyo Contable (Externalizada):** Encargada de la gestión tributaria, declaraciones fiscales mensuales (IVA y Retenciones) y libros contables.
+
+
+
+### División del trabajo
+
+En la fase de lanzamiento (Año 1), la división del trabajo concentra las funciones técnicas y comerciales en el fundador del proyecto (Ingeniero Full-Stack), reduciendo la nómina directa a cero y maximizando el margen de ganancia limpia de las suscripciones ($19.99 USD mensuales):
+
+1. **Fundador / Desarrollador Principal:** Asume la programación Backend y Frontend, la administración de la base de datos, el marketing digital y las visitas comerciales directas a los salones de belleza.
+
+
+2. **Contador Externo (Outsourcing):** Asume de forma independiente la presentación de impuestos y solvencias municipales/estatales ante la DGI y ALMA.
+
+
+3. **División Proyectada (Años 2 al 3):** A medida que la cartera de clientes supere los 50 salones suscritos, la división del trabajo segregará la función comercial, contratando a un Ejecutivo de Ventas dedicado a la captación de clientes en campo, liberando al Ingeniero Full-Stack para el desarrollo exclusivo de software y soporte técnico avanzado.
+
+
+
+---
+
+### Ficha ocupacional
+
+#### Ficha Ocupacional 1: Director General e Ingeniero Full-Stack
+
+* **Nombre del puesto:** Director General e Ingeniero Full-Stack.
+
+
+* **Área pertenencia:** Dirección / Tecnología.
+
+
+* **Relación de dependencia:** Ninguna (Propietario / Fundador).
+
+
+* **Objetivo del puesto:** Diseñar, desarrollar, mantener y comercializar la plataforma web de diagnóstico capilar, garantizando un 99.9% de disponibilidad en la nube y el cumplimiento de los objetivos de ventas.
+
+
+* **Funciones principales:**
+* Programar e implementar las reglas tricológicas en el motor de recomendaciones del software.
+
+
+* Garantizar la seguridad, cifrado HTTPS/TLS y almacenamiento de los expedientes clínicos en la base de datos.
+
+
+* Realizar demostraciones del producto (*demos*) en tabletas ante propietarios y estilistas de los salones.
+
+
+* Gestionar el alta y configuración inicial (*onboarding*) de los salones suscriptores.
+
+
+* Monitorear el rendimiento de los servidores y solucionar errores de código o interfaz.
+
+
+
+
+* **Requisitos del perfil:**
+* *Educación:* Título universitario o egresado en Ingeniería en Sistemas.
+
+
+* *Experiencia:* Dominio de lenguajes de desarrollo web (HTML5, JavaScript, Node.js, Python/React), bases de datos y arquitectura de servidores en la nube (AWS/Firebase).
+
+
+* *Habilidades:* Pensamiento lógico, capacidad de negociación comercial, autogestión y servicio al cliente.
+
+
+
+#### Ficha Ocupacional 2: Asesor Contable y Fiscal (Outsourcing)
+
+* **Nombre del puesto:** Contador General Externo.
+
+
+* **Área pertenencia:** Servicios Administrativos / Contabilidad.
+
+
+* **Relación de dependencia:** Contrato de prestación de servicios profesionales (Tercerizado).
+
+
+* **Objetivo del puesto:** Asegurar el cumplimiento estricto de las obligaciones tributarias, fiscales y municipales del negocio conforme a las leyes de Nicaragua.
+
+
+* **Funciones principales:**
+* Elaborar y presentar las declaraciones mensuales de IVA, Anticipo del IR y Retenciones ante la DGI.
+
+
+* Gestionar el pago mensual de impuestos municipales (1% sobre ingresos brutos) ante la Alcaldía de Managua (ALMA).
+
+
+* Llevar el registro de ingresos por suscripciones SaaS y estructurar los estados financieros anuales.
+
+
+
+
+* **Requisitos del perfil:**
+* *Educación:* Licenciatura en Contaduría Pública y Finanzas (Contador Público Autorizado - CPA).
+* *Experiencia:* Mínima de 3 años en gestión tributaria de PyMEs bajo el Régimen General en Nicaragua.
+
+
+
+
+
+#### Ficha Ocupacional 3: Ejecutivo Comercial y de Ventas (Puesto Proyectado)
+
+* **Nombre del puesto:** Asesor Comercial de Campo.
+
+
+* **Área pertenencia:** Comercial y Ventas.
+
+
+* **Relación de dependencia:** Dirección General.
+
+
+* **Objetivo del puesto:** Incrementar la cartera de salones de belleza suscritos al software en la ciudad de Managua mediante prospección directa y seguimiento de cuentas.
+
+
+* **Funciones principales:**
+* Visitar salones de belleza en los Distritos I y V de Managua para prospectar nuevos clientes.
+
+
+* Presentar la propuesta de valor del software enfocada en el aumento del 20% de las ventas *retail* del salón.
+
+
+* Cerrar contratos de suscripción mensual ($19.99 USD) y gestionar la cobranza.
+
+
+* Dar seguimiento post-venta a los estilistas para asegurar el uso continuo del sistema y evitar la cancelación (*Churn*).
+
+
+
+
+* **Requisitos del perfil:**
+* *Educación:* Técnico superior o estudiante universitario en Mercadeo, Administración o carreras afines.
+* *Experiencia:* Mínimo 1 año en ventas B2B, preferiblemente en el sector de belleza, cosmética o tecnología.
+* *Habilidades:* Excelente fluidez verbal, persuasión, manejo de tabletas/herramientas digitales y dinamismo.
+
+
+
+---
+
+### Administración del personal
+
+Al ser una startup con proyección de crecimiento, las políticas de administración de personal están diseñadas para mantener una estructura ágil y motivada:
+
+* **Reclutamiento y Selección:** Cuando se active la contratación del Ejecutivo Comercial (Año 2), la selección se basará en competencias prácitcas mediante pruebas de demostración en vivo de la aplicación web. Se valorará el conocimiento previo del gremio estético en Managua.
+
+
+* **Capacitación y *Onboarding*:** Todo nuevo colaborador pasará por un proceso de entrenamiento intensivo sobre el funcionamiento tricológico del software (evaluación de porosidad, elasticidad y cuero cabelludo) y el manejo fluido de la interfaz en tabletas, garantizando que entienda la problemática del salón de belleza.
+
+
+* **Evaluación del Desempeño:** El personal comercial será evaluado mensualmente mediante Indicadores Clave de Desempeño (KPIs) específicos del modelo SaaS:
+* Número de demostraciones físicas realizadas en salones.
+* Tasa de conversión de cuentas de prueba (14 días gratis) a suscripciones de pago.
+
+
+* Tasa de retención de salones clientes.
+
+
+
+
+* **Compensación e Incentivos:** Se aplicará un esquema de compensación mixto para el área comercial, compuesto por un salario base más comisiones recurrentes por cada salón que mantenga activa su suscripción mensual de $19.99 USD, alineando el incentivo del empleado con la retención a largo plazo del negocio.
