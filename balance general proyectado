@@ -1,0 +1,86 @@
+¡Con gusto! El **Balance General** es como una fotografía financiera de tu empresa en un momento exacto del tiempo (generalmente al 31 de diciembre de cada año). Te dice exactamente qué tienes, qué debes y cuánto vale realmente tu negocio.
+
+A diferencia del Estado de Resultados (que mide si ganaste o perdiste dinero en ese año), el Balance General te muestra la **acumulación** de todo a lo largo del tiempo.
+
+El balance siempre se divide en tres partes y debe cumplir la regla de oro de la contabilidad: **Activos = Pasivos + Capital**.
+
+Vamos a desglosar los datos de tu hoja `BALANCES` para que veas qué significan:
+
+### 1. ACTIVOS (Todo lo que tu empresa TIENE)
+
+Se divide según qué tan fácil es convertirlo en dinero en efectivo.
+
+* **Activos Circulantes (Caja y Bancos):** Es tu cuenta bancaria.
+* En el *Año 0* tienes los C$ 26,000 que te sobraron de la inversión inicial para tu capital de trabajo.
+* En el *Año 1* ves un número negativo (-C$ 48,587); esto pasa contablemente porque la pérdida del primer año absorbió ese efectivo (en la vida real significaría que tuviste que poner un poco más de tus ahorros ese año).
+* Pero fíjate cómo explota después: para el *Año 5*, tienes **C$ 299,772** en puro efectivo en el banco.
+
+
+* **Activos Fijos:** Son tus equipos físicos.
+* *Nota importante:* En el Excel aún aparecen nombres de la plantilla original como "Terreno y Edificio" o "Otros equipos". **En la realidad de tu proyecto**, la suma de esos valores (C$ 43,333) representa tu **Laptop y tu Tableta de pruebas**.
+* *Depreciación acumulada:* Ves cómo el valor neto del Activo Fijo va bajando año con año (de C$ 35,995 en el Año 1 a solo C$ 6,641 en el Año 5). No es que perdiste dinero, es solo que tus equipos se hicieron "viejos" contablemente.
+
+
+* **Activos Diferidos:** Son tus intangibles.
+* Es el pago de **C$ 1,500** por tu dominio web y tu registro en el MIFIC. Cada año le restan C$ 300 (Amortización) hasta que en el Año 5 llega a cero.
+
+
+
+### 2. PASIVOS (Todo lo que tu empresa DEBE)
+
+Esta es la sección más corta y la más feliz de tu proyecto.
+
+* **Pasivos a Largo Plazo / Préstamos:** Está en **CERO (0)** en todos los años.
+* *¿Qué significa?* Que eres el dueño absoluto. No pediste préstamos al banco, no le debes intereses a nadie y la empresa no corre riesgo de embargo si un mes las ventas bajan. Es una estructura financiera súper segura.
+
+
+
+### 3. CAPITAL o PATRIMONIO (Lo que realmente VALE tu empresa)
+
+Es el dinero de los dueños (tu dinero).
+
+* **Capital Social:** Son los **C$ 70,835.59** que metiste al inicio (Año 0). Este número siempre se queda fijo porque fue tu aporte original.
+* **Utilidad del periodo y acumulada:** Aquí se reflejan las ganancias o pérdidas que tu app va teniendo cada año.
+* En el *Año 1*, la pérdida de -C$ 81,927 "golpea" tu capital y hace que tu empresa valga temporalmente menos (C$ -11,091).
+* Pero a partir del *Año 2*, las ganancias positivas se empiezan a acumular y a sumar a tu Capital Social original.
+* Para el *Año 5*, entre tu aporte original y todas las utilidades retenidas que no te has gastado, el patrimonio de tu empresa vale **C$ 307,914.12**.
+
+
+
+### La prueba del balance (¿Cuadra el Excel?)
+
+Si te fijas en la fila **"Total de activos"** del Año 5, el resultado es **C$ 307,914.12**.
+Y si miras la última fila **"Total pasivo mas capital"** del Año 5, ¡también es **C$ 307,914.12**!
+
+El balance está perfectamente "cuadrado". Esto le demostrará a tus jurados que las proyecciones financieras están hechas con rigor técnico y que la aplicación no solo deja buenas ganancias, sino que aumenta el valor real de tu empresa año tras año.
+
+¿Todo claro con el Balance? ¿Seguimos con la redacción de los **"Indicadores financieros"**?
+
+
+
+Concepto,Año 0,Año 1,Año 2,Año 3,Año 4,Año 5
+ACTIVOS,,,,,,
+Activo Circulante,,,,,,
+Efectivo (Caja y Bancos),"C$ 26,002.06","-C$ 48,587.03","-C$ 5,843.69","C$ 63,660.18","C$ 163,695.52","C$ 299,772.85"
+Activo Fijo,,,,,,
+Equipos (Laptop y Tableta),"C$ 43,333.53","C$ 43,333.53","C$ 43,333.53","C$ 43,333.53","C$ 43,333.53","C$ 43,333.53"
+Depreciación Acumulada,C$ 0.00,"-C$ 7,338.45","-C$ 14,676.90","-C$ 22,015.35","-C$ 29,353.80","-C$ 36,692.25"
+Activo Fijo Neto,"C$ 43,333.53","C$ 35,995.08","C$ 28,656.63","C$ 21,318.18","C$ 13,979.73","C$ 6,641.28"
+Activo Diferido,,,,,,
+Intangibles (Registro y Web),"C$ 1,500.00","C$ 1,500.00","C$ 1,500.00","C$ 1,500.00","C$ 1,500.00","C$ 1,500.00"
+Amortización Acumulada,C$ 0.00,-C$ 300.00,-C$ 600.00,-C$ 900.00,"-C$ 1,200.00","-C$ 1,500.00"
+Activo Diferido Neto,"C$ 1,500.00","C$ 1,200.00",C$ 900.00,C$ 600.00,C$ 300.00,C$ 0.00
+TOTAL ACTIVOS,"C$ 70,835.59","-C$ 11,091.95","C$ 24,312.94","C$ 86,478.36","C$ 179,175.25","C$ 307,914.13"
+,,,,,,
+PASIVOS,,,,,,
+Pasivos a Largo Plazo,C$ 0.00,C$ 0.00,C$ 0.00,C$ 0.00,C$ 0.00,C$ 0.00
+Préstamos Bancarios,C$ 0.00,C$ 0.00,C$ 0.00,C$ 0.00,C$ 0.00,C$ 0.00
+TOTAL PASIVOS,C$ 0.00,C$ 0.00,C$ 0.00,C$ 0.00,C$ 0.00,C$ 0.00
+,,,,,,
+PATRIMONIO (CAPITAL),,,,,,
+Capital Social (Inversión),"C$ 70,835.59","C$ 70,835.59","C$ 70,835.59","C$ 70,835.59","C$ 70,835.59","C$ 70,835.59"
+Utilidad / Pérdida del Período,C$ 0.00,"-C$ 81,927.54","C$ 35,404.89","C$ 62,165.41","C$ 92,696.89","C$ 128,738.88"
+Utilidades Retenidas,C$ 0.00,C$ 0.00,"-C$ 81,927.54","-C$ 46,522.65","C$ 15,642.77","C$ 108,339.66"
+TOTAL PATRIMONIO,"C$ 70,835.59","-C$ 11,091.95","C$ 24,312.94","C$ 86,478.36","C$ 179,175.25","C$ 307,914.13"
+,,,,,,
+TOTAL PASIVO + PATRIMONIO,"C$ 70,835.59","-C$ 11,091.95","C$ 24,312.94","C$ 86,478.36","C$ 179,175.25","C$ 307,914.13"
