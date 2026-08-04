@@ -1,0 +1,40 @@
+
+
+### 1. Los Datos de tu Proyecto
+
+* **Inversión Inicial (Año 0):** -$70,835.59
+* **Tasa de Descuento (Rendimiento exigido):** 18% anual.
+* **Tus Flujos de Fondos (Lo que queda en caja cada año):**
+* *Año 1:* -$74,589.09 (Ojo: El primer año tienes flujo negativo, es decir, el negocio consume más efectivo del que genera, por lo que requerirá de ese soporte adicional).
+* *Año 2:* $42,743.34
+* *Año 3:* $69,503.86
+* *Año 4:* $100,035.34
+* *Año 5:* $136,077.33
+
+
+
+---
+
+### 2. Los Resultados (Interpretación)
+
+* **VAN (Valor Actual Neto) = $50,030.89**
+* **¿Qué significa?** Es **POSITIVO**. Esto significa que después de recuperar toda tu inversión inicial, cubrir el bache del primer año, y pagarte el 18% de rendimiento que exigías por año, tu proyecto te genera una riqueza adicional de $50,030.89 (traídos a valor de hoy).
+* **Conclusión:** El proyecto es financieramente viable.
+
+
+* **TIR (Tasa Interna de Retorno) = 30.12%**
+* **¿Qué significa?** El rendimiento real promedio que te está dando este negocio (considerando los 5 años) es del 30.12% anual.
+* **Conclusión:** Como tu TIR (30.12%) es mucho mayor que la Tasa de Descuento que exigías (18%), tienes un margen de ganancia excelente. El proyecto es muy atractivo.
+
+
+* **Periodo de Recuperación (Descontado):** **4 años y 2 meses aprox.**
+* **¿Qué significa?** Tu Excel calcula el periodo de recuperación considerando el valor del dinero en el tiempo (restando el 18% cada año). Según la fila 34, al terminar el Año 4 todavía te faltan por recuperar -$9,449.77 (en valor presente). Es hasta el **Año 5** donde el flujo acumulado se vuelve positivo.
+* **Conclusión:** Tomará un poco más de 4 años recuperar la inversión inicial más su rendimiento del 18%. A partir del mes 2 del quinto año, todo será ganancia neta pura.
+
+
+
+### Veredicto Final:
+
+**El proyecto es muy bueno.** Supera con creces la barrera del 18% de exigencia.
+
+*La única precaución* que debes tener al ejecutarlo es asegurar que tienes el capital de trabajo suficiente no solo para los $70,835 de inversión inicial, sino también para soportar los $74,589 de flujo negativo proyectados para el Año 1 antes de que el negocio empiece a generar dinero fuerte en el Año 2.
