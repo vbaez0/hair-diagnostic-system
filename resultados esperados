@@ -1,0 +1,55 @@
+Entendido. Es mejor prevenir y tener una versión que se adapte perfectamente a la formulación inicial de un proyecto.
+
+Aquí tienes la versión general de los **Resultados esperados**, redactada enfocándose en los propósitos del proyecto sin adelantar las cifras exactas del estudio de mercado:
+
+### Resultados esperados
+
+Con el desarrollo e implementación del Sistema de Diagnóstico Capilar, se proyecta alcanzar los siguientes resultados para el sector estético de la ciudad de Managua:
+
+* **Desarrollo tecnológico funcional:** La creación y despliegue exitoso de una aplicación web intuitiva y un sistema basado en reglas tricológicas que permita a los estilistas automatizar y agilizar el análisis del cabello en el punto de atención.
+
+
+* **Adopción tecnológica en el mercado:** La implementación progresiva del software en los salones de belleza de la capital, logrando una transición exitosa desde los métodos empíricos (basados en papel y memoria) hacia un ecosistema digital.
+
+
+* **Estandarización y trazabilidad clínica:** La garantía de un servicio técnico uniforme sin importar qué estilista atienda al cliente, asegurando la creación de un expediente clínico-cosmético en la nube que resguarde el historial de procedimientos químicos aplicados.
+
+
+* **Impacto comercial y calidad de servicio:** Un incremento en la rentabilidad de los establecimientos mediante la recomendación automatizada y precisa de productos capilares para el cuidado en casa, respaldada por un reporte profesional en formato PDF que eleve la confianza del consumidor final.
+
+Aquí tienes la redacción de los apartados faltantes, estructurados y redactados con el mismo tono académico y técnico que tiene el resto de tu documento. Puedes copiar y pegar este contenido directamente en tu proyecto.
+
+
+
+**El proyecto en el marco de las políticas y estrategias de desarrollo sectoriales y/o nacionales**
+El desarrollo de esta aplicación web no solo responde a una necesidad comercial aislada, sino que se alinea estratégicamente con los esfuerzos de modernización tecnológica y formalización del sector servicios en Nicaragua.
+
+* **Alineación con el Desarrollo Humano y Económico:** El proyecto se enmarca dentro de las directrices del *Plan Nacional de Lucha Contra la Pobreza y para el Desarrollo Humano 2022–2026* promovido por el Gobierno de Reconciliación y Unidad Nacional. Específicamente, contribuye al fortalecimiento de las MIPYMES (micro y pequeñas empresas), dotando a los salones de belleza de herramientas digitales que incrementan su productividad, rentabilidad y competitividad en la economía local.
+
+
+* **Fomento a la Economía Digital y la Innovación:** El proyecto impulsa la transformación digital del comercio local (salones de belleza), pasando de la informalidad de los registros en papel a infraestructuras en la nube, respondiendo a la necesidad sectorial de integrar la tecnología en los procesos operativos diarios para mejorar la calidad del servicio al consumidor nicaragüense.
+
+
+* **Cumplimiento del Marco Regulatorio de Datos:** A nivel jurídico nacional, el proyecto refuerza el cumplimiento de la *Ley No. 787: Ley de Protección de Datos Personales*. Al centralizar los historiales de los clientes en bases de datos encriptadas y establecer políticas de privacidad, la plataforma estandariza el manejo seguro y confidencial de la información del consumidor en el sector estético, un área históricamente vulnerable a la pérdida o exposición de datos.
+
+
+
+---
+
+### Para el Capítulo "Estudio Técnico"
+
+*(Este apartado debe ir justo después de "Diagrama del proceso" y antes de "Distribución de la planta" según tu estructura)*
+
+**Efectos económicos de la ingeniería**
+Las decisiones de ingeniería de software e infraestructura tecnológica tomadas para el diseño de la "Aplicación Web de Diagnóstico Capilar" tienen un impacto directo, profundo y positivo en la viabilidad económica y financiera del modelo de negocio:
+
+* **Minimización de costos mediante arquitectura Web App:** La decisión de ingeniería de desarrollar el sistema como una "Web App Responsiva" de código centralizado, en lugar de aplicaciones nativas (para iOS y Android), elimina los altos costos de programación múltiple y el pago de comisiones (hasta de un 30%) a las tiendas de aplicaciones de Apple y Google. Esto permite mantener el costo de la suscripción mensual en $19.99 dólares, un precio altamente competitivo para el mercado nicaragüense.
+
+
+* **Economía In-house (Eliminación de Outsourcing):** Al ser un proyecto desarrollado bajo un enfoque "In-house" por un único Ingeniero Full-Stack, los gastos de capital (CAPEX) asociados a la contratación de agencias externas de programación se reducen a cero. Todo el esfuerzo de codificación se traduce en capital intelectual propio, maximizando el margen de ganancia operativa desde el primer cliente captado.
+
+
+* **Eficiencia del gasto mediante Cloud Computing:** La ingeniería basada en micro-servicios y bases de datos en la nube (proveedores como AWS o Firebase) transforma los tradicionales costos fijos de servidores físicos en costos variables. El sistema opera bajo un esquema de "pago por consumo", manteniendo los costos operativos iniciales de materia prima digital en un rango extremadamente bajo (entre $32.00 y $40.00 USD mensuales).
+
+
+* **Costos marginales tendientes a cero:** Gracias al empaquetamiento del algoritmo lógico y la escalabilidad del servidor, el costo técnico de agregar un nuevo salón de belleza al sistema (crear una nueva cuenta) es prácticamente nulo. Esta decisión de ingeniería genera economías de escala perfectas: a medida que crecen las ventas, los ingresos aumentan exponencialmente mientras que la estructura de costos se mantiene marginalmente plana.
