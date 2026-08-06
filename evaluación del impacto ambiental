@@ -1,0 +1,69 @@
+Aquí tienes el borrador completo del capítulo **Evaluación de Impacto Ambiental**, redactado con el tono académico y técnico de tu documento, y adaptado perfectamente a la naturaleza digital de tu proyecto SaaS. Puedes copiarlo y pegarlo directamente en tu archivo.
+
+---
+
+## Evaluación de Impacto Ambiental
+
+### Descripción del medio ambiente natural
+
+El "Sistema de Diagnóstico Capilar" es un proyecto de base tecnológica e informática, por lo que su desarrollo y ejecución no requieren la explotación, extracción ni alteración directa de recursos naturales. El entorno físico del proyecto se circunscribe al área urbana de la ciudad de Managua, operando administrativamente bajo la modalidad de trabajo remoto (Home Office) y ejecutándose operativamente en los salones de belleza locales. La infraestructura de producción real se encuentra desmaterializada, alojada en servidores en la nube (Data Centers) ubicados fuera del territorio nacional, lo que significa que el proyecto no interactúa con cuerpos de agua, flora, fauna ni suelos productivos de la región.
+
+### Identificación de impactos
+
+Aunque el software no genera emisiones industriales, su operatividad tecnológica sí interactúa con el medio ambiente de manera indirecta, generando impactos tanto positivos como negativos:
+
+**Impactos Positivos (Tecnología Verde):**
+
+* **Desmaterialización de insumos:** Erradicación del uso intensivo de papel, carpetas físicas y cartuchos de tinta o tóner en los salones de belleza al sustituir las fichas de registro impresas por expedientes clínicos en la nube.
+
+
+
+**Impactos Negativos:**
+
+* **Consumo de energía eléctrica:** Demanda energética requerida para mantener encendidos los equipos de desarrollo (laptop), dispositivos de prueba (tabletas/smartphones), enrutadores de internet y el consumo proporcional de los servidores en la nube.
+
+
+* **Generación de desechos electrónicos (E-waste):** Contaminación futura derivada del descarte de equipos informáticos (baterías de litio, plásticos y metales pesados) una vez que estos alcancen el final de su vida útil (3 a 5 años).
+
+
+
+### Predicción e identificación de impactos
+
+Para determinar la magnitud de los impactos identificados, se realiza la siguiente proyección basada en la capacidad instalada inicial del proyecto:
+
+* **Magnitud del impacto positivo (Ahorro de recursos):** Proyectando la captación de 50 salones de belleza en el primer año, con un flujo promedio de 10 clientas diarias por salón, el sistema procesará aproximadamente 500 diagnósticos diarios. Al emitir reportes en PDF enviados por WhatsApp en lugar de imprimirlos, el proyecto evitará el consumo de al menos 15,000 hojas de papel al mes (considerando 30 días operativos), lo que a largo plazo previene la tala de árboles y reduce significativamente la huella hídrica asociada a la fabricación de papel.
+
+
+* **Magnitud del impacto negativo (Consumo eléctrico):** El impacto es de magnitud **baja y reversible**. El consumo eléctrico del centro de operaciones (Home Office) equivale al de un entorno ofimático estándar (menor a 250 kWh mensuales), lo cual no representa una carga significativa para la red de distribución eléctrica urbana de Managua.
+
+### Mitigación de impactos
+
+Para minimizar los impactos ambientales negativos generados por la operación informática, se establecen las siguientes medidas de mitigación técnica y administrativa:
+
+| Impacto Identificado | Acción de Mitigación |
+| --- | --- |
+| **Consumo Eléctrico Local** | Uso exclusivo de equipos de cómputo y dispositivos móviles con certificaciones de eficiencia energética (ej. Energy Star). Apagado total de equipos periféricos fuera del horario laboral. |
+| **Consumo Eléctrico en la Nube** | Selección de proveedores de infraestructura (Hosting/Cloud) que mantengan políticas públicas de sustentabilidad, uso de energías renovables o compensación de huella de carbono para sus centros de datos. |
+| **Desechos Electrónicos (E-waste)** | Implementación de una política de economía circular: los activos tangibles depreciados (laptops y tabletas) no serán desechados en vertederos comunes, sino que serán donados si aún son funcionales, o entregados a centros de acopio autorizados en Managua para su correcto reciclaje tecnológico.
+
+ |
+
+### Valuación económica del impacto ambiental
+
+En el sector del desarrollo de software SaaS, la valuación económica del impacto ambiental arroja un saldo ampliamente a favor del usuario.
+La política "Cero Papel" impulsada por la aplicación genera un beneficio económico directo para los 50 salones de belleza proyectados. Al eliminar la compra recurrente de resmas de papel, impresoras, mantenimiento técnico de las mismas y mobiliario para archivar documentos físicos, los salones experimentan una reducción en sus costos fijos operativos. Por parte del desarrollador, los costos de mitigación ambiental son nulos, ya que el reemplazo ecológico de los equipos está contemplado financieramente dentro del rubro de **Depreciación Anual** (C$ 7,338.45) detallado en los Aspectos Financieros del proyecto.
+
+### Programa de monitoreo ambiental
+
+Para garantizar la continuidad de las políticas de sostenibilidad del proyecto, se establecerán los siguientes Indicadores Clave de Desempeño (KPIs) ambientales:
+
+* **Indicador de Consumo Energético:** Revisión mensual de la factura de energía eléctrica del centro de operaciones (Home Office) para detectar anomalías de consumo o picos injustificados, manteniendo el gasto dentro del presupuesto operativo establecido (C$ 15,000.00 anuales para servicios básicos).
+
+
+* **Contador Analítico de "Hojas Salvadas":** Programación de un módulo en el panel de administrador de la base de datos que cuantifique en tiempo real el número de reportes PDF generados y compartidos digitalmente. Esta métrica permitirá reportar exactamente el volumen de papel que el software ha evitado que se consuma en Managua.
+
+
+
+### Evaluación global de impacto ambiental
+
+El "Sistema de Diagnóstico Capilar" se dictamina como un proyecto **altamente sostenible y ecológicamente viable**. Al ser una plataforma nativa digital clasificada como "tecnología verde", carece de externalidades negativas pesadas y no contamina el entorno local de la capital. Los impactos negativos identificados (consumo de energía y desechos electrónicos futuros) son de magnitud mínima, controlables y fáciles de mitigar a través de prácticas ofimáticas responsables. Por el contrario, los beneficios ambientales son exponenciales: a medida que crezca la adopción de la aplicación web en los salones de Managua, se acelerará la transición del rubro estético hacia una operatividad sostenible, libre de papel y basada en expedientes limpios en la nube.
