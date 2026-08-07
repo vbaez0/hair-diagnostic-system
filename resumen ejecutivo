@@ -1,19 +1,49 @@
-Aquí tienes la redacción del **Resumen ejecutivo** basándome en la información de tu proyecto. He seguido estrictamente las instrucciones de tu rúbrica: está redactado en tercera persona, en tiempo pasado, resume los objetivos, la metodología y los beneficios, e incluye las palabras clave al final.
+Para cumplir exactamente con las instrucciones de tu tutor, he reestructurado y ajustado el **Resumen ejecutivo**. He redactado cada parte en un párrafo independiente, calculando la longitud de las palabras para que encajen perfectamente en los rangos de líneas que te solicitaron (considerando un formato estándar de Word como Arial 12 o Times New Roman 12).
+
+Recuerda que se mantiene la regla de redacción en **tercera persona** y en **tiempo pasado**, además de incluir las palabras clave al final.
 
 ---
 
 **Resumen ejecutivo**
 
-El presente proyecto consistió en el diseño, desarrollo y evaluación de factibilidad de una aplicación web denominada "Sistema de Diagnóstico Capilar", dirigida al sector estético de la ciudad de Managua. Se identificó que el proceso de evaluación de la hebra capilar en los salones de belleza se realizaba de forma empírica y manual, lo que provocaba inconsistencias en los diagnósticos, pérdida de información y recomendaciones imprecisas de productos.
+El proyecto consistió en el desarrollo de una aplicación web para el diagnóstico capilar, orientada a los salones de belleza de la ciudad de Managua. Su objetivo principal fue estandarizar la evaluación de la hebra capilar mediante un sistema basado en reglas lógicas, resolviendo así el problema de los diagnósticos empíricos y la falta de un historial clínico-cosmético digital para las clientas.
 
-El objetivo general del proyecto se centró en desarrollar una aplicación web que permitiera estandarizar y digitalizar el proceso de diagnóstico mediante un sistema basado en reglas lógicas. Específicamente, se buscó crear una base de datos centralizada para garantizar la trazabilidad del historial clínico-cosmético de las clientas, automatizar la sugerencia de productos según el inventario del local, y facilitar la generación de reportes profesionales en formato PDF.
+La investigación exploratoria y descriptiva analizó a 56 profesionales del sector estético, confirmando una alta dependencia de métodos manuales y una intención de adopción del 91.1% hacia la plataforma. Se validó la necesidad de generar recomendaciones automáticas y reportes en PDF para resolver el olvido del cliente y potenciar las ventas de los establecimientos. Además, se determinó que el mercado objetivo conformado por micro y pequeños salones prefirió un modelo de suscripción mensual con un precio de penetración de $19.99 dólares.
 
-Para la elaboración del estudio se empleó una metodología mixta. Por un lado, la viabilidad comercial y financiera se evaluó mediante la metodología de formulación de proyectos, apoyada en una investigación de mercado descriptiva y exploratoria que incluyó entrevistas y encuestas a una muestra de 56 profesionales del sector. Por otro lado, la construcción de la herramienta tecnológica se ejecutó bajo una metodología ágil de desarrollo de software, abarcando fases iterativas de análisis, diseño de interfaz, programación y pruebas técnicas.
+La ingeniería del proyecto determinó la viabilidad de desarrollar el software internamente utilizando una arquitectura web responsiva alojada en la nube. La capacidad operativa inicial se dimensionó para soportar hasta 500 conexiones simultáneas sin latencia. El proceso técnico abarcó desde la entrada de datos visuales en tabletas, el procesamiento lógico del algoritmo tricológico en el servidor, hasta la generación instantánea de expedientes y entregables en PDF para el usuario final.
 
-Los resultados de la investigación demostraron la viabilidad técnica y rentabilidad del proyecto bajo un modelo de monetización de Software como Servicio (SaaS). Los beneficios potenciales derivados de su ejecución destacaron la erradicación del uso de papel, la modernización de los salones mediante la retención de clientes con historiales precisos, y un incremento proyectado en las ventas de productos capilares al proveer a las clientas recomendaciones automatizadas, justificadas y enviadas directamente a sus dispositivos móviles.
+El modelo de negocio se estructuró bajo una teoría de organización orgánica y flexible, operando mediante teletrabajo y servicios en la nube. Inicialmente, la administración y división del trabajo recayó en un único fundador bajo la figura de Comerciante Individual, asumiendo los roles de desarrollo de software y gestión comercial, con apoyo contable externalizado. Se estableció el estricto cumplimiento de las normativas tributarias y de la Ley de Protección de Datos Personales para garantizar el resguardo y la privacidad de la información clínica en la base de datos.
+
+El presupuesto de inversión inicial ascendió a C$ 70,835.59, el cual fue financiado en su totalidad mediante fondos propios. Los indicadores financieros proyectados a cinco años demostraron una alta rentabilidad, obteniendo un Valor Actual Neto (VAN) positivo de C$ 50,030.89 y una Tasa Interna de Retorno (TIR) del 30.12%. El flujo de efectivo confirmó la viabilidad del proyecto, logrando el período de recuperación de la inversión en aproximadamente cuatro años y dos meses.
+
+La evaluación global dictaminó que la plataforma fue un proyecto tecnológicamente sostenible y de impacto ambiental positivo. Al promover una política de cero papel mediante la generación de expedientes y reportes totalmente digitales, el sistema evitó el consumo de recursos físicos y la generación de residuos sólidos en los salones de belleza.
 
 **Palabras clave:** Diagnóstico capilar, Salones de belleza, Software como Servicio (SaaS), Trazabilidad clínica, Aplicación web.
 
 ---
 
-Si necesitas algún ajuste en este texto o si quieres que pasemos a redactar la **Introducción** o la **Declaración de originalidad**, ¡solo dímelo!
+**Nota sobre las líneas:** Al pegarlo en tu documento de Word, puedes verificar visualmente las líneas. Cada párrafo corresponde a la sección en el orden exacto que te pidió tu tutor (Identificación, Mercado, Técnico, Organización, Financiero y Ambiental).
+
+¿Te gustaría que ahora redactemos la **Introducción** o la **Declaración de originalidad**?
+
+Para cumplir exactamente con las instrucciones de tu tutor, he reestructurado y ajustado el **Resumen ejecutivo**. He redactado cada parte en un párrafo independiente para diferenciar las áreas solicitadas, calculando la longitud para que encajen perfectamente en los rangos de líneas que te indicaron (considerando un formato estándar de Word).
+
+Se mantiene la regla estricta de redacción en **tercera persona** y en **tiempo pasado**, además de incluir las palabras clave al final.
+
+---
+
+**Resumen ejecutivo**
+
+El proyecto consistió en el desarrollo de una aplicación web para el diagnóstico capilar, orientada a los salones de belleza de la ciudad de Managua. Su objetivo principal fue estandarizar la evaluación de la hebra capilar mediante un sistema basado en reglas lógicas, resolviendo así el problema de los diagnósticos empíricos y la falta de un historial clínico-cosmético digital para las clientas.
+
+La investigación exploratoria y descriptiva analizó a 56 profesionales del sector estético, confirmando una alta dependencia de métodos manuales y una intención de adopción del 91.1% hacia la plataforma. Se validó la necesidad de generar recomendaciones automáticas y reportes en PDF para resolver el olvido del cliente y potenciar las ventas de los establecimientos. Además, se determinó que el mercado objetivo, conformado por micro y pequeños salones, prefirió un modelo de suscripción mensual con un precio de penetración de $19.99 dólares.
+
+La ingeniería del proyecto determinó la viabilidad de desarrollar el software internamente utilizando una arquitectura web responsiva alojada en la nube. La capacidad operativa inicial se dimensionó para soportar hasta 500 conexiones simultáneas sin latencia. El proceso técnico abarcó desde la entrada de datos visuales en tabletas, el procesamiento lógico del algoritmo tricológico en el servidor, hasta la generación instantánea de expedientes y entregables en PDF para el usuario final.
+
+El modelo de negocio se estructuró bajo una teoría de organización orgánica y flexible, operando mediante teletrabajo y servicios en la nube. Inicialmente, la administración y división del trabajo recayó en un único fundador bajo la figura de Comerciante Individual, asumiendo los roles de desarrollo de software y gestión comercial, con apoyo contable externalizado. Se estableció el estricto cumplimiento de las normativas tributarias y de la Ley de Protección de Datos Personales para garantizar el resguardo y la privacidad de la información clínica en la base de datos.
+
+El presupuesto de inversión inicial ascendió a C$ 70,835.59, el cual fue financiado en su totalidad mediante fondos propios. Los indicadores financieros proyectados a cinco años demostraron una alta rentabilidad, obteniendo un Valor Actual Neto (VAN) positivo de C$ 50,030.89 y una Tasa Interna de Retorno (TIR) del 30.12%. El flujo de efectivo confirmó la viabilidad del proyecto, logrando el período de recuperación de la inversión en aproximadamente cuatro años y dos meses.
+
+La evaluación global dictaminó que la plataforma fue un proyecto tecnológicamente sostenible y de impacto ambiental positivo. Al promover una política de cero papel mediante la generación de expedientes y reportes totalmente digitales, el sistema evitó el consumo de recursos físicos y la generación de residuos sólidos en los salones de belleza.
+
+**Palabras clave:** Diagnóstico capilar, Salones de belleza, Software como Servicio (SaaS), Trazabilidad clínica, Aplicación web.
