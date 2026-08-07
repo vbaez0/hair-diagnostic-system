@@ -1,0 +1,21 @@
+¡Tienes toda la razón! En el contenido actual de tu proyecto, el Estudio de Mercado se desarrolla antes que el Estudio Técnico.
+
+Aquí tienes la **Introducción** corregida, invirtiendo el orden de esos párrafos para que refleje exactamente la secuencia que llevas en tu documento:
+
+---
+
+**Introducción**
+
+En la actualidad, el sector de los salones de belleza y centros estéticos en la ciudad de Managua presenta un rezago tecnológico en sus procesos operativos de atención clínica. El diagnóstico del estado del cabello se realiza predominantemente de forma manual, visual y empírica, dependiendo casi en su totalidad de la memoria y el criterio subjetivo del estilista de turno. Esta práctica tradicional genera inconvenientes significativos en el modelo de negocio, tales como resultados inconsistentes en las evaluaciones, recomendaciones imprecisas de productos para el cuidado en casa y la pérdida total del historial clínico-cosmético de las clientas.
+
+Para dar solución a esta problemática, el presente trabajo expone el diseño, desarrollo y estudio de prefactibilidad del “Sistema de Diagnóstico Capilar”. Esta propuesta consiste en una aplicación web interactiva diseñada para estandarizar y digitalizar el análisis de la hebra capilar mediante un motor de recomendaciones basado en reglas lógicas. Su implementación busca no solo automatizar la sugerencia de tratamientos y generar reportes profesionales en PDF, sino también garantizar la trazabilidad de los procedimientos químicos a través de la creación de un expediente digital seguro alojado en la nube.
+
+El desarrollo de este documento se estructura de forma lógica y secuencial para abarcar todos los elementos que garantizan la viabilidad del software. En el primer apartado, correspondiente a la Identificación del Proyecto, se define el problema central, los actores involucrados y los objetivos estratégicos de la investigación. Posteriormente, el Estudio de Mercado valida estadísticamente la necesidad de esta herramienta tecnológica, analiza el comportamiento de la demanda y define la estrategia comercial bajo un modelo de suscripción mensual (Software como Servicio).
+
+Más adelante, en el Estudio Técnico, se detalla la arquitectura en la nube de la aplicación, su capacidad de procesamiento y las decisiones de ingeniería de software implementadas. Seguidamente, el Plan de Producción y La Organización establecen los parámetros del servicio y el modelo administrativo descentralizado bajo el que operará la plataforma. Finalmente, el documento concluye con los Aspectos Financieros, que demuestran la alta rentabilidad económica del proyecto a lo largo de cinco años, y la Evaluación de Impacto Ambiental, la cual destaca los beneficios ecológicos de transicionar hacia un entorno operativo libre de papel.
+
+---
+
+Con este ajuste, la narrativa fluye perfectamente alineada con tu índice real.
+
+¿Continuamos con la **Declaración de originalidad**?
