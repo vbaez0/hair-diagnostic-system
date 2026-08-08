@@ -1,0 +1,116 @@
+```python
+import pandas as pd
+file_path = 'Plantilla cursograma.xlsx'
+xls = pd.ExcelFile(file_path)
+print("Sheets:", xls.sheet_names)
+df = pd.read_excel(file_path, sheet_name=xls.sheet_names[0])
+print(df.head(20))
+
+```
+
+```text
+Sheets: ['Hoja1']
+                    ID Unnamed: 1                                        SÍMBOLO   ACTIVIDAD    Actual          Propuest     Economía           Unnamed: 7  Unnamed: 8 Unnamed: 9
+0                 Ope.        NaN                                            NaN   Operación       NaN               NaN          NaN                  NaN         NaN        NaN
+1                 Ins.        NaN                                            NaN  Inspección       NaN               NaN          NaN                  NaN         NaN        NaN
+2                 Tra.        NaN                                            NaN  Transporte       NaN               NaN          NaN                  NaN         NaN        NaN
+3                 Esp.        NaN                                            NaN      Espera       NaN               NaN          NaN                  NaN         NaN        NaN
+4                 Alm.        NaN                                            NaN  Almacenaje       NaN               NaN          NaN                  NaN         NaN        NaN
+5                 Act.        NaN  Total de actividades realizadas en el proceso         NaN       NaN               NaN          NaN                  NaN         NaN        NaN
+6                 Mts.        NaN           Distancia total en metros recorridos         NaN       NaN               NaN          NaN                  NaN         NaN        NaN
+7                 Min.        NaN                          Tiempo minutos/hombre         NaN       NaN               NaN          NaN                  NaN         NaN        NaN
+8                  NaN        NaN                                            NaN         NaN       NaN               NaN          NaN                  NaN         NaN        NaN
+9     Diagrama Numero:        NaN                                            NaN         NaN    Fecha:               NaN          NaN        METODO ACTUAL         NaN        NaN
+10  Método Registrado:        NaN                                            NaN         NaN     Tipo:               NaN          NaN                  NaN         NaN        NaN
+11  Proceso Estudiado:        NaN                                            NaN         NaN       NaN               NaN          NaN  Producto Estudiado:         NaN        NaN
+12    Nombre Operador:        NaN                                            NaN         NaN       NaN               NaN          NaN                  NaN         NaN        NaN
+13    Nombre Analista:        NaN                                            NaN         NaN       NaN               NaN          NaN                 Mts:         NaN       Min:
+14            N° DIAG.    N° ACT.                        DESCRIPCIÓN DEL PROCESO         NaN  Cantidad  Distancia metros  Tiempo Seg.    SÍMBOLOS PROCESOS         NaN        NaN
+
+
+```
+
+```python
+print(df.iloc[14:20])
+
+```
+
+```text
+          ID Unnamed: 1                  SÍMBOLO ACTIVIDAD    Actual          Propuest     Economía         Unnamed: 7  Unnamed: 8 Unnamed: 9
+14  N° DIAG.    N° ACT.  DESCRIPCIÓN DEL PROCESO       NaN  Cantidad  Distancia metros  Tiempo Seg.  SÍMBOLOS PROCESOS         NaN        NaN
+
+
+```
+
+```python
+print(df.iloc[13:16, 6:])
+
+```
+
+```text
+       Economía         Unnamed: 7  Unnamed: 8 Unnamed: 9
+13          NaN               Mts:         NaN       Min:
+14  Tiempo Seg.  SÍMBOLOS PROCESOS         NaN        NaN
+
+
+```
+
+```python
+print(df.columns)
+
+```
+
+```text
+Index(['ID', 'Unnamed: 1', 'SÍMBOLO', 'ACTIVIDAD', 'Actual', 'Propuest',
+       'Economía', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9'],
+      dtype='object')
+
+
+```
+
+Analizando la estructura de la **"Plantilla cursograma.xlsx"** que me indicaste, se puede observar que el formato clásico industrial se divide en tres partes clave: un encabezado de resumen (donde se cuenta cuántas operaciones, inspecciones, etc. hay), un bloque de información general del estudio, y finalmente la matriz detallada con las columnas para marcar con una "X" el símbolo correspondiente en cada paso.
+
+Aquí tienes el Cursograma adaptado exactamente a ese formato profesional. Puedes copiar estas tablas y pegarlas directamente en la **Sección 3.29** de tu documento.
+
+### 3.29. Cursograma Analítico del Servicio
+
+**A. CUADRO DE RESUMEN**
+
+| Símbolo | Actividad | Método Propuesto |
+| --- | --- | --- |
+| **〇** | Operación | 3 |
+| **◻** | Inspección | 1 |
+| **⇨** | Transporte | 2 |
+| **D** | Espera (Demora) | 1 |
+| **▽** | Almacenaje | 1 |
+| **Act.** | **Total de actividades realizadas** | **8** |
+| **Mts.** | **Distancia total en metros recorridos** | **0** (Proceso Digital) |
+| **Seg.** | **Tiempo total (Segundos)** | **69** |
+
+---
+
+**B. IDENTIFICACIÓN DEL DIAGRAMA**
+
+| Campo | Detalle | Campo | Detalle |
+| --- | --- | --- | --- |
+| **Diagrama Número:** | 01 | **Fecha:** | 23/08/2026 |
+| **Método Registrado:** | Propuesto (Digital) | **Tipo:** | Flujo de Servicio SaaS |
+| **Proceso Estudiado:** | Diagnóstico Capilar | **Producto Estudiado:** | Aplicación Web (Reporte PDF) |
+| **Nombre Operador:** | Estilista de turno | **Nombre Analista:** | Víctor Enrique Báez López |
+
+---
+
+**C. DESCRIPCIÓN DEL PROCESO**
+
+| N° ACT. | DESCRIPCIÓN DEL PROCESO | Cantidad | Distancia (Metros) | Tiempo (Seg.) | 〇 (Ope) | ◻ (Ins) | ⇨ (Tra) | D (Esp) | ▽ (Alm) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **1** | Autenticación del estilista en el sistema | 1 | - | 10 | **X** |  |  |  |  |
+| **2** | Ingreso de parámetros capilares en la tableta | 1 | - | 30 | **X** |  |  |  |  |
+| **3** | Transmisión de la información a la nube | 1 | - | 1 |  |  | **X** |  |  |
+| **4** | Procesamiento lógico (Cruce de reglas) | 1 | - | 2 |  |  |  | **X** |  |
+| **5** | Revisión del resultado en pantalla | 1 | - | 15 |  | **X** |  |  |  |
+| **6** | Creación del expediente digital de la clienta | 1 | - | 1 |  |  |  |  | **X** |
+| **7** | Compilación y generación del reporte visual | 1 | - | 5 | **X** |  |  |  |  |
+| **8** | Envío del reporte PDF al celular de la clienta | 1 | - | 5 |  |  | **X** |  |  |
+
+Con esta presentación cumples al 100% con los estándares de ingeniería de métodos y organización de procesos (usando la plantilla clásica), demostrando a la vez que tu software moderniza y acelera el trabajo en el salón de belleza.
